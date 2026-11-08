@@ -22,6 +22,8 @@ Questa è una roadmap, **non una promessa di pubblicazione né una descrizione d
 - [ ] Aggiornare il registro per distinguere progetti dell'autore, collaborazioni in corso, progetti storicamente sviluppati con lui e applicazioni indipendenti citate a titolo informativo.
 - [ ] **Non sviluppare** marchi, bollini, marchi di certificazione, sistemi di licenza generale o altre barriere all'adozione indipendente delle idee.
 
+- [x] Rendere esplicita la [regola sul nome originale in IT/EN/ES](DENOMINAZIONE-E-ATTRIBUZIONE.md): incoraggiare altri operatori a usare denominazioni differenti, distinguendo citazione attribuita e promozione di offerte indipendenti.
+
 ## Tabella applicativa per settori di mercato — riservata all'autore
 
 **Stato: prevista, non ancora fornita o pubblicata.** Massimiliano Banini preparerà personalmente una tabella su come applicare l'Ultra-Garanzia del Prezzo Negativo nei diversi settori, con esempi concreti. **Non generare esempi settoriali attribuiti all'autore né presentare ipotesi come applicazioni documentate.**
