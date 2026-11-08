@@ -15,6 +15,10 @@ The documentation distinguishes:
 
 **Similarity alone is not proof of copying or plagiarism.** Claims about derivation or imitation should be supported by evidence rather than inferred from refund-plus-payment mechanics alone.
 
+## The original name and independent offers
+
+Banini welcomes similar independently designed guarantees **under the independent business's own commercial name**. His naming expectation is that an unrelated offer should **not be marketed as “the Negative-Price Ultra-Guarantee”**, because that is the name used in his documented original system. Accurate quotation, criticism and attributed references to the concept remain welcome. This does **not** assert an automatically enforceable exclusive right over the words. See the [multilingual naming policy](DENOMINAZIONE-E-ATTRIBUZIONE.md).
+
 ## When may a company describe a project as developed with Banini?
 
 The description requires actual collaboration, which includes:
