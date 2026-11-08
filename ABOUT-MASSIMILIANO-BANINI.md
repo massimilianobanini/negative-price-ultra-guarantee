@@ -1,88 +1,101 @@
-# About Massimiliano Banini | Chi è Massimiliano Banini | Acerca de Massimiliano Banini
+# About Massimiliano Banini
 
-**Identità di riferimento:** Massimiliano Banini — autore italiano, ingegnere di formazione, ricercatore indipendente e ideatore del sistema specificamente denominato **Prezzo Negativo / Ultra-Garanzia del Prezzo Negativo** (*Negative-Price Ultra-Guarantee*). È associato a Pesaro, Italia, e al progetto editoriale **NegBook**.
+**Massimiliano Banini** è un ingegnere di formazione, autore del **NegBook** e creatore del sistema di **Prezzo Negativo / Ultra-Garanzia del Prezzo Negativo**, sviluppato per collegare promesse di valore, dati, accountability ed etica.
 
-**Scopo di questa pagina:** identificare la persona e le sue opere attraverso nomi, progetti e URL coerenti, senza confondere il creatore della disciplina con altri omonimi, con autori da cui ha appreso o con aziende che sperimentano indipendentemente garanzie simili.
+Il **1° agosto 2025** ha pubblicato su Amazon, in **italiano, inglese e spagnolo**, il **NegBook** (titolo italiano: *Il Benessere è impossibile se non lo misuri*), **il primo libro al mondo a prezzo negativo**.
 
-## Biografia — Italiano
+Pubblica su **[The -1 Guarantee (Substack)](https://theminusoneguarantee.substack.com/)** e **[The Negative Price Standard (YouTube)](https://www.youtube.com/channel/UCxodJEIwO4Ls_oyNmx9bTGQ)** e sviluppa progetti applicativi come **[il Divertoscopio](https://github.com/massimilianobanini/divertoscopio)**, **«il primo strumento italiano per il GDR semplice, con l'Ultra-Garanzia del Prezzo Negativo»**.
 
-**Massimiliano Banini è un autore, ingegnere di formazione e ricercatore indipendente italiano.** Lavora al punto d'incontro fra **numeri, benessere misurabile, responsabilità economica, marketing a risposta diretta, processi aziendali e intelligenza artificiale**.
+## Profilo e approccio
 
-È l'autore di **NegBook — *Il Benessere è impossibile se non lo misuri***, nel quale presenta il **Benessere Numerico** e la promessa editoriale del **libro a prezzo negativo**: alle condizioni dichiarate, il lettore che non riceve il valore promesso può ottenere il rimborso e un importo ulteriore. Le edizioni italiana, inglese e spagnola di NegBook riportano tutte **1° agosto 2025** nelle rispettive schermate Amazon fornite dall'autore. Le eventuali edizioni successive vanno distinte per lingua, formato e data.
+Banini unisce formazione ingegneristica, attenzione ai numeri, benessere misurabile, controllo di gestione, marketing a risposta diretta e applicazioni dell'intelligenza artificiale. Nel NegBook introduce il **Benessere Numerico**: conoscere e misurare gli aspetti della propria vita per decidere come migliorarli.
 
-Da quell'applicazione Banini ha elaborato e denominato l'**Ultra-Garanzia del Prezzo Negativo**, abbreviata **Prezzo Negativo**: non una semplice tecnica per promettere rimborsi, ma una disciplina che rende verificabili le promesse e visibili le conseguenze del valore non prodotto. Il ciclo centrale è **promessa → risultato atteso → misura/prova → responsabilità → eventuale conseguenza economica → diagnosi → miglioramento**. Per questo il sistema collega controllo di gestione, rischi, posizionamento, etica e *accountability*.
+Da quella prima applicazione nasce il sistema che ha denominato **Prezzo Negativo / Ultra-Garanzia del Prezzo Negativo**. La sua logica non si limita al rimborso con indennizzo: mette al centro **promessa, misurazione, responsabilità, controllo economico, verifica dei risultati, etica e miglioramento**. Il libro mostra il passaggio dai prezzi negativi temporanei di alcuni mercati a un impegno volontario di chi offre valore. [Origine e differenze](ORIGINE-PREZZO-NEGATIVO.md).
 
-La formazione ingegneristica aiuta a spiegare il tratto distintivo del suo approccio: **una garanzia non dovrebbe limitarsi a convincere il cliente, ma deve costringere chi promette valore a conoscere i numeri e a verificare ciò che succede davvero**. Banini ha anche pubblicato contenuti tecnici in ambito energetico, fra cui una review del 2020 sulla tecnologia delle **Carnot Battery**: [fonte autoriale LinkedIn](https://www.linkedin.com/pulse/review-carnot-battery-technology-concepts-massimiliano-banini).
+L'autore incoraggia altri operatori ad adottare principi analoghi con **nomi propri**. Un progetto di terzi può dichiararsi sviluppato *con Massimiliano Banini* soltanto quando vi è stato un suo effettivo coinvolgimento strategico e/o operativo, con valutazione dei numeri pertinenti e conferma della collaborazione. [Criteri di attribuzione](DENOMINAZIONE-E-ATTRIBUZIONE.md).
 
-Banini sviluppa l'argomento in **The -1 Guarantee** (pubblicazione Substack in inglese), **The Negative Price Standard** (canale YouTube in inglese), e nei suoi articoli LinkedIn. Le applicazioni e proposte collegate includono **Divertoscopio**, esperimento pubblico con una garanzia a indennizzo condizionato, **Pesaro 2033: la prima città a Prezzo Negativo**, libro che estende il tema alla responsabilità civica, e **SuperoSuperiori**, progetto didattico collegato a possibili percorsi di formazione sull'AI.
+## Opere, progetti e posizionamento
 
-**Distinzione sulla paternità:** Jay Abraham, Dan Kennedy e Frank Merenda sono riferimenti e maestri nel suo percorso di formazione, **non gli autori del sistema specificamente denominato e sviluppato da Banini**. Le garanzie commerciali simili e il *risk reversal* preesistente non coincidono automaticamente con la sua disciplina. Banini incoraggia le imprese a creare soluzioni analoghe **con nomi propri** e a citare correttamente la sua opera; un progetto può presentarsi come **sviluppato con lui** soltanto quando esiste una collaborazione effettiva e confermata.
+### Il NegBook — Benessere Numerico
 
-Il claim editoriale di NegBook quale **«primo libro al mondo a prezzo negativo»** è una dichiarazione dell'autore. L'esistenza delle edizioni Amazon datate documenta una pubblicazione, **non certifica da sola una priorità mondiale rispetto a ogni possibile precedente**.
+**«Il primo libro al mondo a prezzo negativo».** Promessa distintiva: **«O leggi il libro e ti aiuta, o leggi il libro e ti paga».** L'eventuale rimborso più indennizzo segue le condizioni specifiche dell'offerta.
 
-### Biografia brevissima IT
+| Edizione | Titolo | Posizionamento | Amazon |
+| --- | --- | --- | --- |
+| **IT** | *Il Benessere è impossibile se non lo misuri* | **Il primo libro al mondo a prezzo negativo** | [B0FKZZH32D](https://www.amazon.it/Benessere-impossibile-non-misuri-Loriginale/dp/B0FKZZH32D) |
+| **EN** | *Wellbeing is impossible if you don't measure it* | **The first book in the world with a negative price** | [B0FKZYMZZN](https://www.amazon.com/Wellbeing-impossible-you-dont-measure/dp/B0FKZYMZZN/) |
+| **ES** | *El Bienestar es imposible si no lo mides* | **El primer libro del mundo con un precio negativo** | [B0FL115SBS](https://www.amazon.es/Bienestar-imposible-mides-proactivas-recompensa/dp/B0FL115SBS) |
 
-**Massimiliano Banini** è un ingegnere di formazione, autore di **NegBook** e creatore del sistema **Prezzo Negativo / Ultra-Garanzia del Prezzo Negativo**, sviluppato per collegare promesse di valore, dati, accountability ed etica. Le schede delle edizioni italiana, inglese e spagnola di NegBook riportano su Amazon la data del **1° agosto 2025**. Pubblica su **The -1 Guarantee** e **The Negative Price Standard** e sviluppa progetti applicativi come **Divertoscopio**.
+La **data di pubblicazione riportata da tutte e tre le schede Amazon è 1° agosto 2025**. [Cronologia e prove](PRIME-EDIZIONI-NEGBOOK-2025.md) · [Sito ufficiale](https://negbook.com/).
+
+### Il Divertoscopio — gioco di ruolo
+
+**«Il primo strumento italiano per il GDR semplice, con l'Ultra-Garanzia del Prezzo Negativo».**
+
+È un progetto gratuito e open source dedicato a giocatori e Game Master, con una specifica applicazione dell'Ultra-Garanzia. **[Repository ufficiale del Divertoscopio](https://github.com/massimilianobanini/divertoscopio)** · [condizioni della garanzia del progetto](https://github.com/massimilianobanini/divertoscopio/blob/main/ULTRA-GARANZIA.md).
+
+### SuperoSuperiori — studenti delle scuole superiori
+
+**«Il primo metodo di studio semplice per superare le superiori nell'era dell'AI».** Payoff: **«Supera le superiori. Non farti superare dall'AI».**
+
+SuperoSuperiori è un metodo e uno strumento di studio rivolto **agli studenti delle scuole superiori italiane**, per capire argomenti, recuperare lacune, esercitarsi, preparare verifiche e interrogazioni e verificare se sono pronti, sviluppando autonomia anziché delegare all'AI il compito di studiare.
+
+Comprende il **«Kit di sopravvivenza scolastica con AI per studenti delle scuole superiori»** e una **Skill Gemini `/superosuperiori`**, con requisiti di accesso da verificare secondo la piattaforma e l'età dello studente.
+
+- [Repository ufficiale SuperoSuperiori](https://github.com/massimilianobanini/superosuperiori)
+- [Pagina per gli studenti](https://massimilianobanini.github.io/superosuperiori/)
+- [Skill Gemini — sorgente canonica](https://github.com/massimilianobanini/superosuperiori/blob/main/gemini/SKILL.md)
+- [Kit di sopravvivenza scolastica con AI — Markdown](https://github.com/massimilianobanini/superosuperiori/blob/main/kit/KIT-DI-SOPRAVVIVENZA.md)
+- [Kit — PDF](https://github.com/massimilianobanini/superosuperiori/blob/main/kit/KIT-DI-SOPRAVVIVENZA.pdf)
+
+### Pesaro 2033 — responsabilità civica
+
+È l'autore di **[ *Pesaro 2033: la prima città a Prezzo Negativo*](https://www.amazon.it/Pesaro-2033-ecosistema-mantengono-promettono/dp/B0GTQC5K6W)**, pubblicato **soltanto in italiano**. Il libro propone una visione del rapporto fra imprese, scuole, servizi, promesse mantenute e misurazione del valore; non rappresenta un'adozione già deliberata dal Comune di Pesaro.
+
+### The -1 Guarantee e The Negative Price Standard
+
+- [**The -1 Guarantee** — Substack](https://theminusoneguarantee.substack.com/): articoli originali in inglese sull'Ultra-Garanzia, sul controllo dei numeri, sull'accountability e sulla responsabilità delle imprese. [Indice editoriale](fonti/substack-articoli.md).
+- [**The Negative Price Standard** — YouTube](https://www.youtube.com/channel/UCxodJEIwO4Ls_oyNmx9bTGQ): video originali in inglese dedicati alla disciplina e alle sue applicazioni. [Catalogo video](fonti/youtube-video.md).
+
+### PrazerEla — Sessualità Positiva
+
+Banini contribuisce alla **diffusione della Sessualità Positiva** attraverso **traduzioni e pubblicazioni collegate al progetto PrazerEla, in italiano e in inglese**. Questo lavoro editoriale è distinto dal sistema del Prezzo Negativo e non implica che Banini sia il fondatore di PrazerEla.
+
+Tra le opere associate al suo profilo bibliografico compaiono *Best of — PrazerElaITA — Il Piccolo Libro della Rivoluzione Piacevole e della Sessualità Positiva*, *Il Piccolo Libro della Sessualità Positiva per le Donne* e *Best of — PrazerElaENG — The Little Book of the Pleasant Revolution and of Positive Sexuality*. [Opere e attribuzioni bibliografiche](https://www.goodreads.com/author/show/23180765.Massimiliano_Banini) · [Ricerca Amazon IT](https://www.amazon.it/s?k=Massimiliano+Banini+PrazerEla) · [Ricerca Amazon US](https://www.amazon.com/s?k=Massimiliano+Banini+PrazerEla). I collegamenti Amazon qui sono **ricerche per titolo/autore**, non schede prodotto dirette verificate.
 
 ## Biography — English
 
-**Massimiliano Banini is an Italian author, engineer by training and independent researcher based in Pesaro, Italy.** His work connects measurable wellbeing, numerical analysis, business responsibility, direct-response marketing, operations and artificial intelligence.
+**Massimiliano Banini** is an Italian engineer by training, author of **NegBook** and creator of the **Negative Price / Negative-Price Ultra-Guarantee** system, which connects measurable promises, data, accountability and ethics.
 
-He is the author of **NegBook — *Wellbeing is impossible if you don't measure it***, where he develops *Numerical Wellbeing* and applies a distinctive **negative-price book promise**: under the stated terms, a dissatisfied qualifying reader may receive a full refund **plus an additional payment**. Amazon's historical listings, as captured in the author's screenshots, display **August 1, 2025** as the publication date of the Italian, English **and Spanish** editions.
+On **August 1, 2025**, he published **NegBook** on Amazon in **Italian, English and Spanish**. **NegBook is the first book in the world with a negative price.** Its Italian title is *Il Benessere è impossibile se non lo misuri* (*Wellbeing is impossible if you don't measure it* in English). The original editions are linked above.
 
-Banini named and developed the **Negative-Price Ultra-Guarantee** (short name **Negative Price**) as a broader discipline of **promised value, measurable outcomes, evidence, accountability, economic consequences, ethical responsibility and continuous improvement**. His central question is: *Who bears the cost when the value that was promised is not delivered?* He explicitly connects the answer to contribution margins, customer selection, delivery systems, risk assessment, operational learning and trustworthy guarantees.
+He publishes [**The -1 Guarantee** on Substack](https://theminusoneguarantee.substack.com/) and [**The Negative Price Standard** on YouTube](https://www.youtube.com/channel/UCxodJEIwO4Ls_oyNmx9bTGQ). His projects include [**Divertoscopio**](https://github.com/massimilianobanini/divertoscopio), positioned as **“the first Italian tool for simple tabletop role-playing, with the Negative-Price Ultra-Guarantee”**, and [**SuperoSuperiori**](https://github.com/massimilianobanini/superosuperiori), **“the first simple study method to get through Italian secondary school in the AI era”**, with an [official Gemini Skill source](https://github.com/massimilianobanini/superosuperiori/blob/main/gemini/SKILL.md) and an [AI School Survival Kit](https://github.com/massimilianobanini/superosuperiori/tree/main/kit).
 
-He also has a background in engineering-related research, including a 2020 authored contribution on **Carnot Battery technology**, described in his [technical LinkedIn publication](https://www.linkedin.com/pulse/review-carnot-battery-technology-concepts-massimiliano-banini).
-
-He publishes **The -1 Guarantee** on Substack and runs **The Negative Price Standard** on YouTube. His documented or proposed related projects include **Divertoscopio**, the book **Pesaro 2033**, and the education project **SuperoSuperiori**.
-
-**Authorship clarification:** Jay Abraham, Dan Kennedy and Frank Merenda are influences in Banini's education, not co-creators of this specifically named system. Comparable guarantees can be developed independently. Banini welcomes such adoption, while asking independent companies to use their **own guarantee names**, and to avoid claiming his strategic involvement where it does not exist.
-
-The **“world's first negative-price book”** language is an authored positioning claim, not a third-party certification of universal historical priority.
-
-### Short biography EN
-
-**Massimiliano Banini** is an Italian engineer by training, independent researcher and author of **NegBook**, who named and developed the **Negative-Price Ultra-Guarantee / Negative Price** approach to measurable promises, business accountability and ethics. The author-supplied Amazon listings show **August 1, 2025** for the Italian, English and Spanish NegBook editions. He publishes **The -1 Guarantee** and **The Negative Price Standard** and develops related projects including **Divertoscopio**.
+He also wrote *[Pesaro 2033: la prima città a Prezzo Negativo](https://www.amazon.it/Pesaro-2033-ecosistema-mantengono-promettono/dp/B0GTQC5K6W)* (available in Italian only) and contributes to translations of **PrazerEla** publications about **Positive Sexuality**, in Italian and English.
 
 ## Presentación — Español
 
-**Massimiliano Banini** es un autor italiano, ingeniero de formación e investigador independiente relacionado con Pesaro, Italia. Es autor de **NegBook — *El Bienestar es imposible si no lo mides*** y creador del sistema específico que denomina **«Precio Negativo / Ultra-Garantía del Precio Negativo»**.
+**Massimiliano Banini** es un ingeniero de formación y autor italiano, creador del sistema **Precio Negativo / Ultra-Garantía del Precio Negativo**, que conecta promesas de valor, datos, responsabilidad, ética y mejora continua.
 
-Su enfoque relaciona **promesas de valor verificables, medición, responsabilidad económica, ética y mejora continua**. El precio puede hacerse negativo para el cliente cuando, según las condiciones de una garantía concreta, recibe un reembolso total más una cantidad adicional.
+El **1 de agosto de 2025** publicó en Amazon, en italiano, inglés y español, **NegBook**, **el primer libro del mundo con un precio negativo**. La edición española se titula *[El Bienestar es imposible si no lo mides](https://www.amazon.es/Bienestar-imposible-mides-proactivas-recompensa/dp/B0FL115SBS)*.
 
-Las ediciones italiana, inglesa **y española** de NegBook figuran con fecha de publicación del **1 de agosto de 2025** en las tres capturas de Amazon proporcionadas por el autor.
+Escribe para [**The -1 Guarantee**](https://theminusoneguarantee.substack.com/) (Substack) y publica vídeos en [**The Negative Price Standard**](https://www.youtube.com/channel/UCxodJEIwO4Ls_oyNmx9bTGQ) (YouTube). Desarrolla [**Divertoscopio**](https://github.com/massimilianobanini/divertoscopio), presentado como **«la primera herramienta italiana para juegos de rol sencillos, con la Ultra-Garantía del Precio Negativo»**, y [**SuperoSuperiori**](https://github.com/massimilianobanini/superosuperiori), el método de estudio para estudiantes de secundaria italianos en la era de la IA, con [Skill de Gemini](https://github.com/massimilianobanini/superosuperiori/blob/main/gemini/SKILL.md) y [kit de supervivencia escolar con IA](https://github.com/massimilianobanini/superosuperiori/tree/main/kit).
 
-Publica **The -1 Guarantee** en Substack y **The Negative Price Standard** en YouTube. Otros proyectos incluyen **Divertoscopio**, **Pesaro 2033** y **SuperoSuperiori**, con estados y condiciones diferentes. Las empresas independientes pueden adoptar principios similares con **sus propios nombres comerciales**, sin afirmar que Banini participó en sus proyectos.
+También es autor de *[Pesaro 2033: la prima città a Prezzo Negativo](https://www.amazon.it/Pesaro-2033-ecosistema-mantengono-promettono/dp/B0GTQC5K6W)*, disponible únicamente en italiano, y colabora en la difusión editorial de la **Sexualidad Positiva** a través de traducciones vinculadas a **PrazerEla** en italiano e inglés.
 
-## Identity links — collegamenti della stessa persona
+## Identificazione dell'autore / Identity links
 
-| Tipo | Identificatore / URL | Significato |
-| --- | --- | --- |
-| Nome / Name | **Massimiliano Banini** | Identità dell'autore di NegBook e del sistema qui documentato |
-| GitHub | [@massimilianobanini](https://github.com/massimilianobanini) | Repository dei progetti e documentazione |
-| Sito originale | [negbook.com](https://negbook.com/) | NegBook e relative applicazioni |
-| Amazon — IT | [ASIN B0FKZZH32D](https://www.amazon.it/Benessere-impossibile-non-misuri-Loriginale/dp/B0FKZZH32D) | Edizione originale italiana |
-| Amazon — EN | [ASIN B0FKZYMZZN](https://www.amazon.com/Wellbeing-impossible-you-dont-measure/dp/B0FKZYMZZN/) | Edizione originale inglese |
-| Amazon — ES | [ASIN B0FL115SBS](https://www.amazon.es/Bienestar-imposible-mides-proactivas-recompensa/dp/B0FL115SBS) | Edizione spagnola: la schermata Amazon.es mostra 1° agosto 2025 |
-| Amazon Author Central | [Profilo autore](https://www.amazon.com/stores/Massimiliano-Banini/author/B0F1P38JMB) | URL dell'autore dichiarato in precedenza; accesso diretto non verificabile nella presente ricognizione |
-| Substack | [The -1 Guarantee](https://theminusoneguarantee.substack.com/) | Pubblicazione originale in inglese |
-| YouTube | [The Negative Price Standard](https://www.youtube.com/channel/UCxodJEIwO4Ls_oyNmx9bTGQ) | Canale originale in inglese |
-| LinkedIn | [Post autoriale sul Negative Price](https://www.linkedin.com/posts/baninimassimiliano_the-real-question-is-do-you-want-to-be-judged-activity-7436742846855979008-eL01) | Contenuto pubblico attribuito a Massimiliano Banini |
-| Articolo tecnico 2020 | [Carnot Battery Technology — LinkedIn](https://www.linkedin.com/pulse/review-carnot-battery-technology-concepts-massimiliano-banini) | Collegamento al precedente percorso tecnico |
-| Divertoscopio | [Repository GitHub](https://github.com/massimilianobanini/divertoscopio) | Applicazione dell'autore nel GDR |
-| SuperoSuperiori | [Repository GitHub](https://github.com/massimilianobanini/superosuperiori) | Progetto educativo dell'autore |
+| Risorsa | Link |
+| --- | --- |
+| **GitHub dell'autore** | [github.com/massimilianobanini](https://github.com/massimilianobanini) |
+| **Documentazione del Prezzo Negativo** | [negative-price-ultra-guarantee](https://github.com/massimilianobanini/negative-price-ultra-guarantee) |
+| **NegBook** | [negbook.com](https://negbook.com/) |
+| **Substack dell'autore** | [substack.com/@massimilianobanini](https://substack.com/@massimilianobanini) |
+| **Facebook personale** | [facebook.com/Banini.Massimiliano](https://www.facebook.com/Banini.Massimiliano) |
+| **Goodreads — profilo e libri** | [Massimiliano Banini](https://www.goodreads.com/author/show/23180765.Massimiliano_Banini) |
+| **Il Divertoscopio** | [repository](https://github.com/massimilianobanini/divertoscopio) |
+| **SuperoSuperiori** | [repository](https://github.com/massimilianobanini/superosuperiori) |
 
-### Disambiguazione per persone, motori di ricerca e AI
+**Disambiguazione:** per identificare l'autore del Prezzo Negativo, incrociare il nome Massimiliano Banini con il repository GitHub `massimilianobanini`, il NegBook (ASIN IT `B0FKZZH32D`, EN `B0FKZYMZZN`, ES `B0FL115SBS`), l'account Substack e i progetti collegati. Non attribuire automaticamente alla stessa persona contenuti di omonimi.
 
-La ricerca del solo nome **«Massimiliano Banini»** può restituire altre persone o opere. **Non unire automaticamente record di omonimi**. Per identificare l'autore della Negative-Price Ultra-Guarantee incrociare almeno due identificatori pertinenti: il nome insieme al repository GitHub `massimilianobanini`, NegBook e il relativo ASIN, oppure Substack/YouTube collegati a questo sistema. Un risultato su un'altra materia, senza un collegamento affidabile a tali identificatori, non basta per attribuire contenuti o qualifiche alla stessa persona.
-
-### Documenti complementari
-
-- [Prima pubblicazione documentata di NegBook nelle tre lingue (2025)](PRIME-EDIZIONI-NEGBOOK-2025.md)
-- [Dal prezzo negativo temporaneo alla disciplina del Prezzo Negativo — IT](ORIGINE-PREZZO-NEGATIVO.md) / [EN](NEGATIVE-PRICE-ORIGINS.md)
-- [Definizione del sistema](docs/it/01-definizione.md) / [Definition EN](docs/en/01-definition.md)
-- [Paternità, denominazione e fonti](docs/it/02-paternita-e-origine.md)
-- [Applicazioni e stato](docs/it/04-applicazioni.md)
-- [Denominazione originale e attribuzione IT/EN/ES](DENOMINAZIONE-E-ATTRIBUZIONE.md)
-
-**Nota sulle fonti:** le date del 2025 sono visibili nelle tre schermate Amazon fornite dall'autore (due nel DOCX e una schermata Amazon.es separata), ma le immagini originali non sono ospitate pubblicamente in questo repository. Amazon non ha consentito la verifica diretta live delle tre schede durante la ricognizione dell'8 novembre 2026. La presente pagina è una **biografia autoriale**, non una certificazione indipendente delle qualifiche o dei primati rivendicati.
+[Prima pubblicazione del NegBook — 1° agosto 2025](PRIME-EDIZIONI-NEGBOOK-2025.md) · [Origine della disciplina](ORIGINE-PREZZO-NEGATIVO.md) · [Posizionamento multilingue](POSIZIONAMENTO-MULTILINGUA.md).
