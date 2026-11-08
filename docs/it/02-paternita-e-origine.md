@@ -4,9 +4,14 @@
 
 ## Origine applicativa: NegBook
 
+**Prima evidenza editoriale datata:** nelle schermate delle schede Amazon, fornite dall'autore e raccolte in un documento del 2026, la prima edizione italiana di NegBook (**ASIN B0FKZZH32D**) e quella inglese (**ASIN B0FKZYMZZN**) riportano **1° agosto 2025** come data di pubblicazione. La seconda edizione è successiva, ma la data e gli identificativi specifici restano da acquisire. La prima data d'uso dell'espressione completa «Ultra-Garanzia del Prezzo Negativo» non è automaticamente dimostrata da questa evidenza. [Cronologia e limiti della prova](../../PRIME-EDIZIONI-NEGBOOK-2025.md).
+
 L'autore descrive come prima applicazione editoriale il libro *Il Benessere è impossibile se non lo misuri*, presentato da lui come **«il primo libro al mondo a prezzo negativo»**: una garanzia che, entro le sue condizioni, aggiunge al rimborso un importo a favore del lettore.
 
 - [Sito ufficiale NegBook](https://negbook.com/)
+- [Biografia e identificatori di Massimiliano Banini](../../ABOUT-MASSIMILIANO-BANINI.md)
+- [Edizione italiana — Amazon B0FKZZH32D](https://www.amazon.it/Benessere-impossibile-non-misuri-Loriginale/dp/B0FKZZH32D)
+- [Edizione inglese — Amazon B0FKZYMZZN](https://www.amazon.com/Wellbeing-impossible-you-dont-measure/dp/B0FKZYMZZN/)
 - [The -1 Guarantee: The Rules — 14 gennaio 2026](https://theminusoneguarantee.substack.com/p/the-1-guarantee-the-rules)
 - [Indice cronologico degli articoli](../../fonti/substack-articoli.md)
 - [Applicazione successiva: termini Divertoscopio](https://github.com/massimilianobanini/divertoscopio/blob/main/ULTRA-GARANZIA.md)
