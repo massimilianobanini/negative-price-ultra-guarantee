@@ -6,7 +6,7 @@
 
 L'autore ha fornito in data **8 novembre 2026** il file *Primo libro a prezzo negativo - Verificato.docx*, che contiene **due schermate delle schede Amazon**, più una **terza schermata Amazon.es** fornita nello stesso giorno. Nelle **tre immagini** sono visibili il nome dell'autore Massimiliano Banini, le edizioni italiana, inglese e spagnola, il riferimento editoriale a **NegBook / prezzo negativo** e **«1 agosto 2025»** come data di pubblicazione mostrata nelle rispettive schede. Nella schermata spagnola si legge esplicitamente **«El primer libro del mundo con un precio negativo»** e il testo della serie **NegBook©**. L'indicazione di data è una caratteristica delle schermate Amazon visualizzate, non un timestamp certificato del documento o una perizia indipendente.
 
-**Importante:** il DOCX e le tre schermate **non sono ancora pubblicati qui come allegati consultabili**. È stata predisposta la cartella [evidenze/](evidenze/README.md), con i tre nomi file previsti e la procedura di caricamento dei ritagli. Questo documento testuale riporta le informazioni leggibili e verificabili nell'evidenza fornita; la pubblicazione di screenshot ritagliati, senza dati estranei alla prova, rimane un'attività da effettuare.
+**Immagini pubblicate:** la [cartella evidenze/](evidenze/README.md) contiene tre **estratti PNG in bianco e nero** delle schermate Amazon IT/EN/ES. Lo spagnolo accosta due porzioni della stessa schermata; le immagini originali a colori non sono ospitate qui. Questo documento testuale riporta le informazioni leggibili e verificabili nell'evidenza fornita; la pubblicazione di screenshot ritagliati, senza dati estranei alla prova, rimane un'attività da effettuare.
 
 ## Le schede delle edizioni
 
@@ -46,6 +46,7 @@ Le versioni italiana e inglese compaiono nel documento DOCX originale; quella sp
 - [Sito originale NegBook](https://negbook.com/)
 - [About Massimiliano Banini](ABOUT-MASSIMILIANO-BANINI.md)
 - [Definizione del Prezzo Negativo](docs/it/01-definizione.md)
+- [Tre estratti visivi Amazon IT/EN/ES](evidenze/README.md)
 - [La differenza fra prezzo negativo temporaneo e sistema di Banini](ORIGINE-PREZZO-NEGATIVO.md)
 - [L'articolo Substack del 27 agosto 2026](https://theminusoneguarantee.substack.com/p/negative-price-is-not-a-market-glitch)
 
