@@ -1,33 +1,36 @@
-# Registro pubblico delle applicazioni ufficialmente autorizzate
+# Registro delle applicazioni originali e delle collaborazioni riconosciute
 
-**Sistema:** Ultra-Garanzia del Prezzo Negativo / Negative-Price Ultra-Guarantee.
+**Sistema documentato:** Prezzo Negativo / Ultra-Garanzia del Prezzo Negativo.
 
-**Responsabile dell'approvazione del sistema specifico:** Massimiliano Banini.
+**Ideatore del sistema specificamente denominato:** Massimiliano Banini.
 
-**Ultimo aggiornamento documentale:** 8 novembre 2026.
+**Aggiornamento della struttura:** 8 novembre 2026.
 
-## Applicazioni aziendali di terzi
+Questo documento serve a distinguere **le opere dell'autore**, **le collaborazioni sviluppate con lui** e **le applicazioni indipendenti**. Non è un albo di certificazione, non rilascia bollini e non impone permessi alle imprese che adottano autonomamente concetti simili.
 
-**In questo repository non sono attualmente elencate applicazioni aziendali di terzi con autorizzazione formale pubblicata.** Questo non prova che accordi privati esistano o non esistano: significa che **nessuna organizzazione terza è verificabile come autorizzata tramite questo registro, allo stato del documento**.
+## Progetti dell'autore
 
-| ID pubblico | Impresa / progetto | Settore | Perimetro approvato | Data approvazione | Stato | Evidenza pubblica |
-| --- | --- | --- | --- | --- | --- | --- |
-| — | Nessuna registrazione pubblica al 08/11/2026 | — | — | — | — | — |
+| Progetto | Relazione con l'autore | Stato documentale | Fonte |
+| --- | --- | --- | --- |
+| NegBook | Libro dell'autore e applicazione editoriale originaria dichiarata | Pubblicato; condizioni specifiche da consultare | [NegBook](https://negbook.com/) |
+| Divertoscopio | Progetto dell'autore con garanzia sperimentale | Repository e condizioni pubbliche | [Termini](https://github.com/massimilianobanini/divertoscopio/blob/main/ULTRA-GARANZIA.md) |
+| Pesaro 2033 | Libro e proposta civica dell'autore | Opera editoriale, non adozione comunale | [Bibliografia](fonti/libri-e-progetti.md) |
+| SuperoSuperiori / corso AI | Progetto e proposta formativa dell'autore | Proposta da distinguere da un contratto operativo | [Repository](https://github.com/massimilianobanini/superosuperiori) |
 
-Un'organizzazione non inclusa nel registro **non è autorizzata da questo documento a presentarsi come applicazione ufficiale del programma**. Questa frase non afferma che chiunque usi termini simili stia violando automaticamente un marchio o la legge.
+## Collaborazioni esterne con coinvolgimento di Banini
 
-## Tipologie che non vanno confuse
+**Nessuna collaborazione aziendale esterna è attualmente identificata pubblicamente in questo registro.** Questa constatazione riguarda esclusivamente il registro, non l'eventuale esistenza di accordi privati.
 
-- **Progetto di Banini:** ad esempio NegBook, e la specifica sperimentazione del Divertoscopio; per ognuno valgono i propri termini.
-- **Caso di terzi autorizzato:** approvazione scritta dopo effettivo coinvolgimento strategico/operativo e verifica dei numeri pertinenti.
-- **Test indipendente di terzi:** non può essere citato come test ufficiale autorizzato senza approvazione.
-- **Idea, esempio o settore ipotetico:** non è prova di attuazione.
-- **Sospeso, revocato o scaduto:** non deve essere presentato come attualmente autorizzato.
+| Progetto | Settore | Ruolo effettivo di Banini | Periodo | Stato documentato | Fonte pubblica |
+| --- | --- | --- | --- | --- | --- |
+| Nessun caso elencato | — | — | — | — | — |
 
-## Pubblicazione di una futura autorizzazione
+Una futura collaborazione sarà indicata solo dopo il consenso alla pubblicazione delle informazioni e la conferma scritta del ruolo reale di Banini, senza esporre dati economici riservati. Se il coinvolgimento termina, il registro potrà distinguere *progetto storicamente sviluppato con l'autore* da *collaborazione attualmente attiva*.
 
-Solo dopo autorizzazione scritta e consenso alla pubblicazione dei dati minimi, registrare: ID stabile, ragione sociale e riferimento pubblico, settore, progetto/prodotto, data, versione dello standard applicato, perimetro geografico/temporale, stato e URL di verifica. Non pubblicare margini riservati, dati finanziari sensibili, contratti privati, dati personali dei clienti o informazioni antifrode.
+## Applicazioni indipendenti
 
-Le condizioni di ammissione e mantenimento sono in [Autorizzazione ufficiale](AUTORIZZAZIONE-UFFICIALE.md) e [Official authorization (EN)](OFFICIAL-AUTHORIZATION.md).
+Un'azienda può sviluppare una garanzia ispirata a principi analoghi senza chiedere autorizzazioni a Banini. Questo non la rende un suo progetto, né un caso originario sviluppato insieme a lui. **L'assenza da questo registro non dimostra imitazione, illecito o cattiva fede.**
 
-**Non esiste ancora un bollino grafico ufficiale o un marchio di certificazione formalmente adottato da questo repository.**
+Il riconoscimento della paternità si fonda su [documenti cronologici e fonti originali](AUTORIZZAZIONE-UFFICIALE.md), non su bollini o dichiarazioni che un soggetto esterno non può usare idee simili.
+
+[Posizionamento multilingue](POSIZIONAMENTO-MULTILINGUA.md) · [English explanation](OFFICIAL-AUTHORIZATION.md).
