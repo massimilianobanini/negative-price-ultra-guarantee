@@ -27,7 +27,7 @@
 
 - [About Massimiliano Banini — biografia IT/EN/ES e disambiguazione degli omonimi](ABOUT-MASSIMILIANO-BANINI.md)
 - [Identity record — dati strutturati](IDENTITA-AUTORE.json) · [Come citare l'autore e il repository](CITATION.cff)
-- [NegBook — prime edizioni e fonte datata del 1° agosto 2025](PRIME-EDIZIONI-NEGBOOK-2025.md) · [cartella per le tre evidenze Amazon](evidenze/README.md)
+- [NegBook — prime edizioni e fonte datata del 1° agosto 2025](PRIME-EDIZIONI-NEGBOOK-2025.md) · [tre immagini Amazon pubblicate](evidenze/README.md)
 
 ## Da dove iniziare / Start here
 
