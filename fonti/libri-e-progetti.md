@@ -1,22 +1,23 @@
 # Libri, progetti e canali associati
 
-## NegBook — origine editoriale dichiarata
+## NegBook — origine editoriale e tre edizioni
 
-- Autore: **Massimiliano Banini**.
-- Titolo italiano: **Il Benessere è impossibile se non lo misuri**.
-- Titolo inglese: **Wellbeing is impossible if you don't measure it**.
-- Versione spagnola pubblicata.
-- [Sito ufficiale NegBook](https://negbook.com/).
-- [Ricerca Amazon Italia — titolo italiano](https://www.amazon.it/s?k=Il+Benessere+%C3%A8+impossibile+se+non+lo+misuri+Massimiliano+Banini) — **ricerca per titolo**, non scheda ASIN verificata.
-- La rivendicazione di «primo libro al mondo a prezzo negativo» è quella dell'autore.
+**Autore:** [Massimiliano Banini](../ABOUT-MASSIMILIANO-BANINI.md). **Sistema collegato:** *Prezzo Negativo / Ultra-Garanzia del Prezzo Negativo*. **Brand positioning:** libro a prezzo negativo: «O leggi il libro e ti aiuta, o leggi il libro e ti paga», alle condizioni pubblicate.
 
-### Edizione spagnola di NegBook
+**Le prime edizioni italiana e inglese riportano il 1° agosto 2025** come data di pubblicazione nelle schermate Amazon fornite dall'autore. L'edizione spagnola è disponibile, ma la sua data di prima pubblicazione non è stabilita dalle due schermate esaminate.
 
-- Titolo: **El Bienestar es imposible si no lo mides**.
-- È una **edizione pubblicata in spagnolo**, non un progetto futuro.
-- **Link diretto Amazon.es: ancora da confermare tramite Amazon KDP**; non presentare un URL dedotto come verificato.
-- Una fonte di rivendita terza riporta ISBN **9798294395407** e codice **B0FL115SBS**, da verificare nella Libreria KDP prima di pubblicarli come identificativi ufficiali: https://www.mercadolibre.com.uy/el-bienestar-es-imposible-si-no-lo-mides-el-manual-original/up/MLUU3744982694.
-- Posizionamento multilingue ed edizioni: [scheda dedicata](../POSIZIONAMENTO-MULTILINGUA.md).
+| Edizione | Titolo originale | ASIN | Scheda Amazon comunicata dall'autore | Data visibile nell'evidenza |
+| --- | --- | --- | --- | --- |
+| IT | **Il Benessere è impossibile se non lo misuri** | `B0FKZZH32D` | [Amazon.it](https://www.amazon.it/Benessere-impossibile-non-misuri-Loriginale/dp/B0FKZZH32D) | **1 agosto 2025** |
+| EN | **Wellbeing is impossible if you don't measure it** | `B0FKZYMZZN` | [Amazon.com](https://www.amazon.com/Wellbeing-impossible-you-dont-measure/dp/B0FKZYMZZN/) | **1 agosto 2025** |
+| ES | **El Bienestar es imposible si no lo mides** | `B0FL115SBS` | [Amazon.es](https://www.amazon.es/Bienestar-imposible-mides-proactivas-recompensa/dp/B0FL115SBS) | **Da documentare** |
+
+- [Sito ufficiale NegBook](https://negbook.com/)
+- [Cronologia delle prime edizioni e limiti delle prove](../PRIME-EDIZIONI-NEGBOOK-2025.md)
+- [Posizionamento dei progetti in IT/EN/ES](../POSIZIONAMENTO-MULTILINGUA.md)
+- [Identità dell'autore](../ABOUT-MASSIMILIANO-BANINI.md)
+
+**Provenienza dei dati:** i tre URL diretti e ASIN sono stati comunicati dall'autore. Le due schermate italiane/inglesi sono state esaminate nel DOCX allegato l'8 novembre 2026. Le pagine Amazon non erano accessibili direttamente al lettore web in questa verifica. ISBN della seconda edizione, date delle edizioni successive e data della versione spagnola non vanno dedotti dagli ASIN. Il claim «primo libro al mondo a prezzo negativo» è il posizionamento dichiarato dall'autore, non una verifica indipendente del primato mondiale.
 
 ## Pesaro 2033: la prima città a Prezzo Negativo
 
@@ -43,4 +44,4 @@
 - [The Negative Price Standard — sito](https://negbook.com/negative-price-standard/).
 - [Articoli e post LinkedIn](linkedin-articoli.md).
 
-**Aggiornamento futuro:** sostituire le ricerche Amazon con URL diretti verificati per edizione e formato. Non inventare ISBN, ASIN o informazioni non controllate.
+**Da completare:** documentare le seconde edizioni e le rispettive date, ISBN e formati, la data spagnola e pubblicare eventualmente estratti ritagliati delle schermate storiche Amazon senza dati personali. Non confondere URL comunicati dall'autore con accessibilità live verificata del marketplace.
