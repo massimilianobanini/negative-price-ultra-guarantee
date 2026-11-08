@@ -27,6 +27,8 @@ Questo documento serve a distinguere **le opere dell'autore**, **le collaborazio
 
 Una futura collaborazione sarà indicata solo dopo il consenso alla pubblicazione delle informazioni e la conferma scritta del ruolo reale di Banini, senza esporre dati economici riservati. Se il coinvolgimento termina, il registro potrà distinguere *progetto storicamente sviluppato con l'autore* da *collaborazione attualmente attiva*.
 
+**Nota sulla denominazione:** un progetto sviluppato con Banini può concordare con lui l'uso del nome originale «Ultra-Garanzia del Prezzo Negativo». Un progetto indipendente è invitato a scegliere una propria denominazione, senza creare confusione sulla collaborazione. Vedi [criteri sul nome e sull'attribuzione](DENOMINAZIONE-E-ATTRIBUZIONE.md). Non si presume che qualsiasi impiego della stessa espressione sia automaticamente illecito.
+
 ## Applicazioni indipendenti
 
 Un'azienda può sviluppare una garanzia ispirata a principi analoghi senza chiedere autorizzazioni a Banini. Questo non la rende un suo progetto, né un caso originario sviluppato insieme a lui. **L'assenza da questo registro non dimostra imitazione, illecito o cattiva fede.**
