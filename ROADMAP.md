@@ -12,19 +12,20 @@ Questa è una roadmap, **non una promessa di pubblicazione né una descrizione d
 - [ ] Mantenere indici editoriali e fonti multilingue sincronizzati, registrando lo stato della verifica.
 - [ ] Misurare effettiva indicizzazione e correttezza delle citazioni da parte delle AI senza assumere che i contenuti pubblici vengano automaticamente recuperati.
 
-## Programma di autorizzazione — da formalizzare
+## Paternità, riconoscimento e collaborazioni originali
 
-- [x] Pubblicare la [politica di autorizzazione ufficiale](AUTORIZZAZIONE-UFFICIALE.md) e il [registro](REGISTRO-AUTORIZZAZIONI.md).
-- [ ] Far verificare da un consulente qualificato la strategia di tutela delle denominazioni e dell'eventuale logo: ricerche di anteriorità, distintività, classi, marchio individuale e/o altre strutture; **non dichiarare una registrazione non avvenuta**.
-- [ ] Predisporre **un accordo scritto per ogni impresa terza**, con perimetro, presenza operativa/strategica dell'autore, accesso ai numeri, controlli, responsabilità, obblighi informativi, uso delle denominazioni e revoca.
-- [ ] Solo dopo la definizione del sistema, valutare l'eventuale **contrassegno di applicazione autorizzata**; evitare di chiamarlo «marchio di certificazione» senza aver soddisfatto requisiti giuridici specifici.
-- [ ] Per ogni partner approvato, registrare il progetto nel [registro delle autorizzazioni](REGISTRO-AUTORIZZAZIONI.md) con la minima evidenza pubblicabile.
-- [ ] Stabilire un audit dei KPI e dei reclami con dati riservati e registrazione pubblica dello stato, senza esporre conti aziendali o dati personali.
+- [x] Pubblicare la [politica di attribuzione e collaborazione](AUTORIZZAZIONE-UFFICIALE.md) e il [registro delle opere originali e dei progetti sviluppati con l'autore](REGISTRO-AUTORIZZAZIONI.md).
+- [ ] Completare una **cronologia con fonti datate** (prima edizione di NegBook, condizioni, primi articoli, video, successivi progetti), distinguendo la priorità rivendicata dall'autore dalle verifiche indipendenti.
+- [ ] Identificare ISBN, ASIN, marketplace e link originali Amazon per NegBook in IT, EN ed ES.
+- [ ] Per ogni collaborazione effettiva con un'impresa esterna, documentare pubblicamente, solo con consenso delle parti, il **coinvolgimento strategico e/o operativo** di Banini, i limiti dell'incarico e il perimetro del progetto.
+- [ ] Nei casi esterni, ottenere visibilità riservata sui dati economici sufficienti a valutare sostenibilità e responsabilità, senza pubblicare margini o informazioni riservate.
+- [ ] Aggiornare il registro per distinguere progetti dell'autore, collaborazioni in corso, progetti storicamente sviluppati con lui e applicazioni indipendenti citate a titolo informativo.
+- [ ] **Non sviluppare** marchi, bollini, marchi di certificazione, sistemi di licenza generale o altre barriere all'adozione indipendente delle idee.
 
 ## Tabella applicativa per settori di mercato — riservata all'autore
 
 **Stato: prevista, non ancora fornita o pubblicata.** Massimiliano Banini preparerà personalmente una tabella su come applicare l'Ultra-Garanzia del Prezzo Negativo nei diversi settori, con esempi concreti. **Non generare esempi settoriali attribuiti all'autore né presentare ipotesi come applicazioni documentate.**
 
-Quando la tabella originale sarà disponibile, pubblicarne una versione approvata con esempi, condizioni, rischio economico, metriche, limiti e stato (**esempio teorico** / **test svolto con il coinvolgimento effettivo dell'autore** / **progetto esterno con autorizzazione ufficiale scritta** / **autorizzazione sospesa o scaduta**); citare la fonte e la data di aggiornamento. Potrà diventare una sezione autonoma, in IT/EN/ES dove opportuno.
+Quando la tabella originale sarà disponibile, pubblicarne una versione approvata con esempi, condizioni, rischio economico, metriche, limiti e stato (**esempio teorico** / **test svolto con il coinvolgimento effettivo dell'autore** / **applicazione originale sviluppata con l'autore, con coinvolgimento documentato e conferma scritta** / **collaborazione conclusa (distinta da progetto ancora attivo)**); citare la fonte e la data di aggiornamento. Potrà diventare una sezione autonoma, in IT/EN/ES dove opportuno.
 
-**Regola:** distinguere sempre framework generale, esempi ipotetici, progetti proposti, test dell'autore, casi operativi comprovati e **partner terzi ufficialmente autorizzati**. Un test autonomo svolto da una società **non è** un test ufficiale di Banini e non dà alcun diritto a un bollino.
+**Regola:** distinguere sempre framework generale, esempi ipotetici, progetti proposti, test dell'autore, casi operativi comprovati e **collaborazioni originali sviluppate con l'autore**. Un test autonomo svolto da una società **non è** un test sviluppato con Banini; può comunque essere un'applicazione indipendente legittima.
