@@ -30,3 +30,10 @@
 - Esplicitato che Banini **favorisce l'adozione indipendente** di pratiche simili di accountability, responsabilità ed etica; tali applicazioni non vengono automaticamente etichettate come illecite o come collaborazioni dell'autore.
 - Precisato che «sviluppato con Massimiliano Banini» richiede vero coinvolgimento strategico e/o operativo, accesso ai dati pertinenti e conferma scritta; aggiornati README, FAQ, applicazioni, posizionamento multilingue, registro e roadmap.
 - Nessun marchio, bollino, programma di certificazione o licenza generale previsto.
+
+## 2026-11-08 — Denominazione originale e applicazioni indipendenti
+
+- Aggiunta [la regola sul nome IT/EN/ES](DENOMINAZIONE-E-ATTRIBUZIONE.md): le aziende sono incoraggiate a usare propri nomi per offerte autonome, anziché presentarle come «Ultra-Garanzia del Prezzo Negativo» senza collaborazione con Banini.
+- Distinti uso commerciale dell'espressione per la propria offerta, citazione attribuita del sistema dell'autore e collaborazione originale documentata.
+- La regola è descritta come aspettativa di posizionamento e attribuzione, **non** come diritto esclusivo legale automaticamente esistente; nessun marchio, bollino o certificazione previsto.
+- README, FAQ, scheda di riferimento, posizionamento multilingue, registro e roadmap aggiornati.
