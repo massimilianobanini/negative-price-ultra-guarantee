@@ -26,7 +26,7 @@ L'autore incoraggia altri operatori ad adottare principi analoghi con **nomi pro
 | **EN** | *Wellbeing is impossible if you don't measure it* | **The first book in the world with a negative price** | [B0FKZYMZZN](https://www.amazon.com/Wellbeing-impossible-you-dont-measure/dp/B0FKZYMZZN/) |
 | **ES** | *El Bienestar es imposible si no lo mides* | **El primer libro del mundo con un precio negativo** | [B0FL115SBS](https://www.amazon.es/Bienestar-imposible-mides-proactivas-recompensa/dp/B0FL115SBS) |
 
-La **data di pubblicazione riportata da tutte e tre le schede Amazon è 1° agosto 2025**. [Cronologia e prove](PRIME-EDIZIONI-NEGBOOK-2025.md) · [Sito ufficiale](https://negbook.com/).
+La **data di pubblicazione riportata da tutte e tre le schede Amazon è 1° agosto 2025**. [Cronologia e prove](PRIME-EDIZIONI-NEGBOOK-2025.md) · [Tre estratti visivi delle schede Amazon](evidenze/README.md) · [Sito ufficiale](https://negbook.com/).
 
 ### Il Divertoscopio — gioco di ruolo
 
