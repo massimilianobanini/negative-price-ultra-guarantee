@@ -1,17 +1,29 @@
-# Prove visive Amazon — NegBook, data riportata 1° agosto 2025
+# Evidenze Amazon del NegBook — 1° agosto 2025
 
-Questa cartella è predisposta per la **pubblicazione delle tre schermate** fornite da Massimiliano Banini. **Le immagini non sono ancora presenti qui**: la presenza di questo README non ne certifica l'avvenuto caricamento.
+**Tre immagini pubblicate.** Sono **estratti in bianco e nero** delle schermate Amazon delle edizioni italiana, inglese e spagnola fornite da Massimiliano Banini. L'estratto spagnolo **accosta due ritagli della stessa schermata**, per rendere leggibili in un unico file l'autore e il claim nella parte alta e la data di pubblicazione riportata nella parte bassa.
 
-| Nome file da caricare | Lingua | ASIN | Campo data leggibile nella schermata fornita |
+| Edizione | Immagine | ASIN | Data mostrata nella schermata |
 | --- | --- | --- | --- |
-| `evidenza_negbook_IT_2025.jpg` | Italiano | `B0FKZZH32D` | 1 agosto 2025 |
-| `evidenza_negbook_EN_2025.jpg` | Inglese | `B0FKZYMZZN` | 1 agosto 2025 |
-| `evidenza_negbook_ES_2025.jpg` | Spagnolo | `B0FL115SBS` | 1 agosto 2025 |
+| Italiano | [Apri PNG IT](evidenza_negbook_IT_2025.png) | `B0FKZZH32D` | **1 agosto 2025** |
+| English | [Open PNG EN](evidenza_negbook_EN_2025.png) | `B0FKZYMZZN` | **1 August 2025** |
+| Español | [Abrir PNG ES](evidenza_negbook_ES_2025.png) | `B0FL115SBS` | **1 agosto 2025** |
 
-## Procedura consigliata
+## Estratto italiano
 
-Aprire questa cartella sul repository GitHub, selezionare **Add file → Upload files**, caricare le tre immagini preparate e salvare con un commit descrittivo. Pubblicare **solo ritagli pertinenti**: titolo, autore, serie/claim, ASIN se visibile e data, senza accessi/account, ordini, dati di pagamento o altri dati riservati. Non alterare le informazioni bibliografiche o la data.
+![Schermata Amazon IT ritagliata: autore e data del NegBook](evidenza_negbook_IT_2025.png)
 
-Gli screenshot rappresentano **pagine Amazon visualizzate e catturate nel contesto fornito dall'autore**, non certificati rilasciati da Amazon o screenshot necessariamente creati nel 2025. La data `1° agosto 2025` è la **data di pubblicazione riportata dal sito nella schermata**, non la data di cattura dell'immagine.
+## English excerpt
 
-**Documenti correlati:** [Cronologia delle edizioni e limiti della prova](../PRIME-EDIZIONI-NEGBOOK-2025.md) · [Il primo libro al mondo a prezzo negativo — claim dell'autore](../fonti/libri-e-progetti.md) · [Origini del concetto di Prezzo Negativo](../ORIGINE-PREZZO-NEGATIVO.md).
+![Cropped Amazon EN screenshot: author, negative-price claim and date](evidenza_negbook_EN_2025.png)
+
+## Extracto español
+
+![Dos recortes de la misma captura Amazon.es: reclamo y fecha](evidenza_negbook_ES_2025.png)
+
+## Provenienza e limiti
+
+Le **schermate a colori** sono state fornite dall'autore l'8 novembre 2026. Gli estratti GitHub sono stati creati a partire da quelle immagini mediante **ritaglio e conversione in bianco e nero**; lo spagnolo comprende due porzioni **della stessa schermata** disposte insieme, senza riscrivere il testo e senza inventare date. Questi file non rappresentano una cattura originale integrale del sito.
+
+**«1 agosto 2025» indica la data di pubblicazione riportata dalle schede Amazon**, non la data di acquisizione delle schermate né la data del commit GitHub. I riferimenti alle opere sono nella [cronologia del NegBook](../PRIME-EDIZIONI-NEGBOOK-2025.md). Le copie integrali a colori non sono state pubblicate in questa cartella.
+
+[Prime edizioni e ASIN](../PRIME-EDIZIONI-NEGBOOK-2025.md) · [Bibliografia e progetti](../fonti/libri-e-progetti.md) · [About Massimiliano Banini](../ABOUT-MASSIMILIANO-BANINI.md).
