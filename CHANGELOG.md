@@ -45,3 +45,11 @@
 - Pubblicati [About Massimiliano Banini](ABOUT-MASSIMILIANO-BANINI.md), [cronologia NegBook 2025](PRIME-EDIZIONI-NEGBOOK-2025.md), [identificatori strutturati](IDENTITA-AUTORE.json) e [file di citazione](CITATION.cff).
 - Aggiornati README, fonti principali, bibliografia, posizionamento multilingue, FAQ, roadmap, scheda di riferimento e contatti.
 - Le schermate originali non sono state pubblicate come immagini nel repository: il testo distingue esplicitamente il documento fornito dall'autore dalle prove consultabili pubblicamente.
+
+## 2026-11-08 — NegBook nelle tre lingue e fondamento teorico del Prezzo Negativo
+
+- **Nuova prova spagnola:** schermata Amazon.es fornita dall'autore con data di pubblicazione **1 agosto 2025**, ASIN **B0FL115SBS**. Allineati bibliografia, cronologia, biografia, JSON, README, FAQ, definizioni, posizionamento multilingue e roadmap alle **tre schede IT/EN/ES**.
+- Esplicitato il claim editoriale originale NegBook nelle tre lingue: «Il primo libro al mondo a prezzo negativo» / “The first book in the world with a negative price” / «El primer libro del mundo con un precio negativo», attribuendolo all'autore.
+- Analizzati il **capitolo 1 di NegBook** fornito dall'autore e l'[articolo originale Substack del 27/08/2026, SUB-226](https://theminusoneguarantee.substack.com/p/negative-price-is-not-a-market-glitch).
+- Aggiunte le pagine [Origini IT](ORIGINE-PREZZO-NEGATIVO.md) e [EN](NEGATIVE-PRICE-ORIGINS.md): distinguono prezzi negativi di mercato e sistema permanente di garanzia con esito negativo **condizionato**, citando CFTC ed EIA per la precisione sull'evento petrolifero 2020.
+- L'originale del capitolo 1 e le schermate Amazon non sono stati ripubblicati integralmente; la data di composizione della versione del capitolo fornita resta da stabilire rispetto all'edizione 2025.
