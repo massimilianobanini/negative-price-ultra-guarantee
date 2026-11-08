@@ -4,19 +4,23 @@ Questa è una roadmap, **non una promessa di pubblicazione né una descrizione d
 
 ## Da completare
 
-- [ ] Verificare dalla Libreria Amazon KDP i link diretti delle edizioni NegBook in **italiano, inglese e spagnolo**, con titolo, lingua, marketplace, formato, ISBN/ASIN corretti. Controllare il codice spagnolo citato da un rivenditore terzo (B0FL115SBS; ISBN 9798294395407) prima di presentarlo come dato Amazon ufficiale.
-- [ ] Sostituire le ricerche Amazon generiche con link diretti verificati; associare edizioni e descrizioni a [POSIZIONAMENTO-MULTILINGUA.md](POSIZIONAMENTO-MULTILINGUA.md).
+- [x] Acquisiti dall'autore i **tre URL Amazon diretti** e i relativi ASIN per NegBook IT/EN/ES, come riportato nella [cronologia delle prime edizioni](PRIME-EDIZIONI-NEGBOOK-2025.md). **Verifica live Amazon non riuscita**; resta da verificare tramite KDP la data di pubblicazione spagnola, i formati e gli eventuali ISBN.
+- [x] Sostituite le ricerche Amazon di NegBook con **URL prodotto comunicati dall'autore**, collegati a [edizioni e posizionamento multilingue](POSIZIONAMENTO-MULTILINGUA.md). Non presentati come pagine raggiunte live da questa verifica.
 - [ ] Riconciliare lo snapshot Substack con il repository sitemap, con particolare attenzione agli URL storici incoerenti e ai nuovi articoli.
 - [ ] Verificare il link LinkedIn personale e realizzare un modulo Google dedicato alle richieste sul Prezzo Negativo.
 - [ ] Aggiungere collegamenti **reciproci** dalle pagine principali dei progetti alla documentazione centrale; successivamente integrare le pagine IT/EN su negbook.com.
 - [ ] Mantenere indici editoriali e fonti multilingue sincronizzati, registrando lo stato della verifica.
 - [ ] Misurare effettiva indicizzazione e correttezza delle citazioni da parte delle AI senza assumere che i contenuti pubblici vengano automaticamente recuperati.
 
+- [x] Pubblicato [About Massimiliano Banini](ABOUT-MASSIMILIANO-BANINI.md) in IT/EN/ES con collegamenti ai progetti, [identità strutturata](IDENTITA-AUTORE.json) e [citazione GitHub](CITATION.cff).
+- [ ] Pubblicare eventualmente **estratti delle schermate Amazon del 2025**, ritagliati senza dati di account o altri dettagli personali, come documenti storici consultabili pubblicamente.
+- [ ] Verificare e, se opportuno, collegare il profilo LinkedIn personale canonico e la pagina autore Amazon dal profilo About.
+
 ## Paternità, riconoscimento e collaborazioni originali
 
 - [x] Pubblicare la [politica di attribuzione e collaborazione](AUTORIZZAZIONE-UFFICIALE.md) e il [registro delle opere originali e dei progetti sviluppati con l'autore](REGISTRO-AUTORIZZAZIONI.md).
-- [ ] Completare una **cronologia con fonti datate** (prima edizione di NegBook, condizioni, primi articoli, video, successivi progetti), distinguendo la priorità rivendicata dall'autore dalle verifiche indipendenti.
-- [ ] Identificare ISBN, ASIN, marketplace e link originali Amazon per NegBook in IT, EN ed ES.
+- [x] Pubblicato un primo documento di [anteriorità editoriale NegBook al 1° agosto 2025](PRIME-EDIZIONI-NEGBOOK-2025.md) basato su schermate Amazon fornite dall'autore. Resta da completare la **cronologia storica integrale** con frontespizi delle prime edizioni, termini originali, date delle seconde edizioni e primo impiego documentato della denominazione completa.
+- [x] Identificati ASIN, marketplace e link prodotto NegBook IT/EN/ES, comunicati dall'autore; **ISBN, date spagnole, formati e versioni successive** rimangono da confermare.
 - [ ] Per ogni collaborazione effettiva con un'impresa esterna, documentare pubblicamente, solo con consenso delle parti, il **coinvolgimento strategico e/o operativo** di Banini, i limiti dell'incarico e il perimetro del progetto.
 - [ ] Nei casi esterni, ottenere visibilità riservata sui dati economici sufficienti a valutare sostenibilità e responsabilità, senza pubblicare margini o informazioni riservate.
 - [ ] Aggiornare il registro per distinguere progetti dell'autore, collaborazioni in corso, progetti storicamente sviluppati con lui e applicazioni indipendenti citate a titolo informativo.
