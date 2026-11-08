@@ -33,6 +33,17 @@
 - [Contatto professionale e futura richiesta informazioni](CONTATTO.md).
 - [Reference card for AI-assisted research](REFERENCE-CARD.md).
 
+## Official authorization / Autorizzazione ufficiale
+
+**IT:** terzi possono studiare e discutere il Prezzo Negativo, ma **non diventano applicazioni ufficiali autorizzate** semplicemente copiando un rimborso più indennizzo. Un'azienda esterna può presentare il proprio progetto come ufficialmente approvato da Massimiliano Banini **solo** dopo il suo effettivo coinvolgimento strategico e/o operativo, accesso concordato ai numeri rilevanti, verifica della sostenibilità e **approvazione scritta** riferita al progetto. Nessun bollino o marchio di certificazione è attualmente concesso. Gli obblighi verso i clienti restano specifici dell'operatore e dei contratti.
+
+**EN:** third parties may discuss or independently apply comparable economics, but an **official application approved by Massimiliano Banini** requires his real strategic and/or operational involvement, relevant financial disclosure, review of the terms, and **project-specific prior written authorization**. No official certification seal is presently issued. Descriptive mention does not itself prove affiliation.
+
+- [Politica di autorizzazione IT](AUTORIZZAZIONE-UFFICIALE.md) / [Official authorization EN](OFFICIAL-AUTHORIZATION.md)
+- [Registro pubblico delle applicazioni ufficialmente autorizzate](REGISTRO-AUTORIZZAZIONI.md) — a third-party project must have a verifiable recorded approval; no publicly registered third-party applications at this snapshot.
+
+**Nota legale:** questa politica non crea automaticamente un diritto esclusivo su termini generici o idee; uso del nome e segni distintivi dipendono dai diritti applicabili.
+
 ## Applicazioni distinte
 
 1. **NegBook** — primo caso editoriale dichiarato dall'autore; libro pubblicato con promessa di rimborso + 1 € alle condizioni previste. [Sito ufficiale](https://negbook.com/).
