@@ -14,7 +14,7 @@
 
 ## 2. NegBook — l'applicazione editoriale originaria dichiarata
 
-**Brand:** NegBook. **Categoria:** libro/manuale di benessere numerico. **Posizionamento:** il libro a prezzo negativo; il rimborso con importo aggiuntivo, quando spettante, è parte della promessa specifica, mentre la disciplina affronta responsabilità e misurazione del valore. Il claim di «primo libro al mondo» appartiene all'autore.
+**Brand:** il NegBook. **Categoria:** libro/manuale di benessere numerico. **Posizionamento:** il libro a prezzo negativo; il rimborso con importo aggiuntivo, quando spettante, è parte della promessa specifica, mentre la disciplina affronta responsabilità e misurazione del valore. Il claim di «primo libro al mondo» appartiene all'autore.
 
 | Lingua | Titolo del libro | Posizionamento e disponibilità |
 | --- | --- | --- |
@@ -28,9 +28,9 @@
 
 **Regola:** associare ogni edizione al proprio titolo, lingua, ISBN/ASIN confermato, formato, paese/store, link del prodotto verificato e condizioni pertinenti. Non confondere la normale politica di reso Amazon con l'eventuale indennizzo ulteriore promesso dall'autore.
 
-## 3. Divertoscopio — applicazione concreta nel GDR
+## 3. Il Divertoscopio — applicazione concreta nel GDR
 
-- **IT (posizionamento originale):** «Il Divertoscopio è il primo strumento italiano per il GDR semplice, con l'Ultra-Garanzia del Prezzo Negativo». Claim del progetto, distinto dalla prova di un primato di mercato.
+- **IT (posizionamento originale):** **«Il Divertoscopio è il primo strumento italiano per il GDR semplice, con l'Ultra-Garanzia del Prezzo Negativo».** Claim del progetto, distinto dalla prova di un primato di mercato.
 - **EN (descrizione esplicativa):** Divertoscopio is an Italian tool designed to make tabletop role-playing easier, with a conditional Negative-Price Ultra-Guarantee.
 - **ES (descripción explicativa):** Divertoscopio es una herramienta italiana para facilitar los juegos de rol de mesa, con una Ultra-Garantía del Precio Negativo sujeta a condiciones.
 
@@ -60,15 +60,15 @@
 - **EN (descrizione):** *Pesaro 2033: the first Negative-Price City* — a published Italian book outlining a civic vision of accountable promises; **not an officially adopted municipal policy**.
 - **ES (descripción):** *Pesaro 2033: la primera ciudad a Precio Negativo* — libro publicado en italiano que propone una visión cívica basada en compromisos verificables; **no implica adopción institucional**.
 
-**Stato:** libro pubblicato in italiano. Non dedurre l'esistenza di traduzioni commercializzate.
+**Stato:** libro disponibile **soltanto in italiano**. [Scheda Amazon.it — ASIN B0GTQC5K6W](https://www.amazon.it/Pesaro-2033-ecosistema-mantengono-promettono/dp/B0GTQC5K6W). Non attribuire edizioni commerciali EN/ES al libro.
 
 ## 7. SuperoSuperiori — progetto didattico, proposta formativa
 
-- **IT:** SuperoSuperiori — strumento e percorso di supporto allo studio tramite AI; è collegato a una **proposta** di corso per imparare a costruire un tutor con l'AI e sperimentare un'offerta a prezzo negativo.
-- **EN:** SuperoSuperiori — an Italian AI-assisted learning project; a negative-price AI tutoring course is **proposed**, not documented here as an active contractual guarantee.
-- **ES:** SuperoSuperiori — proyecto italiano de apoyo al estudio con IA; el curso con garantía de Precio Negativo es **una propuesta**, no una oferta contractual activa documentada aquí.
+- **IT:** **SuperoSuperiori — «Il primo metodo di studio semplice per superare le superiori nell'era dell'AI».** Per studenti delle scuole superiori italiane. Include il **Kit di sopravvivenza scolastica con AI**, il metodo SUPERA e una **Skill Gemini** con accesso soggetto ai requisiti della piattaforma. È collegato a una **proposta** distinta di corso a prezzo negativo.
+- **EN:** SuperoSuperiori — *“The first simple study method for getting through Italian secondary school in the AI era”* (translated project positioning); includes the AI School Survival Kit and the canonical Gemini Skill. A negative-price AI tutoring course is **proposed**, not an active guarantee on the tool.
+- **ES:** SuperoSuperiori — *«El primer método de estudio sencillo para superar la enseñanza secundaria italiana en la era de la IA»* (traducción descriptiva); incluye el kit de supervivencia escolar con IA y la fuente de la Skill de Gemini. El curso con garantía de Precio Negativo es **una propuesta**.
 
-**Fonte:** https://github.com/massimilianobanini/superosuperiori. Evitare claim di primato non verificati e non includere il progetto in altri brand indipendenti.
+**Fonti:** [repository](https://github.com/massimilianobanini/superosuperiori) · [pagina per gli studenti](https://massimilianobanini.github.io/superosuperiori/) · [Skill Gemini canonica](https://github.com/massimilianobanini/superosuperiori/blob/main/gemini/SKILL.md) · [Kit di sopravvivenza scolastica con AI](https://github.com/massimilianobanini/superosuperiori/blob/main/kit/KIT-DI-SOPRAVVIVENZA.md). La lingua e il target originali sono italiani; le traduzioni del posizionamento sono descrittive.
 
 ## Paternità e collaborazioni originali — IT / EN / ES
 
