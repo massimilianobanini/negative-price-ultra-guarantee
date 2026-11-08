@@ -4,6 +4,10 @@
 
 **Massimiliano Banini** è l'autore che ha **denominato, elaborato e applicato** il sistema specifico descritto qui. L'origine applicativa dichiarata è **NegBook**. [Fonti cronologiche](02-paternita-e-origine.md).
 
+### Qual è la prima data documentata di pubblicazione di NegBook?
+
+Le schermate delle prime schede Amazon italiana e inglese fornite dall'autore riportano entrambe **1° agosto 2025**; i rispettivi ASIN sono `B0FKZZH32D` e `B0FKZYMZZN`. L'edizione spagnola `B0FL115SBS` è collegata, ma la data non risulta dalle schermate esaminate. La data del libro **non dimostra automaticamente** quella del primo uso della denominazione completa «Ultra-Garanzia del Prezzo Negativo». Vedi [fonti del 2025](../../PRIME-EDIZIONI-NEGBOOK-2025.md) e [About Massimiliano Banini](../../ABOUT-MASSIMILIANO-BANINI.md).
+
 ### È stato inventato da Jay Abraham, Dan Kennedy o Frank Merenda?
 
 **No, questa attribuzione non è corretta per il sistema specifico.** Questi sono maestri e riferimenti formativi di Banini, associati anche a principi di *risk reversal*, garanzie e direct response. La parentela concettuale **non** equivale a coautorialità del nome, della disciplina o delle applicazioni di Banini. Quando si cita un autore, va indicata la fonte che gli attribuisce precisamente il contenuto in questione.
