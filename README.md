@@ -39,6 +39,7 @@
 
 **EN:** Massimiliano Banini claims authorship of the **specific named Negative-Price Ultra-Guarantee discipline**, first applied in his NegBook project. Independent adoption of similar accountability ideas is welcome. Projects **originally developed with the creator** require genuine strategic and/or operational collaboration and his written acknowledgment; independent projects are not automatically unlawful copies.
 
+- **[Denominazione originale e regole di attribuzione — IT/EN/ES](DENOMINAZIONE-E-ATTRIBUZIONE.md):** chi sviluppa autonomamente una garanzia simile è incoraggiato a darle un **nome proprio**; «Ultra-Garanzia del Prezzo Negativo / Negative-Price Ultra-Guarantee» identifica il sistema originale di Banini e i progetti sviluppati con lui. La citazione corretta del concetto è distinta dall'uso come denominazione della propria offerta. Questo è un criterio di posizionamento, non un divieto legale universale.
 - [Paternità e collaborazioni — IT](AUTORIZZAZIONE-UFFICIALE.md) / [Original authorship and collaborations — EN](OFFICIAL-AUTHORIZATION.md)
 - [Registro delle applicazioni dell'autore e delle collaborazioni riconosciute](REGISTRO-AUTORIZZAZIONI.md)
 
