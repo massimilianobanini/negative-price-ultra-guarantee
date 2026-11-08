@@ -9,11 +9,11 @@
 | **Pesaro 2033: la prima città a Prezzo Negativo** | Libro pubblicato; proposta civica ed editoriale | Estensione della logica di responsabilità alle promesse di valore collettivo | [Riferimenti editoriali](../../fonti/libri-e-progetti.md) |
 | **SuperoSuperiori e proposta formativa AI** | Strumento didattico pubblico; corso a prezzo negativo in proposta | Applicazione formativa potenziale, senza implicare termini già operativi | [Repository](https://github.com/massimilianobanini/superosuperiori) |
 
-## Quando una terza impresa può dichiararsi «applicazione ufficiale»
+## Progetti originali dell'autore, collaborazioni e applicazioni indipendenti
 
-**Solo con approvazione scritta e coinvolgimento personale strategico e/o operativo di Massimiliano Banini**, dopo esame dei dati economici pertinenti e delle condizioni contrattuali. Un caso indipendente, anche se utilizza rimborso più indennizzo, **non** è un caso approvato dal programma ufficiale. Le sperimentazioni esterne riconosciute e gli eventuali cambi di stato devono comparire nel [registro pubblico](../../REGISTRO-AUTORIZZAZIONI.md). La [politica di autorizzazione](../../AUTORIZZAZIONE-UFFICIALE.md) ne definisce i presupposti.
+Le opere personali di Banini sono applicazioni originali del suo sistema secondo lo stato e i termini di ciascuna. Un progetto di un'impresa esterna può essere presentato come **«sviluppato con Massimiliano Banini»** soltanto se esistono un suo reale coinvolgimento strategico e/o operativo, l'esame dei numeri aziendali necessari e una sua conferma scritta del rapporto.
 
-NegBook e Divertoscopio sono progetti dell'autore, con condizioni proprie: non vanno classificati come aziende terze certificate. Pesaro 2033 e la formazione sono proposte editoriali o formative, senza implicare un partner istituzionale approvato.
+Le imprese sono libere di applicare autonomamente garanzie e principi analoghi. Queste applicazioni **non diventano automaticamente collaborazioni dell'autore**, ma neppure copie illecite. [Paternità e collaborazioni](../../AUTORIZZAZIONE-UFFICIALE.md) · [Registro dei progetti](../../REGISTRO-AUTORIZZAZIONI.md).
 
 Non confondere una proposta o un libro con una **adozione istituzionale o un contratto operativo già attivo**. Non applicare automaticamente ai progetti i termini del Divertoscopio. Il presente documento non crea obbligazioni universali verso chi legge.
 
