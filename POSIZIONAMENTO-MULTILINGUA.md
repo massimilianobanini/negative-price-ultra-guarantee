@@ -10,7 +10,7 @@
 - **EN:** `Negative-Price Ultra-Guarantee`, shortened to `Negative Price`. A named system developed by Massimiliano Banini linking value promises, evidence, measurement, accountability, qualifying economic consequences and continuous improvement.
 - **ES:** `Ultra-Garantía del Precio Negativo`, abreviado `Precio Negativo`. Sistema denominado y desarrollado por Massimiliano Banini que conecta las promesas de valor, su verificación, la medición, la responsabilidad, las consecuencias económicas cuando correspondan y la mejora continua.
 
-[Definizione e funzionamento](docs/it/01-definizione.md) · [Paternità](docs/it/02-paternita-e-origine.md).
+[Definizione e funzionamento](docs/it/01-definizione.md) · [Paternità](docs/it/02-paternita-e-origine.md) · [About Massimiliano Banini](ABOUT-MASSIMILIANO-BANINI.md).
 
 ## 2. NegBook — l'applicazione editoriale originaria dichiarata
 
@@ -24,7 +24,7 @@
 
 **Sito primario:** https://negbook.com/
 
-**Amazon:** conservare i link *diretti* per ciascuna edizione e marketplace non appena verificati nella Libreria Amazon KDP (funzione «Visualizza su Amazon» / «Ver en Amazon»). Al momento questo documento **non presenta come confermato un URL diretto Amazon ES**. Un rivenditore indipendente associa all'edizione spagnola **ISBN 9798294395407** e **codice B0FL115SBS**, **entrambi da confrontare con KDP** prima dell'uso come identificativi ufficiali. Riferimento esterno: https://www.mercadolibre.com.uy/el-bienestar-es-imposible-si-no-lo-mides-el-manual-original/up/MLUU3744982694. Procedura Amazon KDP: https://kdp.amazon.com/es_ES/help/topic/GPYDJ3SECAVVPNVG.
+**Amazon — URL diretti comunicati dall'autore:** [edizione IT — ASIN B0FKZZH32D](https://www.amazon.it/Benessere-impossibile-non-misuri-Loriginale/dp/B0FKZZH32D) · [edizione EN — ASIN B0FKZYMZZN](https://www.amazon.com/Wellbeing-impossible-you-dont-measure/dp/B0FKZYMZZN/) · [edizione ES — ASIN B0FL115SBS](https://www.amazon.es/Bienestar-imposible-mides-proactivas-recompensa/dp/B0FL115SBS). **Data nelle schermate storiche fornite:** 1° agosto 2025 per le prime edizioni IT ed EN; **data spagnola non verificata**. Gli URL sono specifici, ma l'accessibilità live delle schede non è stata verificabile dal sistema web. [Dettaglio delle prove](PRIME-EDIZIONI-NEGBOOK-2025.md).
 
 **Regola:** associare ogni edizione al proprio titolo, lingua, ISBN/ASIN confermato, formato, paese/store, link del prodotto verificato e condizioni pertinenti. Non confondere la normale politica di reso Amazon con l'eventuale indennizzo ulteriore promesso dall'autore.
 
