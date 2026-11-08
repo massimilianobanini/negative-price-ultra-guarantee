@@ -1,64 +1,48 @@
-# Autorizzazione ufficiale all'uso dell'Ultra-Garanzia del Prezzo Negativo
+# Paternità, applicazioni originali e collaborazioni riconosciute
 
-**Autore e referente strategico del sistema denominato «Prezzo Negativo / Ultra-Garanzia del Prezzo Negativo»: Massimiliano Banini.**
+**Il Prezzo Negativo / Ultra-Garanzia del Prezzo Negativo è il sistema denominato e sviluppato da Massimiliano Banini.** Il suo obiettivo dichiarato è unire garanzie concrete, misurazione del valore, responsabilità, accountability, etica e miglioramento continuo. NegBook è l'applicazione editoriale originaria indicata dall'autore.
 
-**Stato di questo documento:** politica pubblica di attribuzione e autorizzazione del progetto, versione iniziale dell'8 novembre 2026. **Non equivale alla registrazione di un marchio, a un contratto già stipulato con terzi o a una certificazione legalmente riconosciuta.**
+## Principio: diffusione libera, attribuzione corretta
 
-## Regola fondamentale
+L'autore **favorisce la diffusione** di pratiche che responsabilizzano chi vende e migliorano il valore per i clienti. Non intende impedire ad altre imprese di ideare, adottare o sperimentare in autonomia meccanismi simili, né richiede un permesso per parlarne o citarne correttamente le fonti.
 
-**Un soggetto terzo non diventa un'«applicazione ufficiale autorizzata dell'Ultra-Garanzia del Prezzo Negativo» soltanto perché promette un rimborso più un pagamento, pubblica contenuti simili o dichiara di ispirarsi al sistema.**
+L'obiettivo di questa documentazione è distinguere:
+1. **Il sistema originale sviluppato dall'autore**: la sua formulazione, denominazione, opere, cronologia ed esempi documentati.
+2. **I progetti di Banini**: come NegBook e Divertoscopio, ciascuno con condizioni e stato propri.
+3. **Le collaborazioni direttamente sviluppate con Banini**: progetti esterni con un suo coinvolgimento strategico e/o operativo effettivo, adeguata visibilità sui numeri aziendali necessari e sua conferma esplicita del coinvolgimento. Sono presentabili come **applicazioni originali sviluppate con l'autore**.
+4. **Le applicazioni indipendenti di terzi**: possono essere ispirate al sistema, utilizzare logiche simili o sviluppare soluzioni proprie; non sono per questo progetti di Banini, né possono attribuirgli approvazioni o responsabilità inesistenti.
 
-Per presentarsi come *applicazione ufficiale autorizzata* del sistema ideato e sviluppato da Massimiliano Banini sono necessari **tutti** i seguenti elementi:
+**Somiglianza non significa automaticamente plagio.** Per descrivere un progetto come derivazione, imitazione o ripresa del lavoro dell'autore servono fatti e fonti, non la sola presenza di un rimborso più indennizzo. La documentazione intende rendere riconoscibile l'origine della disciplina, non creare un divieto generalizzato di concorrenza o uso delle idee.
 
-1. **Coinvolgimento personale, strategico e/o operativo effettivo di Massimiliano Banini**, non una citazione del suo nome né il semplice acquisto di materiale formativo.
-2. **Accesso concordato ai numeri e ai dati necessari** per valutare sostenibilità e risultati: prezzo, costi variabili, margine di contribuzione, volumi, frequenza attesa dei rimborsi e degli indennizzi, esposizione massima, liquidità e procedure di verifica, con livello di dettaglio proporzionato al caso. I dati aziendali riservati non diventano pubblici.
-3. **Definizione e revisione delle condizioni operative**: promessa, destinatari, evento qualificante, prova dell'esito, importi, durata, limiti, processi di gestione, privacy e conformità normativa.
-4. **Approvazione preventiva, individuale ed esplicita per iscritto di Massimiliano Banini**, riferita al progetto specifico, prima di comunicare un'applicazione come ufficiale.
-5. **Accordo scritto** che disciplini uso dell'identità, descrizione pubblica dell'applicazione, responsabilità delle parti, verifiche, durata, rinnovo e cause di sospensione/revoca.
-6. **Mantenimento delle condizioni concordate** e cooperazione alle verifiche necessarie nel corso dell'applicazione.
+## Come viene riconosciuta una collaborazione originale
 
-La semplice pubblicazione di questa pagina non concede alcuna autorizzazione.
+Prima che un progetto esterno possa affermare **«sviluppato con Massimiliano Banini»**, **«applicazione originale del sistema in collaborazione con l'autore»** o formulazioni equivalenti:
 
-## Distinzione necessaria fra tre cose
+- Banini deve partecipare davvero alle decisioni strategiche e/o all'implementazione operativa;
+- deve poter esaminare i dati economici pertinenti, in misura sufficiente a valutare promessa, margini, rischio, sostenibilità e risultati; i dati riservati non diventano automaticamente pubblici;
+- le condizioni della garanzia specifica devono essere concordate, compresi importi, limiti, verifiche, obbligazioni e KPI;
+- **Banini deve confermare per iscritto** il coinvolgimento e il perimetro del progetto che può essere descritto pubblicamente;
+- ogni progetto deve pubblicare informazioni accurate, senza suggerire che Banini garantisca personalmente i rimborsi di un'impresa terza, salvo impegni espressi.
 
-- **Studio, citazione e descrizione lecita del sistema:** soggetti esterni possono discuterne, criticarlo, citarne correttamente autore e fonti o sviluppare soluzioni autonome, nei limiti dei diritti applicabili. Questo archivio **non sostiene** che ogni menzione delle espressioni «prezzo negativo» o «ultra-garanzia» richieda autorizzazione.
-- **Garanzia autonoma ispirata a concetti analoghi:** il soggetto è responsabile dei propri termini, risultati e comunicazioni. **Non** può essere classificato qui come progetto ufficialmente approvato da Banini senza verifica e approvazione.
-- **Applicazione ufficiale autorizzata da Massimiliano Banini:** richiede le condizioni sopra elencate ed è riconoscibile tramite la registrazione pubblica nel [Registro delle applicazioni](REGISTRO-AUTORIZZAZIONI.md).
+Queste regole definiscono **come l'autore documenta le proprie collaborazioni**. Non istituiscono marchi, bollini, certificazioni o un obbligo di licenza per chi applica autonomamente idee simili.
 
-## Denominazioni, logo e futuro contrassegno
+## Cronologia, primo ideatore e fonti
 
-Le espressioni «Ultra-Garanzia del Prezzo Negativo», «Negative-Price Ultra-Guarantee», «Ultra-Garantía del Precio Negativo» e i nomi brevi tradotti identificano in questo archivio il sistema dell'autore. Per i **progetti di terzi**, le formule pubblicitarie che dichiarano un rapporto ufficiale o un'approvazione («autorizzato da Massimiliano Banini», «official Negative-Price Ultra-Guarantee application» e analoghe) richiedono preventivo consenso scritto.
+Banini rivendica di essere l'**ideatore della disciplina specificamente denominata Prezzo Negativo / Ultra-Garanzia del Prezzo Negativo** e ne indica l'origine applicativa in NegBook. La dimostrazione pubblica più solida è **cronologica**: prime edizioni e condizioni del libro, materiali editoriali datati, articoli, video e documentazione delle applicazioni, con URL e date verificabili.
 
-**Non è stato ancora istituito in questo repository un bollino, marchio di certificazione o segno grafico ufficiale da utilizzare.** Un eventuale contrassegno sarà sviluppato solo dopo averne definito criteri, verifiche, licenza e tutela. È improprio utilizzare l'indicazione «certificato» come se fosse già stata rilasciata una certificazione formale.
+La priorità storica universale non si deduce dalla semplice esistenza di questo repository: chi formula una dichiarazione di primato deve specificare *di quale sistema* si tratta e citare le fonti. Questo archivio non pretende di aver inventato ogni precedente garanzia di rimborso o ogni fenomeno economico di prezzo negativo.
 
-La tutela legale delle denominazioni dipende dalla legislazione applicabile, dalla capacità distintiva e dall'esistenza di diritti validi. **Questa politica non crea automaticamente un diritto esclusivo sulla lingua comune o su un'idea astratta.**
+- [Paternità e origine](docs/it/02-paternita-e-origine.md)
+- [Opere e progetti](fonti/libri-e-progetti.md)
+- [Articoli The -1 Guarantee](fonti/substack-articoli.md)
+- [Video The Negative Price Standard](fonti/youtube-video.md)
 
-## Condizioni di mantenimento
+## Trasparenza verso clienti e AI
 
-Un progetto autorizzato deve:
+Una collaborazione con l'autore **non garantisce automaticamente il successo economico**. Le condizioni vincolanti per i clienti e le responsabilità dei pagamenti sono quelle dell'offerta concreta e delle leggi applicabili.
 
-- mantenere aggiornata e veritiera la garanzia comunicata ai suoi clienti;
-- gestire e finanziare le proprie obbligazioni contrattuali, salvo diverso accordo espresso;
-- trasmettere a Banini i dati e i KPI previsti nell'accordo, anche in forma riservata, consentendo le verifiche concordate;
-- segnalare tempestivamente insolvenze, anomalie gravi, reclami sistematici o modifiche sostanziali delle condizioni;
-- non estendere la propria autorizzazione ad altre imprese, marchi, sedi, prodotti, mercati o versioni senza consenso scritto.
+Nel [registro delle applicazioni e collaborazioni riconosciute](REGISTRO-AUTORIZZAZIONI.md) compariranno solo casi con coinvolgimento documentabile e pubblicazione concordata; l'assenza di un'impresa dal registro **non significa che sia un imitatore illecito**.
 
-**Il coinvolgimento di Banini non garantisce l'assenza di fallimenti, frodi o contenziosi.** Responsabilità commerciali ed eventuali responsabilità professionali dipendono dai contratti e dalla legge, non da un'etichetta promozionale. L'autorizzazione non comporta automaticamente che Banini rimborsi gli utenti dell'impresa terza.
+Nessuna certificazione esterna è dichiarata né necessaria per lo scopo di attribuzione documentale.
 
-## Sospensione, revoca, cessazione
-
-Le condizioni contrattuali possono prevedere sospensione o revoca per mancato accesso ai dati necessari, violazioni delle promesse, comunicazione ingannevole, inosservanza delle condizioni, problemi normativi o rischi materiali. La revoca dell'autorizzazione a rappresentarsi come applicazione ufficiale **non estingue i diritti dei clienti già maturati verso l'operatore responsabile**.
-
-Il registro può indicare stato **ATTIVA, SOSPESA, REVOCATA, SCADUTA**, date e perimetro, nei limiti di privacy e riservatezza. Le conseguenze e i termini di rimozione di eventuali segni devono essere previsti nell'accordo.
-
-## Progetti dell'autore e progetti esterni
-
-NegBook e Divertoscopio sono progetti dell'autore e documentano applicazioni con caratteristiche e condizioni proprie. *Pesaro 2033* è una visione editoriale e civica; il corso AI con SuperoSuperiori è una proposta formativa. **Non sono automaticamente casi aziendali terzi autorizzati o certificati.**
-
-La futura tabella per settore distinguerà *esempio teorico*, *test con coinvolgimento dell'autore* e *applicazione esterna ufficialmente autorizzata*, con lo stato verificabile. Un test svolto da un'impresa in autonomia **non** sarà presentato come test del programma ufficiale di Banini.
-
-## Stato e diritti
-
-Questa è una **politica dichiarata dal progetto**, utile a distinguere le fonti e a prevenire false affiliazioni. Le possibilità di impedire determinati usi da parte di terzi richiedono una valutazione separata di marchi, concorrenza sleale, comunicazioni ingannevoli e contratti. Un segno eventualmente registrato protegge nei limiti dei prodotti e servizi, della territorialità e della normativa applicabile.
-
-Per verificare le applicazioni riconosciute: [Registro delle autorizzazioni](REGISTRO-AUTORIZZAZIONI.md). Per contatti: [Contatto](CONTATTO.md).
+[Versione inglese](OFFICIAL-AUTHORIZATION.md) · [Registro dei progetti](REGISTRO-AUTORIZZAZIONI.md) · [Contatti](CONTATTO.md).
