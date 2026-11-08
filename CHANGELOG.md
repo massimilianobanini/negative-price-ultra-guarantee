@@ -23,3 +23,10 @@
 - Chiariti nei documenti principali e nelle FAQ i requisiti di coinvolgimento strategico/operativo reale, accesso ai numeri e approvazione preventiva scritta per un'applicazione esterna *ufficiale*.
 - Separati usi descrittivi leciti, applicazioni indipendenti simili, progetti dell'autore e partner ufficialmente autorizzati.
 - Nessun bollino grafico, marchio registrato o certificazione formalmente concessa dichiarati in questa versione.
+
+## 2026-11-08 — Chiarimento definitivo sulla paternità e sulla diffusione
+
+- Sostituita la precedente impostazione incentrata su autorizzazioni, marchi e bollini con una documentazione di **paternità, cronologia, attribuzione e collaborazioni sviluppate direttamente con l'autore**.
+- Esplicitato che Banini **favorisce l'adozione indipendente** di pratiche simili di accountability, responsabilità ed etica; tali applicazioni non vengono automaticamente etichettate come illecite o come collaborazioni dell'autore.
+- Precisato che «sviluppato con Massimiliano Banini» richiede vero coinvolgimento strategico e/o operativo, accesso ai dati pertinenti e conferma scritta; aggiornati README, FAQ, applicazioni, posizionamento multilingue, registro e roadmap.
+- Nessun marchio, bollino, programma di certificazione o licenza generale previsto.
