@@ -36,17 +36,21 @@ No. È una **proposta editoriale e civica**. La pubblicazione non dimostra un'ad
 
 La documentazione distingue il **software pubblico** dalla **proposta di un corso AI a prezzo negativo**. Non presentare una proposta come contratto attivo senza termini e fonti.
 
-### Un'azienda può dichiararsi applicazione ufficiale senza il coinvolgimento di Massimiliano Banini?
+### Un'altra azienda può adottare liberamente una garanzia simile?
 
-**No, non secondo il programma ufficiale dell'autore.** Una promessa di rimborso con importo aggiuntivo, da sola, non autorizza un soggetto esterno a rivendicare l'approvazione di Banini. Il riconoscimento richiede **coinvolgimento strategico e/o operativo effettivo**, accesso ai dati economici necessari, esame delle condizioni, **autorizzazione preventiva scritta** e monitoraggio. Un uso descrittivo lecito o una garanzia autonoma simile non equivale a un'applicazione ufficiale. Vedi [politica di autorizzazione](../../AUTORIZZAZIONE-UFFICIALE.md) e [registro](../../REGISTRO-AUTORIZZAZIONI.md).
+**Sì.** Massimiliano Banini favorisce la diffusione di pratiche concrete di responsabilità, accountability ed etica. Il sistema da lui denominato «Prezzo Negativo / Ultra-Garanzia del Prezzo Negativo» ha però una **paternità autoriale e una cronologia specifiche**. Un'azienda indipendente non dovrebbe attribuirgli una partecipazione o un'approvazione che non esistono. [Origine e collaborazioni](../../AUTORIZZAZIONE-UFFICIALE.md).
 
-### Esiste già un «bollino di qualità» del Prezzo Negativo?
+### Quando un progetto può dirsi «sviluppato con il creatore del Prezzo Negativo»?
 
-**No.** È una possibile evoluzione da progettare e tutelare; questo repository non dichiara l'esistenza di un marchio di certificazione formalmente rilasciato.
+Quando Banini è stato **effettivamente coinvolto a livello strategico e/o operativo**, ha potuto valutare i numeri economici rilevanti e ha confermato **per iscritto** il rapporto e il perimetro della collaborazione. Questo rende tracciabile la collaborazione con l'autore, senza certificare automaticamente la qualità o la redditività del progetto. [Registro](../../REGISTRO-AUTORIZZAZIONI.md).
 
-### Chi risponde se un'azienda esterna non paga ciò che ha promesso?
+### Chi usa un rimborso più un indennizzo è automaticamente un copiatore?
 
-L'operatore che pubblica l'offerta mantiene i propri obblighi verso i clienti, secondo condizioni e legge. Il mero riferimento all'opera di Banini **non** lo rende automaticamente responsabile né implica che abbia approvato il caso.
+**No.** Meccanismi simili possono avere origini e applicazioni indipendenti. Per attribuire una derivazione o una copia occorrono **elementi documentabili**. La priorità rivendicata da Banini riguarda la denominazione e lo sviluppo **del sistema specifico**, non l'invenzione di ogni garanzia di rimborso.
+
+### Un'azienda terza può far ricadere su Banini la responsabilità delle proprie promesse?
+
+Un riferimento al suo sistema **non prova il suo coinvolgimento** e non trasferisce automaticamente su di lui gli obblighi dell'impresa. Fanno fede gli accordi, le promesse del soggetto operatore e la normativa applicabile.
 
 ### Dove trovo tutte le fonti originali?
 
