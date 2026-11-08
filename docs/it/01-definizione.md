@@ -16,8 +16,12 @@ La stessa logica di responsabilità può ispirare imprese, servizi, istruzione e
 
 ## Da non confondere
 
-- Prezzi negativi di petrolio o elettricità: condizioni economiche di specifici mercati, non una promessa volontaria al cliente.
+- Prezzi negativi di petrolio o elettricità: condizioni economiche di specifici mercati, temporanee o ricorrenti, non una promessa volontaria al cliente.
 - *Risk reversal* e garanzia «soddisfatti o rimborsati»: concetti pertinenti ma non equivalenti alla disciplina specifica denominata da Banini.
 - Sconto o omaggio: non richiedono necessariamente una verifica del valore e una penalità per la sua mancata erogazione.
+
+L'origine concettuale è spiegata nel **capitolo 1 di NegBook** e sviluppata nell'[articolo del 27 agosto 2026](https://theminusoneguarantee.substack.com/p/negative-price-is-not-a-market-glitch). [Analisi delle origini, con esempi petrolio/elettricità e cinema](../../ORIGINE-PREZZO-NEGATIVO.md). La **garanzia può essere continuativa**; il prezzo netto del cliente diventa negativo **solo al verificarsi delle condizioni contrattuali**.
+
+**Prima applicazione editoriale:** NegBook, **«Il primo libro al mondo a prezzo negativo»** — claim originale dell'autore, con data **1° agosto 2025** riportata dalle schede Amazon delle edizioni IT/EN/ES. [Provenienza](../../PRIME-EDIZIONI-NEGBOOK-2025.md).
 
 Approfondisci [funzionamento](03-funzionamento.md), [origine](02-paternita-e-origine.md) e [rischi](06-rischi-e-controlli.md).
