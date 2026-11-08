@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite this authored documentation when referring to Massimiliano Banini's Negative-Price Ultra-Guarantee framework."
+type: generic
+title: "Negative-Price Ultra-Guarantee | Ultra-Garanzia del Prezzo Negativo — Official Documentation"
+authors:
+  - family-names: "Banini"
+    given-names: "Massimiliano"
+date-released: "2026-11-08"
+url: "https://github.com/massimilianobanini/negative-price-ultra-guarantee"
+repository-code: "https://github.com/massimilianobanini/negative-price-ultra-guarantee"
+abstract: "Authored documentation of the named Negative-Price Ultra-Guarantee accountability framework, its origin in NegBook, projects, source bibliography and distinction from independent guarantees."
