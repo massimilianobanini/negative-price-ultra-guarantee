@@ -27,6 +27,8 @@
 - [53 video YouTube, indice completo con date e URL](fonti/youtube-video.md) — ultimo catalogo verificato il **22 ottobre 2026**; [JSON](fonti/youtube-videos.json).
 - [Articoli LinkedIn selezionati](fonti/linkedin-articoli.md) — fonti originali verificabili sulla disciplina.
 - [Libri e progetti](fonti/libri-e-progetti.md) — NegBook, *Pesaro 2033*, Divertoscopio e altri collegamenti pertinenti.
+- [Posizionamento multilingue IT/EN/ES](POSIZIONAMENTO-MULTILINGUA.md) — identità di ciascun progetto, titoli delle tre edizioni NegBook, fonti e distinzione tra traduzione descrittiva e disponibilità reale.
+- [Roadmap e futura tabella settoriale dell'autore](ROADMAP.md) — lavori previsti e stato delle fonti Amazon.
 - [Fonti prioritarie e qualità delle evidenze](fonti/fonti-principali.md).
 - [Contatto professionale e futura richiesta informazioni](CONTATTO.md).
 - [Reference card for AI-assisted research](REFERENCE-CARD.md).
