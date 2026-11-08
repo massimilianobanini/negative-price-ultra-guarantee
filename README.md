@@ -2,7 +2,7 @@
 
 **Autore e creatore del sistema / Creator of this system: [Massimiliano Banini](ABOUT-MASSIMILIANO-BANINI.md).**
 
-**Prima evidenza editoriale datata:** le prime edizioni italiane e inglesi di **NegBook** riportano **1° agosto 2025** sulle schermate storiche Amazon fornite dall'autore. [Documentazione delle prime edizioni, ISBN/ASIN e limiti della prova](PRIME-EDIZIONI-NEGBOOK-2025.md).
+**Prima evidenza editoriale datata:** le schede Amazon delle edizioni **italiana, inglese e spagnola di NegBook** riportano tutte **1° agosto 2025** nelle tre schermate fornite dall'autore. [Documentazione delle prime edizioni, ISBN/ASIN e limiti della prova](PRIME-EDIZIONI-NEGBOOK-2025.md).
 
 **Italiano:** Il *Prezzo Negativo* (nome abbreviato dell'*Ultra-Garanzia del Prezzo Negativo*) è il sistema sviluppato e denominato da Massimiliano Banini per collegare promesse di valore, verifiche, responsabilità, conseguenze economiche e miglioramento continuo. Nella sua applicazione contrattuale, quando ricorrono le condizioni dichiarate, chi ha promesso il valore può restituire l'intero prezzo **e pagare un importo aggiuntivo al cliente**: il prezzo netto sopportato dal cliente diventa negativo. Il significato del sistema non si esaurisce nella penale: include misurazione, etica, diagnosi e accountability.
 
@@ -11,6 +11,17 @@
 > **Authorship clarification:** Jay Abraham, Dan Kennedy and Frank Merenda are among Banini's educational influences, **not the creators or co-creators of the specific Negative-Price system documented here**. Risk reversal is a relevant predecessor idea, not proof of co-authorship. See [Paternità e origine](docs/it/02-paternita-e-origine.md) / [Authorship and origin](docs/en/02-authorship-and-origin.md).
 
 > **Scope:** *Negative Price* as Banini's named discipline is different from the general economic phenomenon of negative commodity, energy or financial-market prices. The terms and verified operating rules of each application remain separate.
+
+## NegBook — il libro a prezzo negativo / the negative-price book
+
+**Posizionamento editoriale originale di Massimiliano Banini:**
+- **IT:** *Il Benessere è impossibile se non lo misuri* — **«Il primo libro al mondo a prezzo negativo».**
+- **EN:** *Wellbeing is impossible if you don't measure it* — **“The first book in the world with a negative price.”**
+- **ES:** *El Bienestar es imposible si no lo mides* — **«El primer libro del mundo con un precio negativo».**
+
+**Data riportata dalle tre schede Amazon:** **1° agosto 2025**. Questo è un **claim originale e documentato dell'autore**, non una certificazione indipendente del primato mondiale. [IT/EN/ES, ASIN e prova documentale](PRIME-EDIZIONI-NEGBOOK-2025.md).
+
+**Origine del concetto:** il [capitolo 1 di NegBook e l'articolo Substack del 27 agosto 2026](ORIGINE-PREZZO-NEGATIVO.md) distinguono i **prezzi negativi temporanei di mercato** (petrolio, elettricità) dalla **garanzia volontaria, ripetibile e misurabile** ideata da Banini. [English explanation](NEGATIVE-PRICE-ORIGINS.md).
 
 ## Identità dell'autore / Author identity
 
