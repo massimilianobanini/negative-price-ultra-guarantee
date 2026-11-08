@@ -53,3 +53,10 @@
 - Analizzati il **capitolo 1 di NegBook** fornito dall'autore e l'[articolo originale Substack del 27/08/2026, SUB-226](https://theminusoneguarantee.substack.com/p/negative-price-is-not-a-market-glitch).
 - Aggiunte le pagine [Origini IT](ORIGINE-PREZZO-NEGATIVO.md) e [EN](NEGATIVE-PRICE-ORIGINS.md): distinguono prezzi negativi di mercato e sistema permanente di garanzia con esito negativo **condizionato**, citando CFTC ed EIA per la precisione sull'evento petrolifero 2020.
 - L'originale del capitolo 1 e le schermate Amazon non sono stati ripubblicati integralmente; la data di composizione della versione del capitolo fornita resta da stabilire rispetto all'edizione 2025.
+
+## 2026-11-08 — Revisione dell'About e del posizionamento dei progetti
+
+- Rivisto integralmente [About Massimiliano Banini](ABOUT-MASSIMILIANO-BANINI.md) in IT/EN/ES secondo le formulazioni richieste dall'autore, eliminando il riferimento alle Carnot Battery e le qualificazioni editoriali sul primato del NegBook dalla pagina biografica.
+- Specificati i posizionamenti originali del **Divertoscopio** e di **SuperoSuperiori**, con collegamento alla Skill Gemini canonica e al Kit di sopravvivenza scolastica con AI.
+- Inserito il link Amazon diretto di *Pesaro 2033* (**B0GTQC5K6W**, solo edizione italiana), il profilo Facebook personale e i riferimenti bibliografici alle traduzioni PrazerEla sulla Sessualità Positiva.
+- Uniformati gli articoli italiani **il NegBook** e **il Divertoscopio** nelle presentazioni principali.
