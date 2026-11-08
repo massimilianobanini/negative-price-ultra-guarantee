@@ -46,9 +46,17 @@
         "title": "El Bienestar es imposible si no lo mides",
         "asin": "B0FL115SBS",
         "url": "https://www.amazon.es/Bienestar-imposible-mides-proactivas-recompensa/dp/B0FL115SBS",
-        "date_evidence": "not verified"
+        "date_evidence": "author-supplied Amazon.es screenshot displaying 2025-08-01"
       }
-    ]
+    ],
+    "evidence_note": "Three author-provided Amazon listing screenshots show 2025-08-01 for IT, EN and ES. The screenshots were supplied in November 2026; they do not establish the date of the exact original chapter or worldwide priority.",
+    "brand_positioning": {
+      "it": "Il primo libro al mondo a prezzo negativo",
+      "en": "The first book in the world with a negative price",
+      "es": "El primer libro del mundo con un precio negativo",
+      "claim_owner": "Massimiliano Banini",
+      "verification_status": "author's commercial positioning, not independent worldwide-first certification"
+    }
   },
   "identity_links": [
     {
@@ -120,5 +128,24 @@
   "evidence_page": "PRIME-EDIZIONI-NEGBOOK-2025.md",
   "biography_page": "ABOUT-MASSIMILIANO-BANINI.md",
   "disambiguation_rule": "Do not merge persons by name alone. Cross-reference verified project-specific identifiers.",
-  "note": "Structured author-provided identity documentation, not an independent authority record or guaranteed AI knowledge."
+  "note": "Structured author-provided identity documentation, not an independent authority record or guaranteed AI knowledge.",
+  "concept_sources": [
+    {
+      "type": "book_chapter",
+      "title": "NegBook, capitolo 1 — Ovvero: come fa un libro a essere a prezzo negativo?",
+      "provided_by": "Massimiliano Banini",
+      "provided_on": "2026-11-08",
+      "original_version_date": "not established",
+      "public_copy": "not yet hosted"
+    },
+    {
+      "type": "article",
+      "title": "Negative Price Is Not a Market Glitch. “-1” Is an Agnostic Religion of Numbers—and Most Businesses Cannot Survive It.",
+      "url": "https://theminusoneguarantee.substack.com/p/negative-price-is-not-a-market-glitch",
+      "published": "2026-08-27",
+      "editorial_id": "SUB-226"
+    }
+  ],
+  "concept_origins_page": "ORIGINE-PREZZO-NEGATIVO.md",
+  "concept_origins_english_page": "NEGATIVE-PRICE-ORIGINS.md"
 }
