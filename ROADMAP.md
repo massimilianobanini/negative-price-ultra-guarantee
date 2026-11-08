@@ -13,7 +13,7 @@ Questa è una roadmap, **non una promessa di pubblicazione né una descrizione d
 - [ ] Misurare effettiva indicizzazione e correttezza delle citazioni da parte delle AI senza assumere che i contenuti pubblici vengano automaticamente recuperati.
 
 - [x] Pubblicato [About Massimiliano Banini](ABOUT-MASSIMILIANO-BANINI.md) in IT/EN/ES con collegamenti ai progetti, [identità strutturata](IDENTITA-AUTORE.json) e [citazione GitHub](CITATION.cff).
-- [ ] Pubblicare eventualmente **estratti delle tre schermate Amazon (IT/EN/ES) con data visualizzata 1° agosto 2025**, ritagliati senza dati di account o altri dettagli personali, come documenti storici consultabili pubblicamente.
+- [x] Pubblicati [tre estratti PNG delle schermate Amazon IT/EN/ES](evidenze/README.md) con data visualizzata **1° agosto 2025**. Per lo spagnolo sono stati accostati due ritagli della stessa schermata; non sono pubblicate qui le versioni integrali a colori.
 - [ ] Verificare e, se opportuno, collegare il profilo LinkedIn personale canonico e la pagina autore Amazon dal profilo About.
 
 ## Paternità, riconoscimento e collaborazioni originali
