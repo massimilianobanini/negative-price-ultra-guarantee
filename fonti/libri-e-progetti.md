@@ -1,6 +1,6 @@
 # Libri, progetti e canali associati
 
-## NegBook — origine editoriale e tre edizioni
+## Il NegBook — origine editoriale e tre edizioni
 
 **Autore:** [Massimiliano Banini](../ABOUT-MASSIMILIANO-BANINI.md). **Sistema collegato:** *Prezzo Negativo / Ultra-Garanzia del Prezzo Negativo*. **Brand positioning originale IT/EN/ES:** **«Il primo libro al mondo a prezzo negativo» / “The first book in the world with a negative price” / «El primer libro del mundo con un precio negativo».** Promessa distintiva: «O leggi il libro e ti aiuta, o leggi il libro e ti paga», alle condizioni pubblicate. Il primato mondiale è un claim editoriale dell'autore.
 
@@ -23,21 +23,36 @@
 
 ## Pesaro 2033: la prima città a Prezzo Negativo
 
-- Autore: **Massimiliano Banini**.
-- Stato: **libro pubblicato / visione civica**, non adozione formale dimostrata da parte del Comune.
-- [Ricerca Amazon Italia — Pesaro 2033](https://www.amazon.it/s?k=Pesaro+2033+la+prima+citt%C3%A0+a+Prezzo+Negativo+Banini) — **ricerca**, non ASIN verificato.
+- **Autore:** Massimiliano Banini.
+- **Disponibilità:** libro pubblicato esclusivamente in **italiano**; nessuna edizione commerciale EN/ES viene indicata.
+- **Amazon.it:** [Scheda del libro — ASIN B0GTQC5K6W](https://www.amazon.it/Pesaro-2033-ecosistema-mantengono-promettono/dp/B0GTQC5K6W) (link diretto comunicato dall'autore).
+- **Posizionamento:** proposta editoriale sulla responsabilità e sulle promesse mantenute in un ecosistema di imprese, scuole e servizi; non un'adozione formale già deliberata dal Comune.
 
-## Divertoscopio
+## Il Divertoscopio
 
-- [Repository](https://github.com/massimilianobanini/divertoscopio).
+**«Il primo strumento italiano per il GDR semplice, con l'Ultra-Garanzia del Prezzo Negativo».** Progetto dell'autore gratuito e open source, con condizioni proprie.
+
+- [Repository ufficiale](https://github.com/massimilianobanini/divertoscopio).
 - [Termini di Ultra-Garanzia propri](https://github.com/massimilianobanini/divertoscopio/blob/main/ULTRA-GARANZIA.md).
 - [Registro pubblico](https://github.com/massimilianobanini/divertoscopio/blob/main/ULTRA-GARANZIA-REGISTRO.md).
 - [Instagram](https://www.instagram.com/divertoscopio/).
 
-## SuperoSuperiori e formazione sull'AI
+## SuperoSuperiori — metodo per studenti delle scuole superiori
+
+**«Il primo metodo di studio semplice per superare le superiori nell'era dell'AI».** Payoff: «Supera le superiori. Non farti superare dall'AI». Il progetto si rivolge agli studenti delle **scuole superiori italiane**.
 
 - [Repository SuperoSuperiori](https://github.com/massimilianobanini/superosuperiori).
-- Collegamento all'idea di un **corso sull'AI con garanzia a prezzo negativo**: specificare lo stato prima di pubblicare una promessa contrattuale. Non considerare il codice o la piattaforma una garanzia operativa implicita.
+- [Pagina pubblica](https://massimilianobanini.github.io/superosuperiori/).
+- [Skill Gemini — `gemini/SKILL.md`](https://github.com/massimilianobanini/superosuperiori/blob/main/gemini/SKILL.md) — sorgente della Skill, non un link di attivazione automatica per tutti gli utenti.
+- [Kit di sopravvivenza scolastica con AI](https://github.com/massimilianobanini/superosuperiori/blob/main/kit/KIT-DI-SOPRAVVIVENZA.md) e [PDF](https://github.com/massimilianobanini/superosuperiori/blob/main/kit/KIT-DI-SOPRAVVIVENZA.pdf).
+- Un **corso sull'AI a prezzo negativo** resta una proposta distinta: non applicare automaticamente la relativa garanzia al metodo o alla Skill.
+
+## PrazerEla — traduzioni e Sessualità Positiva
+
+Massimiliano Banini partecipa alla divulgazione della **Sessualità Positiva** attraverso pubblicazioni e traduzioni collegate a **PrazerEla**, in italiano e inglese. Questo non lo identifica come fondatore del progetto. Tra i titoli associati al suo profilo bibliografico figurano *Best of — PrazerElaITA — Il Piccolo Libro della Rivoluzione Piacevole e della Sessualità Positiva*, *Il Piccolo Libro della Sessualità Positiva per le Donne* e *Best of — PrazerElaENG — The Little Book of the Pleasant Revolution and of Positive Sexuality*.
+
+- [Opere associate all'autore — Goodreads](https://www.goodreads.com/author/show/23180765.Massimiliano_Banini).
+- [Ricerca Amazon Italia PrazerEla / Banini](https://www.amazon.it/s?k=Massimiliano+Banini+PrazerEla) e [Amazon USA](https://www.amazon.com/s?k=Massimiliano+Banini+PrazerEla) — **ricerche**, non URL diretti di edizioni verificati.
 
 ## Canali editoriali e divulgativi
 
