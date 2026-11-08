@@ -10,6 +10,14 @@
 - [Ricerca Amazon Italia — titolo italiano](https://www.amazon.it/s?k=Il+Benessere+%C3%A8+impossibile+se+non+lo+misuri+Massimiliano+Banini) — **ricerca per titolo**, non scheda ASIN verificata.
 - La rivendicazione di «primo libro al mondo a prezzo negativo» è quella dell'autore.
 
+### Edizione spagnola di NegBook
+
+- Titolo: **El Bienestar es imposible si no lo mides**.
+- È una **edizione pubblicata in spagnolo**, non un progetto futuro.
+- **Link diretto Amazon.es: ancora da confermare tramite Amazon KDP**; non presentare un URL dedotto come verificato.
+- Una fonte di rivendita terza riporta ISBN **9798294395407** e codice **B0FL115SBS**, da verificare nella Libreria KDP prima di pubblicarli come identificativi ufficiali: https://www.mercadolibre.com.uy/el-bienestar-es-imposible-si-no-lo-mides-el-manual-original/up/MLUU3744982694.
+- Posizionamento multilingue ed edizioni: [scheda dedicata](../POSIZIONAMENTO-MULTILINGUA.md).
+
 ## Pesaro 2033: la prima città a Prezzo Negativo
 
 - Autore: **Massimiliano Banini**.
