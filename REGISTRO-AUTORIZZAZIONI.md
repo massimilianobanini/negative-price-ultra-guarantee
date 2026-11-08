@@ -12,8 +12,8 @@ Questo documento serve a distinguere **le opere dell'autore**, **le collaborazio
 
 | Progetto | Relazione con l'autore | Stato documentale | Fonte |
 | --- | --- | --- | --- |
-| NegBook | Libro dell'autore e applicazione editoriale originaria dichiarata | Pubblicato; condizioni specifiche da consultare | [NegBook](https://negbook.com/) |
-| Divertoscopio | Progetto dell'autore con garanzia sperimentale | Repository e condizioni pubbliche | [Termini](https://github.com/massimilianobanini/divertoscopio/blob/main/ULTRA-GARANZIA.md) |
+| Il NegBook | Libro dell'autore e applicazione editoriale originaria dichiarata | Pubblicato; condizioni specifiche da consultare | [NegBook](https://negbook.com/) |
+| Il Divertoscopio | Progetto dell'autore con garanzia sperimentale | Repository e condizioni pubbliche | [Termini](https://github.com/massimilianobanini/divertoscopio/blob/main/ULTRA-GARANZIA.md) |
 | Pesaro 2033 | Libro e proposta civica dell'autore | Opera editoriale, non adozione comunale | [Bibliografia](fonti/libri-e-progetti.md) |
 | SuperoSuperiori / corso AI | Progetto e proposta formativa dell'autore | Proposta da distinguere da un contratto operativo | [Repository](https://github.com/massimilianobanini/superosuperiori) |
 
