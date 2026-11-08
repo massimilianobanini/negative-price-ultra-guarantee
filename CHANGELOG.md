@@ -37,3 +37,11 @@
 - Distinti uso commerciale dell'espressione per la propria offerta, citazione attribuita del sistema dell'autore e collaborazione originale documentata.
 - La regola è descritta come aspettativa di posizionamento e attribuzione, **non** come diritto esclusivo legale automaticamente esistente; nessun marchio, bollino o certificazione previsto.
 - README, FAQ, scheda di riferimento, posizionamento multilingue, registro e roadmap aggiornati.
+
+## 2026-11-08 — NegBook 2025, Amazon e identità dell'autore
+
+- Esaminate le due schermate storiche Amazon del DOCX originale fornito dall'autore; data visualizzata sulle prime edizioni IT/EN: **1° agosto 2025**; distinti data di pubblicazione dichiarata e primato mondiale non verificato.
+- Collegati gli URL Amazon e ASIN comunicati dall'autore per **IT B0FKZZH32D, EN B0FKZYMZZN, ES B0FL115SBS**. L'accesso live Amazon non è stato disponibile nella sessione; la data della versione ES resta da verificare.
+- Pubblicati [About Massimiliano Banini](ABOUT-MASSIMILIANO-BANINI.md), [cronologia NegBook 2025](PRIME-EDIZIONI-NEGBOOK-2025.md), [identificatori strutturati](IDENTITA-AUTORE.json) e [file di citazione](CITATION.cff).
+- Aggiornati README, fonti principali, bibliografia, posizionamento multilingue, FAQ, roadmap, scheda di riferimento e contatti.
+- Le schermate originali non sono state pubblicate come immagini nel repository: il testo distingue esplicitamente il documento fornito dall'autore dalle prove consultabili pubblicamente.
