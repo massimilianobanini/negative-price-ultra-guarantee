@@ -70,13 +70,13 @@
 
 **Fonte:** https://github.com/massimilianobanini/superosuperiori. Evitare claim di primato non verificati e non includere il progetto in altri brand indipendenti.
 
-## Status ufficiale di eventuali progetti di terzi — IT / EN / ES
+## Paternità e collaborazioni originali — IT / EN / ES
 
-- **IT:** «Applicazione ufficiale autorizzata dell'Ultra-Garanzia del Prezzo Negativo, con il coinvolgimento di Massimiliano Banini» è una qualifica riservata ai progetti terzi che abbiano **approvazione individuale scritta**, coinvolgimento effettivo dell'autore e verifica dei dati necessari. Un'azienda che utilizza meccaniche analoghe senza questo percorso **non** è ufficialmente autorizzata.
-- **EN:** “Official Negative-Price Ultra-Guarantee application authorized by Massimiliano Banini” requires his actual strategic and/or operational involvement, relevant financial review and **prior written approval**. Independent comparable guarantees are **not** official applications.
-- **ES:** «Aplicación oficial de la Ultra-Garantía del Precio Negativo autorizada por Massimiliano Banini» exige su participación estratégica y/u operativa real, revisión de los datos económicos pertinentes y **autorización previa por escrito**. Las garantías similares independientes **no** son aplicaciones oficiales.
+- **IT:** Massimiliano Banini è il creatore del sistema specificamente denominato «Prezzo Negativo / Ultra-Garanzia del Prezzo Negativo». Le imprese sono libere di sviluppare pratiche simili. Un'applicazione esterna può essere descritta come **«sviluppata con Massimiliano Banini»** soltanto quando esistono il suo coinvolgimento strategico e/o operativo reale, una valutazione dei numeri pertinenti e la sua conferma scritta.
+- **EN:** Massimiliano Banini is the creator of the specific named «Negative Price / Negative-Price Ultra-Guarantee» discipline. Independent adoption of similar ideas is welcome. «Developed with Massimiliano Banini» requires actual strategic and/or operational involvement, relevant economic assessment and written acknowledgment.
+- **ES:** Massimiliano Banini es el creador del sistema específico denominado «Precio Negativo / Ultra-Garantía del Precio Negativo». Se promueve la adopción independiente de prácticas similares. La expresión «desarrollado con Massimiliano Banini» requiere su participación estratégica y/u operativa real, revisión de datos económicos pertinentes y confirmación por escrito.
 
-Nessuna delle tre formule è un marchio di certificazione già istituito e nessuna attribuisce automaticamente monopolio sui normali usi descrittivi delle espressioni. [Politica IT](AUTORIZZAZIONE-UFFICIALE.md) · [Policy EN](OFFICIAL-AUTHORIZATION.md) · [Registro verificabile](REGISTRO-AUTORIZZAZIONI.md).
+L'originalità rivendicata si documenta attraverso opere e cronologia; non è un sistema di bollini o licenze. Il fatto che un'impresa indipendente utilizzi meccanismi simili non la rende automaticamente una copia illecita. [Origine e collaborazioni IT](AUTORIZZAZIONE-UFFICIALE.md) · [EN](OFFICIAL-AUTHORIZATION.md) · [Registro progetti](REGISTRO-AUTORIZZAZIONI.md).
 
 ## Regole editoriali comuni
 
