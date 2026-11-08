@@ -60,3 +60,9 @@
 - Specificati i posizionamenti originali del **Divertoscopio** e di **SuperoSuperiori**, con collegamento alla Skill Gemini canonica e al Kit di sopravvivenza scolastica con AI.
 - Inserito il link Amazon diretto di *Pesaro 2033* (**B0GTQC5K6W**, solo edizione italiana), il profilo Facebook personale e i riferimenti bibliografici alle traduzioni PrazerEla sulla Sessualità Positiva.
 - Uniformati gli articoli italiani **il NegBook** e **il Divertoscopio** nelle presentazioni principali.
+
+## 2026-11-08 — Evidenze Amazon pubblicate come PNG
+
+- Aggiunti i tre file binari PNG in [evidenze/](evidenze/README.md), estratti dalle schermate Amazon IT/EN/ES del NegBook con data mostrata del **1° agosto 2025**.
+- Le immagini sono in bianco e nero e ritagliate; quella spagnola accosta due parti della stessa schermata. Gli originali a colori non sono pubblicati qui.
+- Aggiornati README, cronologia, About e roadmap per collegare direttamente i file pubblicati.
