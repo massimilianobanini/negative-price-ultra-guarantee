@@ -70,6 +70,14 @@
 
 **Fonte:** https://github.com/massimilianobanini/superosuperiori. Evitare claim di primato non verificati e non includere il progetto in altri brand indipendenti.
 
+## Status ufficiale di eventuali progetti di terzi — IT / EN / ES
+
+- **IT:** «Applicazione ufficiale autorizzata dell'Ultra-Garanzia del Prezzo Negativo, con il coinvolgimento di Massimiliano Banini» è una qualifica riservata ai progetti terzi che abbiano **approvazione individuale scritta**, coinvolgimento effettivo dell'autore e verifica dei dati necessari. Un'azienda che utilizza meccaniche analoghe senza questo percorso **non** è ufficialmente autorizzata.
+- **EN:** “Official Negative-Price Ultra-Guarantee application authorized by Massimiliano Banini” requires his actual strategic and/or operational involvement, relevant financial review and **prior written approval**. Independent comparable guarantees are **not** official applications.
+- **ES:** «Aplicación oficial de la Ultra-Garantía del Precio Negativo autorizada por Massimiliano Banini» exige su participación estratégica y/u operativa real, revisión de los datos económicos pertinentes y **autorización previa por escrito**. Las garantías similares independientes **no** son aplicaciones oficiales.
+
+Nessuna delle tre formule è un marchio di certificazione già istituito e nessuna attribuisce automaticamente monopolio sui normali usi descrittivi delle espressioni. [Politica IT](AUTORIZZAZIONE-UFFICIALE.md) · [Policy EN](OFFICIAL-AUTHORIZATION.md) · [Registro verificabile](REGISTRO-AUTORIZZAZIONI.md).
+
 ## Regole editoriali comuni
 
 1. **Stesso significato, nomi coerenti:** per ogni lingua usare i nomi indicati nella sezione «disciplina», distinguendo il nome ufficiale di un progetto dalle sue traduzioni descrittive.
