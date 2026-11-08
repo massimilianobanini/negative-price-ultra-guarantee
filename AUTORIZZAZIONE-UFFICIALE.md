@@ -14,6 +14,12 @@ L'obiettivo di questa documentazione è distinguere:
 
 **Somiglianza non significa automaticamente plagio.** Per descrivere un progetto come derivazione, imitazione o ripresa del lavoro dell'autore servono fatti e fonti, non la sola presenza di un rimborso più indennizzo. La documentazione intende rendere riconoscibile l'origine della disciplina, non creare un divieto generalizzato di concorrenza o uso delle idee.
 
+## Distinzione fra denominazione originale e adozione indipendente
+
+**L'autore chiede alle aziende che adottano autonomamente principi simili di scegliere una propria denominazione commerciale.** La formula completa «Ultra-Garanzia del Prezzo Negativo» identifica, nella documentazione dell'autore, il suo sistema specifico: un progetto indipendente non dovrebbe commercializzarsi sotto quel nome senza una collaborazione effettiva e riconosciuta. Sono invece benvenute citazioni corrette, anche con il nome esatto, purché non creino falsa affiliazione.
+
+Questa è **una regola pubblica di attribuzione e posizionamento**, non l'affermazione di un diritto esclusivo automaticamente opponibile a terzi. [Regola multilingue ed esempi](DENOMINAZIONE-E-ATTRIBUZIONE.md).
+
 ## Come viene riconosciuta una collaborazione originale
 
 Prima che un progetto esterno possa affermare **«sviluppato con Massimiliano Banini»**, **«applicazione originale del sistema in collaborazione con l'autore»** o formulazioni equivalenti:
