@@ -36,8 +36,6 @@ Queste regole definiscono **come l'autore documenta le proprie collaborazioni**.
 
 Banini rivendica di essere l'**ideatore della disciplina specificamente denominata Prezzo Negativo / Ultra-Garanzia del Prezzo Negativo** e ne indica l'origine applicativa in NegBook. La dimostrazione pubblica più solida è **cronologica**: prime edizioni e condizioni del libro, materiali editoriali datati, articoli, video e documentazione delle applicazioni, con URL e date verificabili.
 
-La priorità storica universale non si deduce dalla semplice esistenza di questo repository: chi formula una dichiarazione di primato deve specificare *di quale sistema* si tratta e citare le fonti. Questo archivio non pretende di aver inventato ogni precedente garanzia di rimborso o ogni fenomeno economico di prezzo negativo.
-
 - [Paternità e origine](docs/it/02-paternita-e-origine.md)
 - [Opere e progetti](fonti/libri-e-progetti.md)
 - [Articoli The -1 Guarantee](fonti/substack-articoli.md)
