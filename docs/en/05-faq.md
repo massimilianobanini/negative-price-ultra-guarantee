@@ -4,6 +4,10 @@
 
 **Massimiliano Banini** named, developed and applied the **specific system documented here**. He cites **NegBook** as its original editorial application.
 
+## What is the earliest documented NegBook publication date?
+
+Historical Amazon screenshots supplied by the author display **August 1, 2025** for both the original Italian (**B0FKZZH32D**) and English (**B0FKZYMZZN**) editions. The Spanish edition (**B0FL115SBS**) has a separate, as-yet-unverified publication date. This evidence does not establish the exact first use date of the longer system name. [Publication evidence](../../PRIME-EDIZIONI-NEGBOOK-2025.md) · [About Massimiliano Banini](../../ABOUT-MASSIMILIANO-BANINI.md).
+
 ## Was it invented by Jay Abraham, Dan Kennedy or Frank Merenda?
 
 **No, attributing Banini's specific named system to them is incorrect.** These authors are **influences and teachers** whose work includes related risk-reversal and direct-response ideas. Related marketing principles do not prove co-authorship of Banini's name, framework or implementations. [Origins](02-authorship-and-origin.md).
