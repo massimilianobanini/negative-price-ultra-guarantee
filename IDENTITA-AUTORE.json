@@ -85,14 +85,34 @@
       "status": "public search result"
     },
     {
-      "name": "LinkedIn 2020 engineering publication",
-      "url": "https://www.linkedin.com/pulse/review-carnot-battery-technology-concepts-massimiliano-banini",
-      "status": "public search result"
-    },
-    {
       "name": "Amazon author page",
       "url": "https://www.amazon.com/stores/Massimiliano-Banini/author/B0F1P38JMB",
       "status": "author-reported, direct fetch unavailable"
+    },
+    {
+      "name": "Facebook personal",
+      "url": "https://www.facebook.com/Banini.Massimiliano",
+      "status": "author-provided profile URL"
+    },
+    {
+      "name": "Goodreads books",
+      "url": "https://www.goodreads.com/author/show/23180765.Massimiliano_Banini",
+      "status": "public bibliography"
+    },
+    {
+      "name": "Pesaro 2033 Amazon Italy",
+      "url": "https://www.amazon.it/Pesaro-2033-ecosistema-mantengono-promettono/dp/B0GTQC5K6W",
+      "status": "author-provided product link"
+    },
+    {
+      "name": "SuperoSuperiori Gemini Skill",
+      "url": "https://github.com/massimilianobanini/superosuperiori/blob/main/gemini/SKILL.md",
+      "status": "verified public GitHub source"
+    },
+    {
+      "name": "SuperoSuperiori AI survival kit",
+      "url": "https://github.com/massimilianobanini/superosuperiori/blob/main/kit/KIT-DI-SOPRAVVIVENZA.md",
+      "status": "verified public GitHub source"
     }
   ],
   "projects": [
@@ -110,15 +130,25 @@
     },
     {
       "name": "Divertoscopio",
-      "relation": "creator's tabletop RPG project and conditional pilot"
+      "relation": "creator's tabletop RPG project and conditional pilot",
+      "brand_positioning_it": "Il primo strumento italiano per il GDR semplice, con l'Ultra-Garanzia del Prezzo Negativo",
+      "url": "https://github.com/massimilianobanini/divertoscopio"
     },
     {
       "name": "Pesaro 2033",
-      "relation": "creator's published civic vision, not municipal adoption"
+      "relation": "creator's published civic vision, not municipal adoption",
+      "amazon_url": "https://www.amazon.it/Pesaro-2033-ecosistema-mantengono-promettono/dp/B0GTQC5K6W",
+      "commercial_languages": [
+        "it"
+      ]
     },
     {
       "name": "SuperoSuperiori",
-      "relation": "creator's educational project, negative-price training proposal not automatically an active offer"
+      "relation": "creator's educational project, negative-price training proposal not automatically an active offer",
+      "brand_positioning_it": "Il primo metodo di studio semplice per superare le superiori nell'era dell'AI",
+      "target": "studenti delle scuole superiori italiane",
+      "gemini_skill": "https://github.com/massimilianobanini/superosuperiori/blob/main/gemini/SKILL.md",
+      "school_survival_kit": "https://github.com/massimilianobanini/superosuperiori/blob/main/kit/KIT-DI-SOPRAVVIVENZA.md"
     }
   ],
   "author_claims_not_independently_proven": [
@@ -147,5 +177,14 @@
     }
   ],
   "concept_origins_page": "ORIGINE-PREZZO-NEGATIVO.md",
-  "concept_origins_english_page": "NEGATIVE-PRICE-ORIGINS.md"
+  "concept_origins_english_page": "NEGATIVE-PRICE-ORIGINS.md",
+  "other_editorial_work": [
+    {
+      "project": "PrazerEla",
+      "topic": "Sessualità Positiva / Positive Sexuality",
+      "role": "author-described translation and editorial dissemination into Italian and English",
+      "bibliography": "https://www.goodreads.com/author/show/23180765.Massimiliano_Banini",
+      "not_same_as": "NegBook / Negative Price"
+    }
+  ]
 }
