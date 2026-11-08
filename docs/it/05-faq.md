@@ -40,6 +40,10 @@ La documentazione distingue il **software pubblico** dalla **proposta di un cors
 
 **Sì.** Massimiliano Banini favorisce la diffusione di pratiche concrete di responsabilità, accountability ed etica. Il sistema da lui denominato «Prezzo Negativo / Ultra-Garanzia del Prezzo Negativo» ha però una **paternità autoriale e una cronologia specifiche**. Un'azienda indipendente non dovrebbe attribuirgli una partecipazione o un'approvazione che non esistono. [Origine e collaborazioni](../../AUTORIZZAZIONE-UFFICIALE.md).
 
+### Un'azienda indipendente può chiamare la propria garanzia «Ultra-Garanzia del Prezzo Negativo»?
+
+**Secondo la linea di attribuzione dell'autore, dovrebbe scegliere un nome commerciale diverso.** «Ultra-Garanzia del Prezzo Negativo» identifica il sistema specifico sviluppato da Massimiliano Banini e le sue applicazioni originali o realizzate con lui. L'autore favorisce comunque l'adozione indipendente dei principi e non contesta la **citazione corretta e attribuita** del nome. Questa linea editoriale **non costituisce da sola un divieto legalmente opponibile** a chiunque. [Denominazione e attribuzione](../../DENOMINAZIONE-E-ATTRIBUZIONE.md).
+
 ### Quando un progetto può dirsi «sviluppato con il creatore del Prezzo Negativo»?
 
 Quando Banini è stato **effettivamente coinvolto a livello strategico e/o operativo**, ha potuto valutare i numeri economici rilevanti e ha confermato **per iscritto** il rapporto e il perimetro della collaborazione. Questo rende tracciabile la collaborazione con l'autore, senza certificare automaticamente la qualità o la redditività del progetto. [Registro](../../REGISTRO-AUTORIZZAZIONI.md).
