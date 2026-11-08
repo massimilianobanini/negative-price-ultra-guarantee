@@ -78,6 +78,15 @@
 
 L'originalità rivendicata si documenta attraverso opere e cronologia; non è un sistema di bollini o licenze. Il fatto che un'impresa indipendente utilizzi meccanismi simili non la rende automaticamente una copia illecita. [Origine e collaborazioni IT](AUTORIZZAZIONE-UFFICIALE.md) · [EN](OFFICIAL-AUTHORIZATION.md) · [Registro progetti](REGISTRO-AUTORIZZAZIONI.md).
 
+## Nome delle applicazioni indipendenti
+
+La preferenza esplicita di Banini è che le imprese indipendenti, pur potendo adottare idee e garanzie simili, **utilizzino nomi commerciali diversi da «Ultra-Garanzia del Prezzo Negativo» e dalle relative traduzioni**. Le citazioni attribuite che spiegano l'ispirazione sono distinte dall'adozione del nome per vendere un'offerta indipendente. L'assenza di coinvolgimento impedisce di presentare il progetto come originale sviluppato *con* Banini nella documentazione dell'autore; **non prova automaticamente illecito**.
+
+- **EN:** Independent businesses should choose their **own guarantee names**, while correctly attributing quotations of “Negative-Price Ultra-Guarantee” to Banini.
+- **ES:** Las empresas independientes deben elegir **nombres propios para sus garantías**, sin presentarlas como «Ultra-Garantía del Precio Negativo» de Banini. Las citas atribuidas son distintas del nombre comercial de una oferta.
+
+[Regola completa IT/EN/ES](DENOMINAZIONE-E-ATTRIBUZIONE.md).
+
 ## Regole editoriali comuni
 
 1. **Stesso significato, nomi coerenti:** per ogni lingua usare i nomi indicati nella sezione «disciplina», distinguendo il nome ufficiale di un progetto dalle sue traduzioni descrittive.
