@@ -28,17 +28,21 @@ No. **Only individual application terms** can establish a payment obligation. [D
 
 The book *Pesaro 2033* is an **editorial/civic vision**, not evidence of official adoption.
 
-## Can a company claim official Negative-Price Ultra-Guarantee status without Banini's involvement?
+## May other companies independently adopt similar guarantees?
 
-**No, not under Banini's official authorization policy.** A refund-plus-payment mechanism does not make a project officially authorized. The third-party project must have **actual strategic and/or operational involvement by Massimiliano Banini**, agreed access to relevant financial data, review of terms, **prior written project-specific approval**, and continuing oversight. Lawful citation or an independent similar commercial offer does not establish affiliation. See the [official authorization policy](../../OFFICIAL-AUTHORIZATION.md) and [public register](../../REGISTRO-AUTORIZZAZIONI.md).
+**Yes.** Banini welcomes the spread of ethical accountability and stronger value promises. The original named system remains associated with his authored work and its dated history. Independent adoption does not automatically create an affiliation with him. [Authorship and collaborations](../../OFFICIAL-AUTHORIZATION.md).
 
-## Does an official quality seal or formal certification already exist?
+## When can a project say it was developed with the creator?
 
-**No.** No seal or formal certification program is currently issued by this repository.
+Only if Banini was **genuinely involved strategically and/or operationally**, reviewed relevant business numbers and **acknowledged in writing** the scope of his collaboration. This documents provenance; it is not a certification of success. [Project record](../../REGISTRO-AUTORIZZAZIONI.md).
 
-## Who is liable for a third-party company's refund or payout?
+## Is anyone using a refund plus an extra payment automatically a copycat?
 
-The operating company remains responsible for its customer obligations subject to contracts and applicable law. A mention of Banini's work does not prove his involvement or automatically make him responsible.
+**No.** Similar mechanisms are not automatically evidence of plagiarism. Any derivative claim should be supported by concrete sources. Banini's priority claim concerns his **specific named framework**, not every past risk-reversal idea.
+
+## Does mentioning Banini's system make him liable for a company's payouts?
+
+No automatic liability follows from an independent reference or adoption. Responsibility depends on the operator's customer terms, any actual agreement and applicable law.
 
 ## Where are the source materials?
 
