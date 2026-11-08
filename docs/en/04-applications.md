@@ -9,11 +9,11 @@
 | [Pesaro 2033](../../fonti/libri-e-progetti.md) | Published book / civic proposal | Editorial vision, **not evidence of official municipal adoption** |
 | [SuperoSuperiori](https://github.com/massimilianobanini/superosuperiori) | Public tutoring project; negative-price AI course proposed | Proposed educational application; not automatically an active guarantee |
 
-## External businesses and official approval
+## Author's original projects, collaborations and independent adoption
 
-An independent company that adopts a similar refund-plus-payment mechanism is **not** an officially authorized Banini implementation. Formal public affiliation requires his actual strategic and/or operational involvement, agreed access to material financial data and project-specific **prior written authorization**. See [policy](../../OFFICIAL-AUTHORIZATION.md) and [public register](../../REGISTRO-AUTORIZZAZIONI.md).
+Banini's own projects belong to the documented original line of his named system. A third-party project may be described as **“developed with Massimiliano Banini”** only if his actual strategic and/or operational involvement, relevant business review and written acknowledgment are established.
 
-NegBook and Divertoscopio are the author's own projects, not certified third-party operators. Editorial and training proposals are not proof of authorized external adoption.
+Banini **welcomes independent adoption** of similar ethical accountability and risk-reversal approaches. Independent implementations are not automatically Banini's collaborations, nor are they automatically unlawful copies. See [origin and collaboration rules](../../OFFICIAL-AUTHORIZATION.md) and the [project record](../../REGISTRO-AUTORIZZAZIONI.md).
 
 Each project has its **own status and terms**. A published book, a proposal and an operative guarantee are not interchangeable.
 
