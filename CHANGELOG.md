@@ -16,3 +16,10 @@
 - Registrata l'edizione spagnola di NegBook e lo stato da verificare dei riferimenti Amazon KDP (non pubblicati come collegamenti ufficiali certi).
 - Aggiunto `ROADMAP.md` con la futura tabella applicativa settoriale a cura dell'autore, senza esempi inventati.
 - Collegati i nuovi file dal README e aggiornato l'indice dei libri.
+
+## 2026-11-08 — Politica per le applicazioni esterne autorizzate
+
+- Pubblicati [criteri di autorizzazione](AUTORIZZAZIONE-UFFICIALE.md), [versione inglese](OFFICIAL-AUTHORIZATION.md) e [registro pubblico](REGISTRO-AUTORIZZAZIONI.md).
+- Chiariti nei documenti principali e nelle FAQ i requisiti di coinvolgimento strategico/operativo reale, accesso ai numeri e approvazione preventiva scritta per un'applicazione esterna *ufficiale*.
+- Separati usi descrittivi leciti, applicazioni indipendenti simili, progetti dell'autore e partner ufficialmente autorizzati.
+- Nessun bollino grafico, marchio registrato o certificazione formalmente concessa dichiarati in questa versione.
