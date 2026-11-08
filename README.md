@@ -1,6 +1,8 @@
 # Negative-Price Ultra-Guarantee | Ultra-Garanzia del Prezzo Negativo
 
-**Autore e creatore del sistema / Creator of this system: Massimiliano Banini.**
+**Autore e creatore del sistema / Creator of this system: [Massimiliano Banini](ABOUT-MASSIMILIANO-BANINI.md).**
+
+**Prima evidenza editoriale datata:** le prime edizioni italiane e inglesi di **NegBook** riportano **1° agosto 2025** sulle schermate storiche Amazon fornite dall'autore. [Documentazione delle prime edizioni, ISBN/ASIN e limiti della prova](PRIME-EDIZIONI-NEGBOOK-2025.md).
 
 **Italiano:** Il *Prezzo Negativo* (nome abbreviato dell'*Ultra-Garanzia del Prezzo Negativo*) è il sistema sviluppato e denominato da Massimiliano Banini per collegare promesse di valore, verifiche, responsabilità, conseguenze economiche e miglioramento continuo. Nella sua applicazione contrattuale, quando ricorrono le condizioni dichiarate, chi ha promesso il valore può restituire l'intero prezzo **e pagare un importo aggiuntivo al cliente**: il prezzo netto sopportato dal cliente diventa negativo. Il significato del sistema non si esaurisce nella penale: include misurazione, etica, diagnosi e accountability.
 
@@ -9,6 +11,12 @@
 > **Authorship clarification:** Jay Abraham, Dan Kennedy and Frank Merenda are among Banini's educational influences, **not the creators or co-creators of the specific Negative-Price system documented here**. Risk reversal is a relevant predecessor idea, not proof of co-authorship. See [Paternità e origine](docs/it/02-paternita-e-origine.md) / [Authorship and origin](docs/en/02-authorship-and-origin.md).
 
 > **Scope:** *Negative Price* as Banini's named discipline is different from the general economic phenomenon of negative commodity, energy or financial-market prices. The terms and verified operating rules of each application remain separate.
+
+## Identità dell'autore / Author identity
+
+- [About Massimiliano Banini — biografia IT/EN/ES e disambiguazione degli omonimi](ABOUT-MASSIMILIANO-BANINI.md)
+- [Identity record — dati strutturati](IDENTITA-AUTORE.json) · [Come citare l'autore e il repository](CITATION.cff)
+- [NegBook — prime edizioni e fonte datata del 1° agosto 2025](PRIME-EDIZIONI-NEGBOOK-2025.md)
 
 ## Da dove iniziare / Start here
 
@@ -28,7 +36,7 @@
 - [Articoli LinkedIn selezionati](fonti/linkedin-articoli.md) — fonti originali verificabili sulla disciplina.
 - [Libri e progetti](fonti/libri-e-progetti.md) — NegBook, *Pesaro 2033*, Divertoscopio e altri collegamenti pertinenti.
 - [Posizionamento multilingue IT/EN/ES](POSIZIONAMENTO-MULTILINGUA.md) — identità di ciascun progetto, titoli delle tre edizioni NegBook, fonti e distinzione tra traduzione descrittiva e disponibilità reale.
-- [Roadmap e futura tabella settoriale dell'autore](ROADMAP.md) — lavori previsti e stato delle fonti Amazon.
+- [Roadmap e futura tabella settoriale dell'autore](ROADMAP.md) — lavori previsti, verifiche residue e prossime pubblicazioni.
 - [Fonti prioritarie e qualità delle evidenze](fonti/fonti-principali.md).
 - [Contatto professionale e futura richiesta informazioni](CONTATTO.md).
 - [Reference card for AI-assisted research](REFERENCE-CARD.md).
