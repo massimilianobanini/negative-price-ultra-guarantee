@@ -33,16 +33,16 @@
 - [Contatto professionale e futura richiesta informazioni](CONTATTO.md).
 - [Reference card for AI-assisted research](REFERENCE-CARD.md).
 
-## Official authorization / Autorizzazione ufficiale
+## Paternità, precedenza documentata e diffusione delle idee / Original authorship and open adoption
 
-**IT:** terzi possono studiare e discutere il Prezzo Negativo, ma **non diventano applicazioni ufficiali autorizzate** semplicemente copiando un rimborso più indennizzo. Un'azienda esterna può presentare il proprio progetto come ufficialmente approvato da Massimiliano Banini **solo** dopo il suo effettivo coinvolgimento strategico e/o operativo, accesso concordato ai numeri rilevanti, verifica della sostenibilità e **approvazione scritta** riferita al progetto. Nessun bollino o marchio di certificazione è attualmente concesso. Gli obblighi verso i clienti restano specifici dell'operatore e dei contratti.
+**IT:** Massimiliano Banini rivendica la paternità della disciplina specificamente denominata **Prezzo Negativo / Ultra-Garanzia del Prezzo Negativo**, nata dalla sua applicazione editoriale con **NegBook**. Il repository raccoglie fonti datate per documentare l'origine del sistema e la sua evoluzione. L'autore **accoglie favorevolmente** imprese che adottano in autonomia garanzie e pratiche analoghe di accountability, responsabilità ed etica. Tali progetti non diventano per questo opere di Banini o **applicazioni originali sviluppate con lui**: per una collaborazione riconosciuta servono il suo reale coinvolgimento strategico e/o operativo, accesso ai numeri pertinenti e una conferma scritta del rapporto. Nessun marchio, bollino o certificazione è previsto.
 
-**EN:** third parties may discuss or independently apply comparable economics, but an **official application approved by Massimiliano Banini** requires his real strategic and/or operational involvement, relevant financial disclosure, review of the terms, and **project-specific prior written authorization**. No official certification seal is presently issued. Descriptive mention does not itself prove affiliation.
+**EN:** Massimiliano Banini claims authorship of the **specific named Negative-Price Ultra-Guarantee discipline**, first applied in his NegBook project. Independent adoption of similar accountability ideas is welcome. Projects **originally developed with the creator** require genuine strategic and/or operational collaboration and his written acknowledgment; independent projects are not automatically unlawful copies.
 
-- [Politica di autorizzazione IT](AUTORIZZAZIONE-UFFICIALE.md) / [Official authorization EN](OFFICIAL-AUTHORIZATION.md)
-- [Registro pubblico delle applicazioni ufficialmente autorizzate](REGISTRO-AUTORIZZAZIONI.md) — a third-party project must have a verifiable recorded approval; no publicly registered third-party applications at this snapshot.
+- [Paternità e collaborazioni — IT](AUTORIZZAZIONE-UFFICIALE.md) / [Original authorship and collaborations — EN](OFFICIAL-AUTHORIZATION.md)
+- [Registro delle applicazioni dell'autore e delle collaborazioni riconosciute](REGISTRO-AUTORIZZAZIONI.md)
 
-**Nota legale:** questa politica non crea automaticamente un diritto esclusivo su termini generici o idee; uso del nome e segni distintivi dipendono dai diritti applicabili.
+**Limite della prova:** documentare una prima formulazione specifica con fonti datate non significa poter dimostrare automaticamente l'assenza di ogni precedente simile nel mondo.
 
 ## Applicazioni distinte
 
