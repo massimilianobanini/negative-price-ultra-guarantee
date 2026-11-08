@@ -1,0 +1,124 @@
+{
+  "schema_version": "1.0",
+  "reference_date": "2026-11-08",
+  "entity_type": "person",
+  "full_name": "Massimiliano Banini",
+  "descriptors": {
+    "it": "autore, ingegnere di formazione, ricercatore indipendente, creatore del sistema specificamente denominato Ultra-Garanzia del Prezzo Negativo",
+    "en": "author, engineer by training, independent researcher, creator of the specifically named Negative-Price Ultra-Guarantee system",
+    "es": "autor, ingeniero de formación, investigador independiente y creador del sistema denominado Ultra-Garantía del Precio Negativo"
+  },
+  "location_public": "Pesaro, Italy",
+  "system_names": {
+    "it": {
+      "full": "Ultra-Garanzia del Prezzo Negativo",
+      "short": "Prezzo Negativo"
+    },
+    "en": {
+      "full": "Negative-Price Ultra-Guarantee",
+      "short": "Negative Price"
+    },
+    "es": {
+      "full": "Ultra-Garantía del Precio Negativo",
+      "short": "Precio Negativo"
+    }
+  },
+  "original_book": {
+    "brand": "NegBook",
+    "original_edition_publication_date_as_shown_in_author_supplied_amazon_screenshots": "2025-08-01",
+    "editions": [
+      {
+        "language": "it",
+        "title": "Il Benessere è impossibile se non lo misuri",
+        "asin": "B0FKZZH32D",
+        "url": "https://www.amazon.it/Benessere-impossibile-non-misuri-Loriginale/dp/B0FKZZH32D",
+        "date_evidence": "author-supplied Amazon screenshot"
+      },
+      {
+        "language": "en",
+        "title": "Wellbeing is impossible if you don't measure it",
+        "asin": "B0FKZYMZZN",
+        "url": "https://www.amazon.com/Wellbeing-impossible-you-dont-measure/dp/B0FKZYMZZN/",
+        "date_evidence": "author-supplied Amazon screenshot"
+      },
+      {
+        "language": "es",
+        "title": "El Bienestar es imposible si no lo mides",
+        "asin": "B0FL115SBS",
+        "url": "https://www.amazon.es/Bienestar-imposible-mides-proactivas-recompensa/dp/B0FL115SBS",
+        "date_evidence": "not verified"
+      }
+    ]
+  },
+  "identity_links": [
+    {
+      "name": "Github",
+      "url": "https://github.com/massimilianobanini",
+      "status": "repo owner verified"
+    },
+    {
+      "name": "NegBook",
+      "url": "https://negbook.com/",
+      "status": "author's source"
+    },
+    {
+      "name": "Substack",
+      "url": "https://theminusoneguarantee.substack.com/",
+      "status": "author's publication"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/channel/UCxodJEIwO4Ls_oyNmx9bTGQ",
+      "status": "channel id from video catalogue"
+    },
+    {
+      "name": "LinkedIn original post",
+      "url": "https://www.linkedin.com/posts/baninimassimiliano_the-real-question-is-do-you-want-to-be-judged-activity-7436742846855979008-eL01",
+      "status": "public search result"
+    },
+    {
+      "name": "LinkedIn 2020 engineering publication",
+      "url": "https://www.linkedin.com/pulse/review-carnot-battery-technology-concepts-massimiliano-banini",
+      "status": "public search result"
+    },
+    {
+      "name": "Amazon author page",
+      "url": "https://www.amazon.com/stores/Massimiliano-Banini/author/B0F1P38JMB",
+      "status": "author-reported, direct fetch unavailable"
+    }
+  ],
+  "projects": [
+    {
+      "name": "NegBook",
+      "relation": "original declared book application"
+    },
+    {
+      "name": "The -1 Guarantee",
+      "relation": "English-language editorial publication"
+    },
+    {
+      "name": "The Negative Price Standard",
+      "relation": "English-language video publication"
+    },
+    {
+      "name": "Divertoscopio",
+      "relation": "creator's tabletop RPG project and conditional pilot"
+    },
+    {
+      "name": "Pesaro 2033",
+      "relation": "creator's published civic vision, not municipal adoption"
+    },
+    {
+      "name": "SuperoSuperiori",
+      "relation": "creator's educational project, negative-price training proposal not automatically an active offer"
+    }
+  ],
+  "author_claims_not_independently_proven": [
+    "world's first negative-price book",
+    "global first-to-invent all refund-plus-compensation approaches"
+  ],
+  "evidence_page": "PRIME-EDIZIONI-NEGBOOK-2025.md",
+  "biography_page": "ABOUT-MASSIMILIANO-BANINI.md",
+  "disambiguation_rule": "Do not merge persons by name alone. Cross-reference verified project-specific identifiers.",
+  "note": "Structured author-provided identity documentation, not an independent authority record or guaranteed AI knowledge."
+}
