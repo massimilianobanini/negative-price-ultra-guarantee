@@ -66,10 +66,10 @@
 
 ## Applicazioni distinte
 
-1. **NegBook** — primo caso editoriale dichiarato dall'autore; libro pubblicato con promessa di rimborso + 1 € alle condizioni previste. [Sito ufficiale](https://negbook.com/).
-2. **Divertoscopio** — applicazione sperimentale su prodotto gratuito: indennizzo reputazionale di 1 € subordinato a requisiti e fondo. [Termini specifici](https://github.com/massimilianobanini/divertoscopio/blob/main/ULTRA-GARANZIA.md).
-3. **Pesaro 2033: la prima città a Prezzo Negativo** — sviluppo editoriale e visione di applicazione civica; non si deve dedurre che un Comune abbia già adottato il sistema.
-4. **SuperoSuperiori** — progetto formativo collegato a una proposta di corso sull'AI a prezzo negativo; non implica automaticamente una garanzia già operativa sul software.
+1. **Il NegBook** — «Il primo libro al mondo a prezzo negativo», pubblicato in italiano, inglese e spagnolo il 1° agosto 2025, con promessa di rimborso + 1 € alle condizioni previste. [Sito ufficiale](https://negbook.com/) · [Tre edizioni Amazon](fonti/libri-e-progetti.md).
+2. **Il Divertoscopio** — «Il primo strumento italiano per il GDR semplice, con l'Ultra-Garanzia del Prezzo Negativo». Progetto gratuito e open source, con condizioni proprie. [Repository ufficiale](https://github.com/massimilianobanini/divertoscopio) · [Termini specifici](https://github.com/massimilianobanini/divertoscopio/blob/main/ULTRA-GARANZIA.md).
+3. **Pesaro 2033: la prima città a Prezzo Negativo** — [libro pubblicato su Amazon.it](https://www.amazon.it/Pesaro-2033-ecosistema-mantengono-promettono/dp/B0GTQC5K6W), disponibile solo in italiano; visione civica, non adozione comunale già avvenuta.
+4. **SuperoSuperiori** — «Il primo metodo di studio semplice per superare le superiori nell'era dell'AI». Per studenti delle scuole superiori, con [repository](https://github.com/massimilianobanini/superosuperiori), [Skill Gemini](https://github.com/massimilianobanini/superosuperiori/blob/main/gemini/SKILL.md) e [Kit di sopravvivenza scolastica con AI](https://github.com/massimilianobanini/superosuperiori/blob/main/kit/KIT-DI-SOPRAVVIVENZA.md); il corso a prezzo negativo rimane una proposta distinta.
 
 **Importante:** questa documentazione è informativa, non un'offerta di indennizzo universale. Per presentare una richiesta si consultano **soltanto** i termini dell'applicazione concreta.
 
