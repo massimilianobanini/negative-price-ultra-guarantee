@@ -18,13 +18,13 @@
 
 | Lingua | Titolo del libro | Posizionamento e disponibilità |
 | --- | --- | --- |
-| IT | **Il Benessere è impossibile se non lo misuri** | Libro pubblicato; «il primo libro al mondo a prezzo negativo» è un claim dell'autore |
-| EN | **Wellbeing is impossible if you don't measure it** | Published English edition; «the first book in the world with a negative price» is the author's claim |
-| ES | **El Bienestar es imposible si no lo mides** | Edición en español publicada; «el primer libro del mundo con precio negativo» è una traduzione esplicativa del claim, non una formula promozionale spagnola approvata in questa sede |
+| IT | **Il Benessere è impossibile se non lo misuri** | «Il primo libro al mondo a prezzo negativo» — posizionamento originale dell'autore |
+| EN | **Wellbeing is impossible if you don't measure it** | “The first book in the world with a negative price” — original author positioning |
+| ES | **El Bienestar es imposible si no lo mides** | «El primer libro del mundo con un precio negativo» — claim riportato dalla scheda Amazon.es dell'autore |
 
 **Sito primario:** https://negbook.com/
 
-**Amazon — URL diretti comunicati dall'autore:** [edizione IT — ASIN B0FKZZH32D](https://www.amazon.it/Benessere-impossibile-non-misuri-Loriginale/dp/B0FKZZH32D) · [edizione EN — ASIN B0FKZYMZZN](https://www.amazon.com/Wellbeing-impossible-you-dont-measure/dp/B0FKZYMZZN/) · [edizione ES — ASIN B0FL115SBS](https://www.amazon.es/Bienestar-imposible-mides-proactivas-recompensa/dp/B0FL115SBS). **Data nelle schermate storiche fornite:** 1° agosto 2025 per le prime edizioni IT ed EN; **data spagnola non verificata**. Gli URL sono specifici, ma l'accessibilità live delle schede non è stata verificabile dal sistema web. [Dettaglio delle prove](PRIME-EDIZIONI-NEGBOOK-2025.md).
+**Amazon — URL diretti comunicati dall'autore:** [edizione IT — ASIN B0FKZZH32D](https://www.amazon.it/Benessere-impossibile-non-misuri-Loriginale/dp/B0FKZZH32D) · [edizione EN — ASIN B0FKZYMZZN](https://www.amazon.com/Wellbeing-impossible-you-dont-measure/dp/B0FKZYMZZN/) · [edizione ES — ASIN B0FL115SBS](https://www.amazon.es/Bienestar-imposible-mides-proactivas-recompensa/dp/B0FL115SBS). **Data nelle tre schermate Amazon fornite:** **1° agosto 2025 per IT, EN ed ES**, inclusa la nuova schermata Amazon.es. Gli URL sono specifici, ma l'accessibilità live delle schede non è stata verificabile dal sistema web. [Dettaglio delle prove](PRIME-EDIZIONI-NEGBOOK-2025.md) · [origine concettuale del Prezzo Negativo](ORIGINE-PREZZO-NEGATIVO.md).
 
 **Regola:** associare ogni edizione al proprio titolo, lingua, ISBN/ASIN confermato, formato, paese/store, link del prodotto verificato e condizioni pertinenti. Non confondere la normale politica di reso Amazon con l'eventuale indennizzo ulteriore promesso dall'autore.
 
