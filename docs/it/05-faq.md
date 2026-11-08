@@ -6,7 +6,7 @@
 
 ### Qual è la prima data documentata di pubblicazione di NegBook?
 
-Le schermate delle prime schede Amazon italiana e inglese fornite dall'autore riportano entrambe **1° agosto 2025**; i rispettivi ASIN sono `B0FKZZH32D` e `B0FKZYMZZN`. L'edizione spagnola `B0FL115SBS` è collegata, ma la data non risulta dalle schermate esaminate. La data del libro **non dimostra automaticamente** quella del primo uso della denominazione completa «Ultra-Garanzia del Prezzo Negativo». Vedi [fonti del 2025](../../PRIME-EDIZIONI-NEGBOOK-2025.md) e [About Massimiliano Banini](../../ABOUT-MASSIMILIANO-BANINI.md).
+Le **tre schermate Amazon** fornite dall'autore riportano **1° agosto 2025** per le edizioni italiana (`B0FKZZH32D`), inglese (`B0FKZYMZZN`) e **spagnola** (`B0FL115SBS`). La data del libro **non dimostra automaticamente** quella del primo uso della denominazione completa «Ultra-Garanzia del Prezzo Negativo». Vedi [fonti del 2025](../../PRIME-EDIZIONI-NEGBOOK-2025.md) e [About Massimiliano Banini](../../ABOUT-MASSIMILIANO-BANINI.md).
 
 ### È stato inventato da Jay Abraham, Dan Kennedy o Frank Merenda?
 
@@ -18,7 +18,7 @@ La componente economica può prevedere un pagamento oltre al rimborso, ma lo sta
 
 ### La denominazione «Prezzo Negativo» coincide con i prezzi negativi del petrolio o dell'energia?
 
-No. Prezzi negativi in mercati delle materie prime o elettrici si riferiscono a condizioni di scambio specifiche; qui si parla di **un impegno volontario con conseguenze sul valore promesso**.
+No. Prezzi negativi del petrolio o dell'elettricità sono fenomeni di mercato legati a circostanze particolari; qui si parla di **un impegno volontario, strutturato, misurabile e ripetibile su un valore promesso**. Questo confronto compare già nel **capitolo 1 di NegBook** e viene spiegato nell'[articolo del 27 agosto 2026](https://theminusoneguarantee.substack.com/p/negative-price-is-not-a-market-glitch). [Approfondimento](../../ORIGINE-PREZZO-NEGATIVO.md). La continuità della garanzia **non** significa che tutte le transazioni abbiano prezzo negativo.
 
 ### È provato che sia la prima garanzia con rimborso più pagamento in assoluto?
 
