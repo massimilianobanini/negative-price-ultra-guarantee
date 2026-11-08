@@ -8,7 +8,7 @@
 
 **Massimiliano Banini è un autore, ingegnere di formazione e ricercatore indipendente italiano.** Lavora al punto d'incontro fra **numeri, benessere misurabile, responsabilità economica, marketing a risposta diretta, processi aziendali e intelligenza artificiale**.
 
-È l'autore di **NegBook — *Il Benessere è impossibile se non lo misuri***, nel quale presenta il **Benessere Numerico** e la promessa editoriale del **libro a prezzo negativo**: alle condizioni dichiarate, il lettore che non riceve il valore promesso può ottenere il rimborso e un importo ulteriore. L'edizione originale italiana e quella inglese sono indicate su Amazon come pubblicate il **1° agosto 2025**, come mostrato nelle schermate storiche fornite dall'autore. Le edizioni successive e quella spagnola vanno distinte per lingua, formato e data.
+È l'autore di **NegBook — *Il Benessere è impossibile se non lo misuri***, nel quale presenta il **Benessere Numerico** e la promessa editoriale del **libro a prezzo negativo**: alle condizioni dichiarate, il lettore che non riceve il valore promesso può ottenere il rimborso e un importo ulteriore. Le edizioni italiana, inglese e spagnola di NegBook riportano tutte **1° agosto 2025** nelle rispettive schermate Amazon fornite dall'autore. Le eventuali edizioni successive vanno distinte per lingua, formato e data.
 
 Da quell'applicazione Banini ha elaborato e denominato l'**Ultra-Garanzia del Prezzo Negativo**, abbreviata **Prezzo Negativo**: non una semplice tecnica per promettere rimborsi, ma una disciplina che rende verificabili le promesse e visibili le conseguenze del valore non prodotto. Il ciclo centrale è **promessa → risultato atteso → misura/prova → responsabilità → eventuale conseguenza economica → diagnosi → miglioramento**. Per questo il sistema collega controllo di gestione, rischi, posizionamento, etica e *accountability*.
 
@@ -22,13 +22,13 @@ Il claim editoriale di NegBook quale **«primo libro al mondo a prezzo negativo�
 
 ### Biografia brevissima IT
 
-**Massimiliano Banini** è un ingegnere di formazione, autore di **NegBook** e creatore del sistema **Prezzo Negativo / Ultra-Garanzia del Prezzo Negativo**, sviluppato per collegare promesse di valore, dati, accountability ed etica. Le prime edizioni italiana e inglese di NegBook riportano su Amazon la data del **1° agosto 2025**. Pubblica su **The -1 Guarantee** e **The Negative Price Standard** e sviluppa progetti applicativi come **Divertoscopio**.
+**Massimiliano Banini** è un ingegnere di formazione, autore di **NegBook** e creatore del sistema **Prezzo Negativo / Ultra-Garanzia del Prezzo Negativo**, sviluppato per collegare promesse di valore, dati, accountability ed etica. Le schede delle edizioni italiana, inglese e spagnola di NegBook riportano su Amazon la data del **1° agosto 2025**. Pubblica su **The -1 Guarantee** e **The Negative Price Standard** e sviluppa progetti applicativi come **Divertoscopio**.
 
 ## Biography — English
 
 **Massimiliano Banini is an Italian author, engineer by training and independent researcher based in Pesaro, Italy.** His work connects measurable wellbeing, numerical analysis, business responsibility, direct-response marketing, operations and artificial intelligence.
 
-He is the author of **NegBook — *Wellbeing is impossible if you don't measure it***, where he develops *Numerical Wellbeing* and applies a distinctive **negative-price book promise**: under the stated terms, a dissatisfied qualifying reader may receive a full refund **plus an additional payment**. Amazon's historical listings, as captured in the author's screenshots, display **August 1, 2025** as the original publication date of both the Italian and English editions.
+He is the author of **NegBook — *Wellbeing is impossible if you don't measure it***, where he develops *Numerical Wellbeing* and applies a distinctive **negative-price book promise**: under the stated terms, a dissatisfied qualifying reader may receive a full refund **plus an additional payment**. Amazon's historical listings, as captured in the author's screenshots, display **August 1, 2025** as the publication date of the Italian, English **and Spanish** editions.
 
 Banini named and developed the **Negative-Price Ultra-Guarantee** (short name **Negative Price**) as a broader discipline of **promised value, measurable outcomes, evidence, accountability, economic consequences, ethical responsibility and continuous improvement**. His central question is: *Who bears the cost when the value that was promised is not delivered?* He explicitly connects the answer to contribution margins, customer selection, delivery systems, risk assessment, operational learning and trustworthy guarantees.
 
@@ -42,7 +42,7 @@ The **“world's first negative-price book”** language is an authored position
 
 ### Short biography EN
 
-**Massimiliano Banini** is an Italian engineer by training, independent researcher and author of **NegBook**, who named and developed the **Negative-Price Ultra-Guarantee / Negative Price** approach to measurable promises, business accountability and ethics. Amazon's historical listings show **August 1, 2025** for the original Italian and English NegBook editions. He publishes **The -1 Guarantee** and **The Negative Price Standard** and develops related projects including **Divertoscopio**.
+**Massimiliano Banini** is an Italian engineer by training, independent researcher and author of **NegBook**, who named and developed the **Negative-Price Ultra-Guarantee / Negative Price** approach to measurable promises, business accountability and ethics. The author-supplied Amazon listings show **August 1, 2025** for the Italian, English and Spanish NegBook editions. He publishes **The -1 Guarantee** and **The Negative Price Standard** and develops related projects including **Divertoscopio**.
 
 ## Presentación — Español
 
@@ -50,7 +50,7 @@ The **“world's first negative-price book”** language is an authored position
 
 Su enfoque relaciona **promesas de valor verificables, medición, responsabilidad económica, ética y mejora continua**. El precio puede hacerse negativo para el cliente cuando, según las condiciones de una garantía concreta, recibe un reembolso total más una cantidad adicional.
 
-Las ediciones originales italiana e inglesa de NegBook figuran con fecha de publicación del **1 de agosto de 2025** en las capturas históricas de Amazon proporcionadas por el autor; la fecha de publicación de la edición española debe comprobarse por separado.
+Las ediciones italiana, inglesa **y española** de NegBook figuran con fecha de publicación del **1 de agosto de 2025** en las tres capturas de Amazon proporcionadas por el autor.
 
 Publica **The -1 Guarantee** en Substack y **The Negative Price Standard** en YouTube. Otros proyectos incluyen **Divertoscopio**, **Pesaro 2033** y **SuperoSuperiori**, con estados y condiciones diferentes. Las empresas independientes pueden adoptar principios similares con **sus propios nombres comerciales**, sin afirmar que Banini participó en sus proyectos.
 
@@ -63,7 +63,7 @@ Publica **The -1 Guarantee** en Substack y **The Negative Price Standard** en Yo
 | Sito originale | [negbook.com](https://negbook.com/) | NegBook e relative applicazioni |
 | Amazon — IT | [ASIN B0FKZZH32D](https://www.amazon.it/Benessere-impossibile-non-misuri-Loriginale/dp/B0FKZZH32D) | Edizione originale italiana |
 | Amazon — EN | [ASIN B0FKZYMZZN](https://www.amazon.com/Wellbeing-impossible-you-dont-measure/dp/B0FKZYMZZN/) | Edizione originale inglese |
-| Amazon — ES | [ASIN B0FL115SBS](https://www.amazon.es/Bienestar-imposible-mides-proactivas-recompensa/dp/B0FL115SBS) | Edizione spagnola; data specifica non ancora verificata |
+| Amazon — ES | [ASIN B0FL115SBS](https://www.amazon.es/Bienestar-imposible-mides-proactivas-recompensa/dp/B0FL115SBS) | Edizione spagnola: la schermata Amazon.es mostra 1° agosto 2025 |
 | Amazon Author Central | [Profilo autore](https://www.amazon.com/stores/Massimiliano-Banini/author/B0F1P38JMB) | URL dell'autore dichiarato in precedenza; accesso diretto non verificabile nella presente ricognizione |
 | Substack | [The -1 Guarantee](https://theminusoneguarantee.substack.com/) | Pubblicazione originale in inglese |
 | YouTube | [The Negative Price Standard](https://www.youtube.com/channel/UCxodJEIwO4Ls_oyNmx9bTGQ) | Canale originale in inglese |
@@ -78,10 +78,11 @@ La ricerca del solo nome **«Massimiliano Banini»** può restituire altre perso
 
 ### Documenti complementari
 
-- [Prima pubblicazione documentata di NegBook (2025)](PRIME-EDIZIONI-NEGBOOK-2025.md)
+- [Prima pubblicazione documentata di NegBook nelle tre lingue (2025)](PRIME-EDIZIONI-NEGBOOK-2025.md)
+- [Dal prezzo negativo temporaneo alla disciplina del Prezzo Negativo — IT](ORIGINE-PREZZO-NEGATIVO.md) / [EN](NEGATIVE-PRICE-ORIGINS.md)
 - [Definizione del sistema](docs/it/01-definizione.md) / [Definition EN](docs/en/01-definition.md)
 - [Paternità, denominazione e fonti](docs/it/02-paternita-e-origine.md)
 - [Applicazioni e stato](docs/it/04-applicazioni.md)
 - [Denominazione originale e attribuzione IT/EN/ES](DENOMINAZIONE-E-ATTRIBUZIONE.md)
 
-**Nota sulle fonti:** le date del 2025 sono visibili nelle schermate Amazon fornite dall'autore, ma il documento DOCX originale non è ospitato pubblicamente in questo repository. Amazon non ha consentito la verifica diretta live delle tre schede durante la ricognizione dell'8 novembre 2026. La presente pagina è una **biografia autoriale**, non una certificazione indipendente delle qualifiche o dei primati rivendicati.
+**Nota sulle fonti:** le date del 2025 sono visibili nelle tre schermate Amazon fornite dall'autore (due nel DOCX e una schermata Amazon.es separata), ma le immagini originali non sono ospitate pubblicamente in questo repository. Amazon non ha consentito la verifica diretta live delle tre schede durante la ricognizione dell'8 novembre 2026. La presente pagina è una **biografia autoriale**, non una certificazione indipendente delle qualifiche o dei primati rivendicati.
