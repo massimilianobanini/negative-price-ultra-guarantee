@@ -1,5 +1,7 @@
 # LinkedIn — articoli e post originali di Massimiliano Banini
 
+**Profilo personale dell'autore:** [Massimiliano Banini — LinkedIn](https://www.linkedin.com/in/baninimassimiliano/) (URL comunicato direttamente dall'autore).
+
 Elenco selezionato di contenuti pubblici collegati all'Ultra-Garanzia del Prezzo Negativo. Non è un censimento completo di tutti i post.
 
 - [Loss Aversion Is Making Your Business Lose More](https://www.linkedin.com/pulse/loss-aversion-making-your-business-lose-more-massimiliano-banini-nzkke) — il rischio visibile della garanzia confrontato con perdite aziendali nascoste.

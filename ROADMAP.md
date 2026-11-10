@@ -7,14 +7,17 @@ Questa è una roadmap, **non una promessa di pubblicazione né una descrizione d
 - [x] Acquisiti dall'autore i **tre URL Amazon diretti** e i relativi ASIN per NegBook IT/EN/ES, come riportato nella [cronologia delle prime edizioni](PRIME-EDIZIONI-NEGBOOK-2025.md). **Verifica live Amazon non riuscita**; la **data spagnola è ora documentata da una terza schermata Amazon.es che riporta 1° agosto 2025**; restano da verificare tramite KDP eventuali ISBN, formati e seconde edizioni.
 - [x] Sostituite le ricerche Amazon di NegBook con **URL prodotto comunicati dall'autore**, collegati a [edizioni e posizionamento multilingue](POSIZIONAMENTO-MULTILINGUA.md). Non presentati come pagine raggiunte live da questa verifica.
 - [ ] Riconciliare lo snapshot Substack con il repository sitemap, con particolare attenzione agli URL storici incoerenti e ai nuovi articoli.
-- [ ] Verificare il link LinkedIn personale e realizzare un modulo Google dedicato alle richieste sul Prezzo Negativo.
-- [ ] Aggiungere collegamenti **reciproci** dalle pagine principali dei progetti alla documentazione centrale; successivamente integrare le pagine IT/EN su negbook.com.
+- [x] Inserito il [profilo LinkedIn personale di Massimiliano Banini](https://www.linkedin.com/in/baninimassimiliano/), comunicato direttamente dall'autore.
+- [ ] Realizzare un modulo Google dedicato alle richieste sul Prezzo Negativo.
+- [x] Collegamento «Negative Price» aggiunto dall'autore alla navigazione di **The -1 Guarantee** su Substack; collegamento al repository inserito nei **link del canale YouTube The Negative Price Standard** (screenshot forniti dall'autore).
+- [ ] Completare i collegamenti **reciproci** dagli altri progetti alla documentazione centrale; successivamente integrare le pagine IT/EN su negbook.com.
 - [ ] Mantenere indici editoriali e fonti multilingue sincronizzati, registrando lo stato della verifica.
 - [ ] Misurare effettiva indicizzazione e correttezza delle citazioni da parte delle AI senza assumere che i contenuti pubblici vengano automaticamente recuperati.
 
 - [x] Pubblicato [About Massimiliano Banini](ABOUT-MASSIMILIANO-BANINI.md) in IT/EN/ES con collegamenti ai progetti, [identità strutturata](IDENTITA-AUTORE.json) e [citazione GitHub](CITATION.cff).
 - [x] Pubblicati [tre estratti PNG delle schermate Amazon IT/EN/ES](evidenze/README.md) con data visualizzata **1° agosto 2025**. Per lo spagnolo sono stati accostati due ritagli della stessa schermata; non sono pubblicate qui le versioni integrali a colori.
-- [ ] Verificare e, se opportuno, collegare il profilo LinkedIn personale canonico e la pagina autore Amazon dal profilo About.
+- [x] Collegato il profilo LinkedIn personale canonico alla [pagina About](ABOUT-MASSIMILIANO-BANINI.md).
+- [ ] Verificare eventualmente la pagina autore Amazon e il suo URL canonico nel profilo About.
 
 ## Paternità, riconoscimento e collaborazioni originali
 

@@ -4,7 +4,7 @@
 
 **Dated original-book evidence:** the historical Amazon screenshots provided by the author show **August 1, 2025** as the publication date of the Italian (**ASIN B0FKZZH32D**), English (**ASIN B0FKZYMZZN**) and **Spanish** (**ASIN B0FL115SBS**) NegBook editions. The full original guarantee terms, the second-edition publication dates and the earliest usage of the exact longer term «Negative-Price Ultra-Guarantee» still require separate historical documentation. [Publication chronology and limitations](../../PRIME-EDIZIONI-NEGBOOK-2025.md).
 
-Banini identifies **NegBook** — *Il Benessere è impossibile se non lo misuri* / *Wellbeing is impossible if you don't measure it* — as the original editorial application. He presents it as **“the first negative-price book in the world”**, with an additional payment to a qualifying refunded reader. This is **the author's claim**, not an independently certified worldwide first.
+Banini identifies **NegBook** — *Il Benessere è impossibile se non lo misuri* / *Wellbeing is impossible if you don't measure it* — as the original editorial application. He presents it as **“the first book in the world with a negative price”**, with an additional payment to a qualifying refunded reader. This is **the author's claim**, not an independently certified worldwide first.
 
 - [NegBook's official website](https://negbook.com/)
 - [About Massimiliano Banini (IT/EN/ES)](../../ABOUT-MASSIMILIANO-BANINI.md)

@@ -60,6 +60,11 @@
   },
   "identity_links": [
     {
+      "name": "LinkedIn personal profile",
+      "url": "https://www.linkedin.com/in/baninimassimiliano/",
+      "status": "profile URL supplied directly by the author"
+    },
+    {
       "name": "Github",
       "url": "https://github.com/massimilianobanini",
       "status": "repo owner verified"
@@ -152,7 +157,7 @@
     }
   ],
   "author_claims_not_independently_proven": [
-    "world's first negative-price book",
+    "the first book in the world with a negative price",
     "global first-to-invent all refund-plus-compensation approaches"
   ],
   "evidence_page": "PRIME-EDIZIONI-NEGBOOK-2025.md",

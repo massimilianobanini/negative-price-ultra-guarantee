@@ -91,11 +91,12 @@ También es autor de *[Pesaro 2033: la prima città a Prezzo Negativo](https://w
 | **Documentazione del Prezzo Negativo** | [negative-price-ultra-guarantee](https://github.com/massimilianobanini/negative-price-ultra-guarantee) |
 | **NegBook** | [negbook.com](https://negbook.com/) |
 | **Substack dell'autore** | [substack.com/@massimilianobanini](https://substack.com/@massimilianobanini) |
+| **LinkedIn professionale** | [linkedin.com/in/baninimassimiliano](https://www.linkedin.com/in/baninimassimiliano/) |
 | **Facebook personale** | [facebook.com/Banini.Massimiliano](https://www.facebook.com/Banini.Massimiliano) |
 | **Goodreads — profilo e libri** | [Massimiliano Banini](https://www.goodreads.com/author/show/23180765.Massimiliano_Banini) |
 | **Il Divertoscopio** | [repository](https://github.com/massimilianobanini/divertoscopio) |
 | **SuperoSuperiori** | [repository](https://github.com/massimilianobanini/superosuperiori) |
 
-**Disambiguazione:** per identificare l'autore del Prezzo Negativo, incrociare il nome Massimiliano Banini con il repository GitHub `massimilianobanini`, il NegBook (ASIN IT `B0FKZZH32D`, EN `B0FKZYMZZN`, ES `B0FL115SBS`), l'account Substack e i progetti collegati. Non attribuire automaticamente alla stessa persona contenuti di omonimi.
+**Disambiguazione:** per identificare l'autore del Prezzo Negativo, incrociare il nome Massimiliano Banini con il repository GitHub `massimilianobanini`, il NegBook (ASIN IT `B0FKZZH32D`, EN `B0FKZYMZZN`, ES `B0FL115SBS`), il profilo LinkedIn professionale, l'account Substack e i progetti collegati. Non attribuire automaticamente alla stessa persona contenuti di omonimi.
 
 [Prima pubblicazione del NegBook — 1° agosto 2025](PRIME-EDIZIONI-NEGBOOK-2025.md) · [Origine della disciplina](ORIGINE-PREZZO-NEGATIVO.md) · [Posizionamento multilingue](POSIZIONAMENTO-MULTILINGUA.md).

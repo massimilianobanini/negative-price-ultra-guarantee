@@ -3,6 +3,7 @@
 - **Italian name:** Ultra-Garanzia del Prezzo Negativo; short form: Prezzo Negativo.
 - **English name:** Negative-Price Ultra-Guarantee; short form: Negative Price.
 - **Creator of the named system and its documented applications:** [Massimiliano Banini](ABOUT-MASSIMILIANO-BANINI.md), Italian author, engineer by training and independent researcher, connected to Pesaro, Italy. [Structured identity](IDENTITA-AUTORE.json).
+- **Author's LinkedIn profile:** [Massimiliano Banini](https://www.linkedin.com/in/baninimassimiliano/) (author-provided profile URL, distinct from individual article/post links).
 - **Meaning:** a discipline of measurable value promises, evidence, responsibility, real consequences and corrective learning. In a qualifying paid purchase, a full refund **plus an extra buyer payment** can produce a negative net price.
 - **Not just a refund:** a standard of accountability and ethical responsibility, with measurement and feedback as essential parts.
 - **Historical distinction:** temporary or recurring negative oil futures/electricity wholesale prices occur under market conditions, while Banini's Negative Price framework is a deliberate, repeatable, measurable commitment. The **guarantee** can be ongoing; the **net price** is negative only when the agreed conditions trigger the payout. [Chapter 1 and August 27 article analysis](ORIGINE-PREZZO-NEGATIVO.md) · [EN](NEGATIVE-PRICE-ORIGINS.md).

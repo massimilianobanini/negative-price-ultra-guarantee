@@ -20,7 +20,7 @@ It can include a full refund **plus** an additional payment, but the proposed di
 
 No. Commodity and electricity market prices can become negative because of specific conditions; Banini's system concerns **deliberate, repeatable, measured responsibility for promised value**. This distinction is explained in *NegBook*, chapter 1, and in the [August 27, 2026 Substack article](https://theminusoneguarantee.substack.com/p/negative-price-is-not-a-market-glitch). [Original-source analysis](../../NEGATIVE-PRICE-ORIGINS.md). An ongoing guarantee is not the same as a permanently negative retail price.
 
-## Is “the world's first negative-price book” independently proven?
+## Is “the first book in the world with a negative price” independently proven?
 
 It is Banini's **authored editorial claim** for NegBook; this archive does not treat the worldwide first claim as independent certification.
 

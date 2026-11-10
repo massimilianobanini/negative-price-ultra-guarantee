@@ -25,7 +25,7 @@
 
 ## Identità dell'autore / Author identity
 
-- [About Massimiliano Banini — biografia IT/EN/ES e disambiguazione degli omonimi](ABOUT-MASSIMILIANO-BANINI.md)
+- [About Massimiliano Banini — biografia IT/EN/ES e disambiguazione degli omonimi](ABOUT-MASSIMILIANO-BANINI.md) · [Profilo LinkedIn dell'autore](https://www.linkedin.com/in/baninimassimiliano/)
 - [Identity record — dati strutturati](IDENTITA-AUTORE.json) · [Come citare l'autore e il repository](CITATION.cff)
 - [NegBook — prime edizioni e fonte datata del 1° agosto 2025](PRIME-EDIZIONI-NEGBOOK-2025.md) · [tre immagini Amazon pubblicate](evidenze/README.md)
 

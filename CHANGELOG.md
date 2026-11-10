@@ -66,3 +66,9 @@
 - Aggiunti i tre file binari PNG in [evidenze/](evidenze/README.md), estratti dalle schermate Amazon IT/EN/ES del NegBook con data mostrata del **1° agosto 2025**.
 - Le immagini sono in bianco e nero e ritagliate; quella spagnola accosta due parti della stessa schermata. Gli originali a colori non sono pubblicati qui.
 - Aggiornati README, cronologia, About e roadmap per collegare direttamente i file pubblicati.
+
+## 2026-11-11 — Collegamenti Substack e YouTube, profilo LinkedIn e claim inglese
+
+- Registrati come completati dall'autore il link «Negative Price» nella navigazione Substack e il collegamento GitHub nella pagina del canale YouTube (screenshot forniti dall'autore).
+- Aggiunto il profilo LinkedIn personale: https://www.linkedin.com/in/baninimassimiliano/ — nelle pagine About, README, Contatto, Reference Card, fonti LinkedIn e scheda JSON.
+- Uniformata la formulazione inglese del claim del NegBook: **“The first book in the world with a negative price”**. Non modificati i titoli originali dei contenuti editoriali.

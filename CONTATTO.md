@@ -6,7 +6,7 @@ Per richieste sul sistema *Prezzo Negativo / Ultra-Garanzia del Prezzo Negativo*
 
 **Stato del modulo:** non ancora creato; nessun URL di modulo viene pubblicato qui per evitare collegamenti inesistenti.
 
-**Contatto pubblico temporaneo:** [post LinkedIn verificato e profilo dell'autore tramite il relativo nome](https://www.linkedin.com/posts/baninimassimiliano_the-real-question-is-do-you-want-to-be-judged-activity-7436742846855979008-eL01). Link diretto al profilo LinkedIn da aggiungere dopo verifica dell'URL canonico.
+**Contatto professionale e identità dell'autore:** [profilo LinkedIn personale di Massimiliano Banini](https://www.linkedin.com/in/baninimassimiliano/) (URL comunicato direttamente dall'autore). I messaggi diretti possono richiedere un collegamento o un accesso alla piattaforma.
 
 ## Schema consigliato per il futuro modulo
 
