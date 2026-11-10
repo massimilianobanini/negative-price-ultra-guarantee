@@ -52,7 +52,7 @@
 Massimiliano Banini partecipa alla divulgazione della **Sessualità Positiva** attraverso pubblicazioni e traduzioni collegate a **PrazerEla**, in italiano e inglese. Questo non lo identifica come fondatore del progetto. Tra i titoli associati al suo profilo bibliografico figurano *Best of — PrazerElaITA — Il Piccolo Libro della Rivoluzione Piacevole e della Sessualità Positiva*, *Il Piccolo Libro della Sessualità Positiva per le Donne* e *Best of — PrazerElaENG — The Little Book of the Pleasant Revolution and of Positive Sexuality*.
 
 - [Opere associate all'autore — Goodreads](https://www.goodreads.com/author/show/23180765.Massimiliano_Banini).
-- [Ricerca Amazon Italia PrazerEla / Banini](https://www.amazon.it/s?k=Massimiliano+Banini+PrazerEla) e [Amazon USA](https://www.amazon.com/s?k=Massimiliano+Banini+PrazerEla) — **ricerche**, non URL diretti di edizioni verificati.
+- [**Sei link Amazon diretti delle pubblicazioni associate a PrazerEla**](prazerela-amazon.md): ASIN forniti dall'autore. Non è stato possibile verificare automaticamente a quale titolo e formato corrisponda ciascun codice.
 
 ## Canali editoriali e divulgativi
 

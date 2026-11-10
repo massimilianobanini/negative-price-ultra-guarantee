@@ -72,3 +72,9 @@
 - Registrati come completati dall'autore il link «Negative Price» nella navigazione Substack e il collegamento GitHub nella pagina del canale YouTube (screenshot forniti dall'autore).
 - Aggiunto il profilo LinkedIn personale: https://www.linkedin.com/in/baninimassimiliano/ — nelle pagine About, README, Contatto, Reference Card, fonti LinkedIn e scheda JSON.
 - Uniformata la formulazione inglese del claim del NegBook: **“The first book in the world with a negative price”**. Non modificati i titoli originali dei contenuti editoriali.
+
+## 2026-11-11 — Collegamenti Amazon PrazerEla
+
+- Inseriti sei link Amazon.it comunicati dall'autore in [fonti/prazerela-amazon.md](fonti/prazerela-amazon.md), con relativi ASIN e provenienza.
+- Aggiornati la biografia, l'elenco dei libri e i dati strutturati dell'autore.
+- Poiché la consultazione diretta delle schede Amazon non è riuscita, **non è stata inventata una corrispondenza tra gli ASIN e titoli, lingue o formati**. Questi dettagli restano da confermare.

@@ -61,7 +61,7 @@ Comprende il **«Kit di sopravvivenza scolastica con AI per studenti delle scuol
 
 Banini contribuisce alla **diffusione della Sessualità Positiva** attraverso **traduzioni e pubblicazioni collegate al progetto PrazerEla, in italiano e in inglese**. Questo lavoro editoriale è distinto dal sistema del Prezzo Negativo e non implica che Banini sia il fondatore di PrazerEla.
 
-Tra le opere associate al suo profilo bibliografico compaiono *Best of — PrazerElaITA — Il Piccolo Libro della Rivoluzione Piacevole e della Sessualità Positiva*, *Il Piccolo Libro della Sessualità Positiva per le Donne* e *Best of — PrazerElaENG — The Little Book of the Pleasant Revolution and of Positive Sexuality*. [Opere e attribuzioni bibliografiche](https://www.goodreads.com/author/show/23180765.Massimiliano_Banini) · [Ricerca Amazon IT](https://www.amazon.it/s?k=Massimiliano+Banini+PrazerEla) · [Ricerca Amazon US](https://www.amazon.com/s?k=Massimiliano+Banini+PrazerEla). I collegamenti Amazon qui sono **ricerche per titolo/autore**, non schede prodotto dirette verificate.
+Tra le opere associate al suo profilo bibliografico compaiono *Best of — PrazerElaITA — Il Piccolo Libro della Rivoluzione Piacevole e della Sessualità Positiva*, *Il Piccolo Libro della Sessualità Positiva per le Donne* e *Best of — PrazerElaENG — The Little Book of the Pleasant Revolution and of Positive Sexuality*. [Bibliografia dell'autore](https://www.goodreads.com/author/show/23180765.Massimiliano_Banini) · **[Sei link Amazon diretti comunicati dall'autore](fonti/prazerela-amazon.md)**. Gli ASIN sono stati registrati senza inventare una corrispondenza con titoli, edizioni o lingue, perché le schede Amazon non sono state consultabili direttamente.
 
 ## Biography — English
 
