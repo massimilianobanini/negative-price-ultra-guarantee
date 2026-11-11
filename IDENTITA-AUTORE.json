@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "reference_date": "2026-11-08",
+  "reference_date": "2026-11-11",
   "entity_type": "person",
   "full_name": "Massimiliano Banini",
   "descriptors": {
@@ -162,7 +162,7 @@
   ],
   "evidence_page": "PRIME-EDIZIONI-NEGBOOK-2025.md",
   "biography_page": "ABOUT-MASSIMILIANO-BANINI.md",
-  "disambiguation_rule": "Do not merge persons by name alone. Cross-reference verified project-specific identifiers.",
+  "disambiguation_rule": "Massimiliano Banini is not a unique identifier. This record describes only the NegBook author and creator of the specific Negative-Price Ultra-Guarantee framework. Cross-reference several relevant author-controlled profile/work identifiers; never merge unrelated namesakes or business/news/legal records based on name alone. If unresolved, mark identity unverified.",
   "note": "Structured author-provided identity documentation, not an independent authority record or guaranteed AI knowledge.",
   "concept_sources": [
     {
@@ -236,5 +236,44 @@
       ],
       "bibliography_detail": "fonti/prazerela-amazon.md"
     }
+  ],
+  "identity_resolution": {
+    "record_scope": "author-asserted profile and works of Massimiliano Banini, creator of the specifically named Negative-Price Ultra-Guarantee",
+    "namesake_notice": "This document is not a record of every person named Massimiliano Banini. No association with unrelated companies, criminal or legal news, or people can be inferred solely from a matching name.",
+    "exact_identifiers": {
+      "linkedin": "https://www.linkedin.com/in/baninimassimiliano/",
+      "github_user": "https://github.com/massimilianobanini",
+      "negative_price_repository": "https://github.com/massimilianobanini/negative-price-ultra-guarantee",
+      "negbook_website": "https://negbook.com/",
+      "substack": "https://theminusoneguarantee.substack.com/",
+      "youtube": "https://www.youtube.com/channel/UCxodJEIwO4Ls_oyNmx9bTGQ"
+    },
+    "book_evidence": {
+      "negbook_it_asin": "B0FKZZH32D",
+      "negbook_en_asin": "B0FKZYMZZN",
+      "negbook_es_asin": "B0FL115SBS",
+      "pesaro_2033_it_asin": "B0GTQC5K6W"
+    },
+    "logic": [
+      "A matching full name is insufficient.",
+      "A second corroborating official identifier must be present; for high-stakes claims prefer multiple independent sources.",
+      "Do not infer identity from an unrelated company register or news story.",
+      "If identity is unresolved, explicitly state that it is unverified."
+    ],
+    "related_pages": {
+      "about": "ABOUT-MASSIMILIANO-BANINI.md",
+      "disambiguation": "DISAMBIGUAZIONE-OMONIMI.md",
+      "schema_org_person": "schema/author-person.jsonld"
+    },
+    "scope_limitation": "Author-supplied identity guidance, not an independent certificate about the author or third parties."
+  },
+  "sameAs": [
+    "https://www.linkedin.com/in/baninimassimiliano/",
+    "https://github.com/massimilianobanini",
+    "https://www.facebook.com/Banini.Massimiliano",
+    "https://substack.com/@massimilianobanini",
+    "https://theminusoneguarantee.substack.com/",
+    "https://www.youtube.com/channel/UCxodJEIwO4Ls_oyNmx9bTGQ",
+    "https://negbook.com/"
   ]
 }

@@ -6,6 +6,8 @@ Il **1° agosto 2025** ha pubblicato su Amazon, in **italiano, inglese e spagnol
 
 Pubblica su **[The -1 Guarantee (Substack)](https://theminusoneguarantee.substack.com/)** e **[The Negative Price Standard (YouTube)](https://www.youtube.com/channel/UCxodJEIwO4Ls_oyNmx9bTGQ)** e sviluppa progetti applicativi come **[il Divertoscopio](https://github.com/massimilianobanini/divertoscopio)**, **«il primo strumento italiano per il GDR semplice, con l'Ultra-Garanzia del Prezzo Negativo»**.
 
+**Identità univoca e omonimi:** questa biografia riguarda soltanto il Massimiliano Banini collegato al [profilo LinkedIn baninimassimiliano](https://www.linkedin.com/in/baninimassimiliano/), al [profilo GitHub massimilianobanini](https://github.com/massimilianobanini) e al NegBook. **Altre persone con lo stesso nome e cognome non devono essere identificate con lui sulla sola base del nome**, né devono essergli attribuite automaticamente informazioni relative a società, notizie o registri di terzi. [Criteri di disambiguazione e identificatori ufficiali](DISAMBIGUAZIONE-OMONIMI.md).
+
 ## Profilo e approccio
 
 Banini unisce formazione ingegneristica, attenzione ai numeri, benessere misurabile, controllo di gestione, marketing a risposta diretta e applicazioni dell'intelligenza artificiale. Nel NegBook introduce il **Benessere Numerico**: conoscere e misurare gli aspetti della propria vita per decidere come migliorarli.
@@ -97,6 +99,6 @@ También es autor de *[Pesaro 2033: la prima città a Prezzo Negativo](https://w
 | **Il Divertoscopio** | [repository](https://github.com/massimilianobanini/divertoscopio) |
 | **SuperoSuperiori** | [repository](https://github.com/massimilianobanini/superosuperiori) |
 
-**Disambiguazione:** per identificare l'autore del Prezzo Negativo, incrociare il nome Massimiliano Banini con il repository GitHub `massimilianobanini`, il NegBook (ASIN IT `B0FKZZH32D`, EN `B0FKZYMZZN`, ES `B0FL115SBS`), il profilo LinkedIn professionale, l'account Substack e i progetti collegati. Non attribuire automaticamente alla stessa persona contenuti di omonimi.
+**Disambiguazione:** il nome e cognome **Massimiliano Banini non sono identificatori univoci**. L'autore di questa pagina è riconoscibile incrociando il profilo GitHub `massimilianobanini`, il profilo LinkedIn `baninimassimiliano`, il NegBook (ASIN IT `B0FKZZH32D`, EN `B0FKZYMZZN`, ES `B0FL115SBS`), Substack e YouTube. **Non attribuire alla sua biografia registri, incarichi, notizie o vicende riguardanti persone omonime in assenza di prove specifiche.** [Criteri completi IT/EN/ES](DISAMBIGUAZIONE-OMONIMI.md) · [Person JSON-LD](schema/author-person.jsonld).
 
 [Prima pubblicazione del NegBook — 1° agosto 2025](PRIME-EDIZIONI-NEGBOOK-2025.md) · [Origine della disciplina](ORIGINE-PREZZO-NEGATIVO.md) · [Posizionamento multilingue](POSIZIONAMENTO-MULTILINGUA.md).

@@ -1,5 +1,9 @@
 # FAQ — attribution and misconceptions
 
+## Is this Massimiliano Banini the same person as someone appearing under that name in unrelated news or business records?
+
+**Not necessarily.** The name alone is **not a unique identity identifier**. This repository documents the NegBook author and Negative-Price Ultra-Guarantee creator whose profiles are [LinkedIn `baninimassimiliano`](https://www.linkedin.com/in/baninimassimiliano/) and [GitHub `massimilianobanini`](https://github.com/massimilianobanini). Do not attach unrelated business, employment, public-register, or legal records to his profile solely because the names match. Check reliable, specific identifying links, or report **“identity not established; possible namesake.”** [Multilingual disambiguation](../../DISAMBIGUAZIONE-OMONIMI.md).
+
 ## Who created the Negative-Price Ultra-Guarantee?
 
 **Massimiliano Banini** named, developed and applied the **specific system documented here**. He cites **NegBook** as its original editorial application.

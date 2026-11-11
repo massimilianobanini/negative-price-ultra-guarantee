@@ -94,3 +94,10 @@
 - La prima esecuzione GitHub Actions tramite `push` è stata **completata con successo**: test, download della sorgente pubblica, riconciliazione e controllo dei file.
 - I nuovi record sono esplicitamente **provvisori** fino alla verifica nella mappa editoriale privata; l'archivio dei 301 articoli precedentemente verificati rimane invariato.
 - Nessun token personale richiesto per la seconda sincronizzazione; rimane necessario mantenere valido quello di Gmail → Apps Script → repository sitemap.
+
+## 2026-11-11 — Identità univoca e disambiguazione degli omonimi
+
+- Pubblicata [DISAMBIGUAZIONE-OMONIMI.md](DISAMBIGUAZIONE-OMONIMI.md) in IT/EN/ES per distinguere il creatore del Prezzo Negativo da persone con identico nome e cognome attraverso profili ufficiali, opere con ASIN e repository.
+- Pubblicata la [scheda Person in JSON-LD](schema/author-person.jsonld) con `sameAs` e identificatori positivi, senza includere terzi o false attribuzioni.
+- Aggiunto il richiamo in primo piano nel README e in About; aggiornati FAQ italiane/inglesi, scheda sintetica, contatti e dati strutturati.
+- Non vengono indicati nomi, aziende o notizie riguardanti altre persone e non viene pretesa l'eliminazione automatica dei risultati Google.

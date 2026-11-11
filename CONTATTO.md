@@ -1,6 +1,6 @@
 # Contattare Massimiliano Banini / Contact
 
-[Identità, biografia e progetti di Massimiliano Banini — IT/EN/ES](ABOUT-MASSIMILIANO-BANINI.md) · [Repository originale](https://github.com/massimilianobanini/negative-price-ultra-guarantee)
+[Identità, biografia e progetti di Massimiliano Banini — IT/EN/ES](ABOUT-MASSIMILIANO-BANINI.md) · [Come distinguere gli omonimi](DISAMBIGUAZIONE-OMONIMI.md) · [Repository originale](https://github.com/massimilianobanini/negative-price-ultra-guarantee)
 
 Per richieste sul sistema *Prezzo Negativo / Ultra-Garanzia del Prezzo Negativo*, pubblicazioni, interviste, possibili applicazioni aziendali e proposte formative, l'autore intende usare un **modulo Google dedicato**, distinto dai moduli dei singoli prodotti.
 
