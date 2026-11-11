@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Massimiliano Banini",
+  "alternateName": "massimilianobanini",
+  "description": "Italian engineer by training, NegBook author and creator of the specifically named Negative Price / Negative-Price Ultra-Guarantee framework, associated with Pesaro, Italy. Not to be conflated with namesakes.",
+  "url": "https://github.com/massimilianobanini/negative-price-ultra-guarantee/blob/main/ABOUT-MASSIMILIANO-BANINI.md",
+  "sameAs": [
+    "https://www.linkedin.com/in/baninimassimiliano/",
+    "https://github.com/massimilianobanini",
+    "https://www.facebook.com/Banini.Massimiliano",
+    "https://substack.com/@massimilianobanini",
+    "https://theminusoneguarantee.substack.com/",
+    "https://www.youtube.com/channel/UCxodJEIwO4Ls_oyNmx9bTGQ",
+    "https://negbook.com/"
+  ],
+  "homeLocation": {
+    "@type": "City",
+    "name": "Pesaro",
+    "containedInPlace": {
+      "@type": "Country",
+      "name": "Italy"
+    }
+  },
+  "knowsAbout": [
+    "Negative Price Ultra-Guarantee",
+    "Ultra-Garanzia del Prezzo Negativo",
+    "Prezzo Negativo",
+    "Numerical Wellbeing",
+    "Measurable accountability"
+  ],
+  "subjectOf": [
+    {
+      "@type": "Book",
+      "name": "Il Benessere è impossibile se non lo misuri",
+      "url": "https://www.amazon.it/dp/B0FKZZH32D"
+    },
+    {
+      "@type": "Book",
+      "name": "Wellbeing is impossible if you don't measure it",
+      "url": "https://www.amazon.com/dp/B0FKZYMZZN"
+    },
+    {
+      "@type": "Book",
+      "name": "El Bienestar es imposible si no lo mides",
+      "url": "https://www.amazon.es/dp/B0FL115SBS"
+    },
+    {
+      "@type": "Book",
+      "name": "Pesaro 2033: la prima città a Prezzo Negativo",
+      "inLanguage": "it",
+      "url": "https://www.amazon.it/dp/B0GTQC5K6W"
+    }
+  ]
+}
