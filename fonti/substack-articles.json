@@ -3,8 +3,8 @@
   "publisher": "Massimiliano Banini",
   "source": "https://theminusoneguarantee.substack.com/",
   "snapshot_date": "2026-11-11",
-  "last_recorded_publication_date": "2026-11-10",
-  "count": 301,
+  "last_recorded_publication_date": "2026-11-11",
+  "count": 302,
   "records": [
     {
       "id": "SUB-001",
@@ -2112,6 +2112,17 @@
       "title": "Young People Were Told to Study More. Now Companies Punish Them for Knowing Too Much.",
       "subtitle": "The Negative Price Ultra-Guarantee protects trained, adaptable workers by forcing employers to prove whether they create, reward, or suppress measurable value.",
       "url": "https://theminusoneguarantee.substack.com/p/young-people-were-told-to-study-more"
+    },
+    {
+      "id": "SUB-302",
+      "date": "2026-11-11",
+      "title": "If You Demand More From Employees but Refuse Higher Standards Yourself, You Don’t Want Talent",
+      "subtitle": "",
+      "url": "https://theminusoneguarantee.substack.com/p/if-you-demand-more-from-employees",
+      "metadata_status": "provvisorio_da_verificare_con_mappa_editoriale",
+      "title_may_be_truncated": false,
+      "source": "public_github_sitemap"
     }
-  ]
+  ],
+  "sync_source": "https://github.com/massimilianobanini/theminusoneguarantee-sitemap/blob/main/articles.json"
 }

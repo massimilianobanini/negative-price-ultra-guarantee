@@ -1,10 +1,10 @@
 # The -1 Guarantee — indice completo degli articoli pubblicati
 
-**301 articoli**, dal 14 gennaio al 10 novembre 2026. Snapshot della mappa editoriale dell'autore, verificato l'11 novembre 2026.
+**302 articoli**, dal 14 gennaio 2026 al 11 novembre 2026. Catalogo sincronizzato il **11 novembre 2026** con l'archivio GitHub pubblico.
 
-**Pubblicazione originale:** https://theminusoneguarantee.substack.com/
+**Fonte pubblica:** https://theminusoneguarantee.substack.com/
 
-Le righe seguenti sono un **catalogo bibliografico di link ai contenuti originali**, non copie integrali dei testi; eventuali pagine non raggiungibili rimangono identificabili da titolo, data e URL. Le date sono quelle registrate nella mappa editoriale.
+Le righe sono riferimenti bibliografici, non copie integrali degli articoli. **I metadati degli articoli importati automaticamente dopo SUB-301 sono provvisori**: titoli e sottotitoli vanno confrontati con il Google Sheet editoriale privato. L'automazione non modifica titoli e sottotitoli dei record già verificati.
 
 | ID | Data | Titolo | Articolo originale |
 | --- | --- | --- | --- |
@@ -309,5 +309,6 @@ Le righe seguenti sono un **catalogo bibliografico di link ai contenuti original
 | SUB-299 | 2026-11-08 | If a Permanent Contract Is the Only Thing Making Your Job Safe, Your Value Is Already Decaying | [Leggi](https://theminusoneguarantee.substack.com/p/if-a-permanent-contract-is-the-only) |
 | SUB-300 | 2026-11-09 | If Your Company Is Always Busy but Never Improving, Management Is Swimming the Wrong Way | [Leggi](https://theminusoneguarantee.substack.com/p/if-your-company-is-always-busy-but) |
 | SUB-301 | 2026-11-10 | Young People Were Told to Study More. Now Companies Punish Them for Knowing Too Much. | [Leggi](https://theminusoneguarantee.substack.com/p/young-people-were-told-to-study-more) |
+| SUB-302 | 2026-11-11 | If You Demand More From Employees but Refuse Higher Standards Yourself, You Don’t Want Talent | [Leggi](https://theminusoneguarantee.substack.com/p/if-you-demand-more-from-employees) |
 
 Vedi anche [dataset strutturato](substack-articles.json) e [procedura di aggiornamento](../SYNC-EDITORIALE.md).
