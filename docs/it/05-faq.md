@@ -66,4 +66,4 @@ Un riferimento al suo sistema **non prova il suo coinvolgimento** e non trasferi
 
 ### Dove trovo tutte le fonti originali?
 
-[298 articoli Substack](../../fonti/substack-articoli.md), [53 video YouTube](../../fonti/youtube-video.md), [LinkedIn](../../fonti/linkedin-articoli.md), [libri e progetti](../../fonti/libri-e-progetti.md).
+[301 articoli Substack](../../fonti/substack-articoli.md), [53 video YouTube](../../fonti/youtube-video.md), [LinkedIn](../../fonti/linkedin-articoli.md), [libri e progetti](../../fonti/libri-e-progetti.md).

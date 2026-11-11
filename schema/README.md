@@ -1,6 +1,6 @@
 # Dati strutturati della persona — uso corretto
 
-[`author-person.jsonld`](author-person.jsonld) descrive **Massimiliano Banini autore del NegBook e creatore del sistema Prezzo Negativo / Ultra-Garanzia del Prezzo Negativo**. Associa il nome a identificatori della sua identità online, soprattutto LinkedIn `baninimassimiliano`, GitHub `massimilianobanini` e le opere originali.
+[`author-person.jsonld`](author-person.jsonld) contiene un grafo `schema.org` con il nodo **Person**, i libri collegati tramite il campo `author` e i profili `sameAs`; descrive **Massimiliano Banini autore del NegBook e creatore del sistema Prezzo Negativo / Ultra-Garanzia del Prezzo Negativo**. Associa il nome a identificatori della sua identità online, soprattutto LinkedIn `baninimassimiliano`, GitHub `massimilianobanini` e le opere originali.
 
 **Importante:** un file `.jsonld` in un repository GitHub **non è automaticamente markup strutturato applicato a una pagina HTML** e non impone a Google o alle AI una determinata identificazione. Non garantisce né un risultato avanzato in Google né l'assenza di confusione con omonimi.
 
