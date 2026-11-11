@@ -1,5 +1,7 @@
 # Roadmap documentale — Negative-Price Ultra-Guarantee
 
+**Piano operativo corrente:** [attività ordinate per priorità e responsabile](PIANO-OPERATIVO-PRIORITA.md) (11 novembre 2026). Questa pagina conserva la roadmap documentale e lo storico delle decisioni.
+
 Questa è una roadmap, **non una promessa di pubblicazione né una descrizione di funzioni già esistenti**.
 
 ## Da completare

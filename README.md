@@ -25,6 +25,8 @@
 
 **Origine del concetto:** il [capitolo 1 di NegBook e l'articolo Substack del 27 agosto 2026](ORIGINE-PREZZO-NEGATIVO.md) distinguono i **prezzi negativi temporanei di mercato** (petrolio, elettricità) dalla **garanzia volontaria, ripetibile e misurabile** ideata da Banini. [English explanation](NEGATIVE-PRICE-ORIGINS.md).
 
+**Piano operativo aggiornato:** [priorità e attività dell'assistente e dell'autore, con procedure e controlli](PIANO-OPERATIVO-PRIORITA.md) — stato verificato all'11 novembre 2026.
+
 ## Identità dell'autore / Author identity
 
 - [About Massimiliano Banini — biografia IT/EN/ES e disambiguazione degli omonimi](ABOUT-MASSIMILIANO-BANINI.md) · [Profilo LinkedIn dell'autore](https://www.linkedin.com/in/baninimassimiliano/)
