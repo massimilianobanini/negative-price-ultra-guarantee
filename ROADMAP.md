@@ -4,6 +4,12 @@
 
 Questa è una roadmap, **non una promessa di pubblicazione né una descrizione di funzioni già esistenti**.
 
+## Aggiornamento operativo — 11 novembre 2026
+
+- **Token `Substack Gmail to GitHub`: rigenerato**, secondo conferma esplicita dell'autore.
+- **Non ancora verificato:** l'esito end-to-end dopo la rigenerazione. Al prossimo articolo esaminare nell'ordine Gmail → Google Apps Script (proprietà `GITHUB_TOKEN`, trigger e log) → commit repository sitemap → workflow e catalogo repository Ultra-Garanzia → Google Sheet.
+- Non diagnosticare automaticamente un errore di token: distinguere autenticazione (401/403), mancato trigger, errore di parser/estrazione e problemi dei due repository.
+
 ## Da completare
 
 - [x] Acquisiti dall'autore i **tre URL Amazon diretti** e i relativi ASIN per NegBook IT/EN/ES, come riportato nella [cronologia delle prime edizioni](PRIME-EDIZIONI-NEGBOOK-2025.md). **Verifica live Amazon non riuscita**; la **data spagnola è ora documentata da una terza schermata Amazon.es che riporta 1° agosto 2025**; restano da verificare tramite KDP eventuali ISBN, formati e seconde edizioni.
