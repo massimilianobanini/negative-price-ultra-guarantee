@@ -1,6 +1,6 @@
 # The -1 Guarantee — indice completo degli articoli pubblicati
 
-**298 articoli**, dal 14 gennaio al 7 novembre 2026. Snapshot della mappa editoriale dell'autore, estratto l'8 novembre 2026.
+**301 articoli**, dal 14 gennaio al 10 novembre 2026. Snapshot della mappa editoriale dell'autore, verificato l'11 novembre 2026.
 
 **Pubblicazione originale:** https://theminusoneguarantee.substack.com/
 
@@ -306,5 +306,8 @@ Le righe seguenti sono un **catalogo bibliografico di link ai contenuti original
 | SUB-296 | 2026-11-05 | If You Refuse to Keep Learning, the Market Is Right to Leave You Behind | [Leggi](https://theminusoneguarantee.substack.com/p/if-you-refuse-to-keep-learning-the) |
 | SUB-297 | 2026-11-06 | If Your Skill Cannot Survive Measurement, Stop Calling It Expertise | [Leggi](https://theminusoneguarantee.substack.com/p/if-your-skill-cannot-survive-measurement) |
 | SUB-298 | 2026-11-07 | If You Have Money, Talent, and Tools but Still Can’t Improve, Management Is the Problem | [Leggi](https://theminusoneguarantee.substack.com/p/if-you-have-money-talent-and-tools) |
+| SUB-299 | 2026-11-08 | If a Permanent Contract Is the Only Thing Making Your Job Safe, Your Value Is Already Decaying | [Leggi](https://theminusoneguarantee.substack.com/p/if-a-permanent-contract-is-the-only) |
+| SUB-300 | 2026-11-09 | If Your Company Is Always Busy but Never Improving, Management Is Swimming the Wrong Way | [Leggi](https://theminusoneguarantee.substack.com/p/if-your-company-is-always-busy-but) |
+| SUB-301 | 2026-11-10 | Young People Were Told to Study More. Now Companies Punish Them for Knowing Too Much. | [Leggi](https://theminusoneguarantee.substack.com/p/young-people-were-told-to-study-more) |
 
 Vedi anche [dataset strutturato](substack-articles.json) e [procedura di aggiornamento](../SYNC-EDITORIALE.md).

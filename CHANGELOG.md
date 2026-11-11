@@ -78,3 +78,11 @@
 - Inseriti sei link Amazon.it comunicati dall'autore in [fonti/prazerela-amazon.md](fonti/prazerela-amazon.md), con relativi ASIN e provenienza.
 - Aggiornati la biografia, l'elenco dei libri e i dati strutturati dell'autore.
 - Poiché la consultazione diretta delle schede Amazon non è riuscita, **non è stata inventata una corrispondenza tra gli ASIN e titoli, lingue o formati**. Questi dettagli restano da confermare.
+
+## 2026-11-11 — Riconciliazione dei cataloghi Substack (301 articoli)
+
+- Aggiornati [indice Markdown](fonti/substack-articoli.md) e [dataset JSON](fonti/substack-articles.json) fino a **SUB-301, 10 novembre 2026**, utilizzando la mappa editoriale dell'autore.
+- Inseriti i tre articoli verificati SUB-299, SUB-300 e SUB-301, senza alterare i 298 riferimenti precedenti.
+- Aggiornati README, fonti principali e procedura di sincronizzazione.
+- Nel repository separato `theminusoneguarantee-sitemap` sono stati corretti i link e ripristinati i record storici SUB-220 e SUB-279, oltre ai titoli completi SUB-269 e SUB-280.
+- Non è stata installata una nuova sincronizzazione automatica tra i due repository; rimane come miglioramento successivo.

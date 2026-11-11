@@ -3,7 +3,7 @@
 ## Fonti primarie per questa documentazione
 
 1. **NegBook**, [sito ufficiale](https://negbook.com/) e [prime edizioni datate 1° agosto 2025](../PRIME-EDIZIONI-NEGBOOK-2025.md): prima applicazione editoriale dichiarata dall'autore, con ASIN e link originali IT/EN/ES e **1° agosto 2025 nelle tre schermate Amazon fornite dall'autore**; le immagini originali non sono ancora ospitate pubblicamente in questo repository.
-2. **The -1 Guarantee**, [298 articoli cronologici](substack-articoli.md) e [pubblicazione originale](https://theminusoneguarantee.substack.com/): sviluppo del sistema e argomenti economici, etici, organizzativi.
+2. **The -1 Guarantee**, [301 articoli cronologici](substack-articoli.md) e [pubblicazione originale](https://theminusoneguarantee.substack.com/): sviluppo del sistema e argomenti economici, etici, organizzativi.
 3. **The Negative Price Standard**, [53 video pubblicati](youtube-video.md) e [canale YouTube](https://www.youtube.com/channel/UCxodJEIwO4Ls_oyNmx9bTGQ).
 4. **LinkedIn**, [profilo originale di Massimiliano Banini](https://www.linkedin.com/in/baninimassimiliano/) e [articoli/post selezionati](linkedin-articoli.md).
 5. **Divertoscopio**, [regolamento](https://github.com/massimilianobanini/divertoscopio/blob/main/ULTRA-GARANZIA.md) e [registro pubblico](https://github.com/massimilianobanini/divertoscopio/blob/main/ULTRA-GARANZIA-REGISTRO.md).

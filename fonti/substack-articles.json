@@ -2,9 +2,9 @@
   "publication": "The -1 Guarantee",
   "publisher": "Massimiliano Banini",
   "source": "https://theminusoneguarantee.substack.com/",
-  "snapshot_date": "2026-11-08",
-  "last_recorded_publication_date": "2026-11-07",
-  "count": 298,
+  "snapshot_date": "2026-11-11",
+  "last_recorded_publication_date": "2026-11-10",
+  "count": 301,
   "records": [
     {
       "id": "SUB-001",
@@ -2091,6 +2091,27 @@
       "title": "If You Have Money, Talent, and Tools but Still Can’t Improve, Management Is the Problem",
       "subtitle": "The Negative Price Ultra-Guarantee exposes when companies blame capital, hiring, or skills instead of confronting the incentives and decisions blocking measurable growth.",
       "url": "https://theminusoneguarantee.substack.com/p/if-you-have-money-talent-and-tools"
+    },
+    {
+      "id": "SUB-299",
+      "date": "2026-11-08",
+      "title": "If a Permanent Contract Is the Only Thing Making Your Job Safe, Your Value Is Already Decaying",
+      "subtitle": "The Negative Price Ultra-Guarantee reframes work as a measurable value exchange: employees must grow, and companies must prove they are creating the conditions for that growth.",
+      "url": "https://theminusoneguarantee.substack.com/p/if-a-permanent-contract-is-the-only"
+    },
+    {
+      "id": "SUB-300",
+      "date": "2026-11-09",
+      "title": "If Your Company Is Always Busy but Never Improving, Management Is Swimming the Wrong Way",
+      "subtitle": "The Negative Price Discipline exposes companies that confuse activity with progress—and shows when more execution only accelerates the wrong strategy.",
+      "url": "https://theminusoneguarantee.substack.com/p/if-your-company-is-always-busy-but"
+    },
+    {
+      "id": "SUB-301",
+      "date": "2026-11-10",
+      "title": "Young People Were Told to Study More. Now Companies Punish Them for Knowing Too Much.",
+      "subtitle": "The Negative Price Ultra-Guarantee protects trained, adaptable workers by forcing employers to prove whether they create, reward, or suppress measurable value.",
+      "url": "https://theminusoneguarantee.substack.com/p/young-people-were-told-to-study-more"
     }
   ]
 }

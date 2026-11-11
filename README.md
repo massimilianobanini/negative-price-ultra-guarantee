@@ -42,7 +42,7 @@
 
 ## Fonti originali / Original sources
 
-- [298 articoli Substack, indice completo con date e URL](fonti/substack-articoli.md) — snapshot del **7 novembre 2026**, testo integrale consultabile agli URL originali; [JSON](fonti/substack-articles.json).
+- [301 articoli Substack, indice completo con date e URL](fonti/substack-articoli.md) — aggiornato fino al **10 novembre 2026**, testo integrale consultabile agli URL originali; [JSON](fonti/substack-articles.json).
 - [53 video YouTube, indice completo con date e URL](fonti/youtube-video.md) — ultimo catalogo verificato il **22 ottobre 2026**; [JSON](fonti/youtube-videos.json).
 - [Articoli LinkedIn selezionati](fonti/linkedin-articoli.md) — fonti originali verificabili sulla disciplina.
 - [Libri e progetti](fonti/libri-e-progetti.md) — NegBook, *Pesaro 2033*, Divertoscopio e altri collegamenti pertinenti.
