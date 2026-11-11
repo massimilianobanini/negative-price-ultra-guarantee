@@ -6,12 +6,13 @@ Questa è una roadmap, **non una promessa di pubblicazione né una descrizione d
 
 - [x] Acquisiti dall'autore i **tre URL Amazon diretti** e i relativi ASIN per NegBook IT/EN/ES, come riportato nella [cronologia delle prime edizioni](PRIME-EDIZIONI-NEGBOOK-2025.md). **Verifica live Amazon non riuscita**; la **data spagnola è ora documentata da una terza schermata Amazon.es che riporta 1° agosto 2025**; restano da verificare tramite KDP eventuali ISBN, formati e seconde edizioni.
 - [x] Sostituite le ricerche Amazon di NegBook con **URL prodotto comunicati dall'autore**, collegati a [edizioni e posizionamento multilingue](POSIZIONAMENTO-MULTILINGUA.md). Non presentati come pagine raggiunte live da questa verifica.
-- [ ] Riconciliare lo snapshot Substack con il repository sitemap, con particolare attenzione agli URL storici incoerenti e ai nuovi articoli.
+- [x] Riconciliati **301 articoli Substack** e relativi URL nei due repository, con correzione di SUB-220 e recupero di SUB-279 (11/11/2026).
 - [x] Inserito il [profilo LinkedIn personale di Massimiliano Banini](https://www.linkedin.com/in/baninimassimiliano/), comunicato direttamente dall'autore.
 - [ ] Realizzare un modulo Google dedicato alle richieste sul Prezzo Negativo.
 - [x] Collegamento «Negative Price» aggiunto dall'autore alla navigazione di **The -1 Guarantee** su Substack; collegamento al repository inserito nei **link del canale YouTube The Negative Price Standard** (screenshot forniti dall'autore).
 - [ ] Completare i collegamenti **reciproci** dagli altri progetti alla documentazione centrale; successivamente integrare le pagine IT/EN su negbook.com.
-- [ ] Mantenere indici editoriali e fonti multilingue sincronizzati, registrando lo stato della verifica.
+- [x] Attivato il [workflow Substack ogni 3 ore](.github/workflows/sync-substack-sitemap.yml): sincronizzazione **automatica degli URL dei nuovi articoli** dal repository sitemap a questo repository. Metadati nuovi marcati provvisori; prima esecuzione GitHub Actions completata con successo l'11/11/2026.
+- [ ] Riconciliare periodicamente con il Google Sheet editoriale i titoli/sottotitoli **provvisori** importati automaticamente e mantenere aggiornati in modo separato i cataloghi YouTube e le altre fonti.
 - [ ] Misurare effettiva indicizzazione e correttezza delle citazioni da parte delle AI senza assumere che i contenuti pubblici vengano automaticamente recuperati.
 
 - [x] Pubblicato [About Massimiliano Banini](ABOUT-MASSIMILIANO-BANINI.md) in IT/EN/ES con collegamenti ai progetti, [identità strutturata](IDENTITA-AUTORE.json) e [citazione GitHub](CITATION.cff).

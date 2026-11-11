@@ -75,6 +75,10 @@
 
 ## Maintenance / Aggiornamento
 
-Gli indici Substack e YouTube sono **istantanee**, non una sincronizzazione automatica. Per nuove uscite aggiornare gli indici Markdown e JSON dalla mappa editoriale verificata; non trasformare candidati video o bozze in pubblicazioni. Le date e gli URL originali vanno preservati.
+**Substack — sincronizzazione automatica attiva.** Il workflow [Sync Substack public archive](.github/workflows/sync-substack-sitemap.yml) controlla ogni **3 ore (UTC)** l'archivio pubblico [theminusoneguarantee-sitemap](https://github.com/massimilianobanini/theminusoneguarantee-sitemap/blob/main/articles.json) e aggiorna con un commit i file [JSON](fonti/substack-articles.json) e [Markdown](fonti/substack-articoli.md) **solo se trova nuovi URL**. Preserva i 301 record editoriali già verificati e non sovrascrive titoli/sottotitoli esistenti. I metadati dei nuovi record vengono segnalati **provvisori**, da riconciliare poi con la mappa editoriale privata. [Procedura e controlli](SYNC-EDITORIALE.md).
+
+**YouTube — catalogo ancora manuale.** Il catalogo video è una fotografia verificata e non si aggiorna con questo workflow. Non trasformare candidati video o bozze in pubblicazioni.
+
+**Dipendenza:** lo script Gmail → Apps Script che aggiorna il repository della sitemap usa un **personal access token GitHub separato**, che deve rimanere valido; il nuovo workflow usa soltanto il `GITHUB_TOKEN` del repository dell'Ultra-Garanzia e non rinnova le credenziali di Gmail/Apps Script.
 
 © 2026 Massimiliano Banini. La disponibilità pubblica dei contenuti non concede automaticamente una licenza di riutilizzo.

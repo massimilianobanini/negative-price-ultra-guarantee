@@ -86,3 +86,11 @@
 - Aggiornati README, fonti principali e procedura di sincronizzazione.
 - Nel repository separato `theminusoneguarantee-sitemap` sono stati corretti i link e ripristinati i record storici SUB-220 e SUB-279, oltre ai titoli completi SUB-269 e SUB-280.
 - Non è stata installata una nuova sincronizzazione automatica tra i due repository; rimane come miglioramento successivo.
+
+## 2026-11-11 — Sincronizzazione automatica Substack tra repository
+
+- Pubblicato il workflow [Sync Substack public archive](.github/workflows/sync-substack-sitemap.yml) con esecuzione automatica ogni 3 ore (UTC) e avvio manuale opzionale.
+- Aggiunti [script Python di riconciliazione](scripts/sync_substack.py) e [10 test](tests/test_sync_substack.py) (idempotenza, nuovi URL, preservazione dei titoli verificati, blocco cancellazioni/duplicati/URL non canonici/inserimenti storici e segnalazione di troncamenti).
+- La prima esecuzione GitHub Actions tramite `push` è stata **completata con successo**: test, download della sorgente pubblica, riconciliazione e controllo dei file.
+- I nuovi record sono esplicitamente **provvisori** fino alla verifica nella mappa editoriale privata; l'archivio dei 301 articoli precedentemente verificati rimane invariato.
+- Nessun token personale richiesto per la seconda sincronizzazione; rimane necessario mantenere valido quello di Gmail → Apps Script → repository sitemap.
