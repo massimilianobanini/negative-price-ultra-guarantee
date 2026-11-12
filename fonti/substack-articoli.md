@@ -1,6 +1,6 @@
 # The -1 Guarantee — indice completo degli articoli pubblicati
 
-**302 articoli**, dal 14 gennaio 2026 al 11 novembre 2026. Catalogo sincronizzato il **11 novembre 2026** con l'archivio GitHub pubblico.
+**303 articoli**, dal 14 gennaio 2026 al 12 novembre 2026. Catalogo sincronizzato il **12 novembre 2026** con l'archivio GitHub pubblico.
 
 **Fonte pubblica:** https://theminusoneguarantee.substack.com/
 
@@ -310,5 +310,6 @@ Le righe sono riferimenti bibliografici, non copie integrali degli articoli. **I
 | SUB-300 | 2026-11-09 | If Your Company Is Always Busy but Never Improving, Management Is Swimming the Wrong Way | [Leggi](https://theminusoneguarantee.substack.com/p/if-your-company-is-always-busy-but) |
 | SUB-301 | 2026-11-10 | Young People Were Told to Study More. Now Companies Punish Them for Knowing Too Much. | [Leggi](https://theminusoneguarantee.substack.com/p/young-people-were-told-to-study-more) |
 | SUB-302 | 2026-11-11 | If You Demand More From Employees but Refuse Higher Standards Yourself, You Don’t Want Talent | [Leggi](https://theminusoneguarantee.substack.com/p/if-you-demand-more-from-employees) |
+| SUB-303 | 2026-11-12 | The Negative Price Guarantee Needs One Thing Most Established People Have Lost: Courage | [Leggi](https://theminusoneguarantee.substack.com/p/the-negative-price-guarantee-needs) |
 
 Vedi anche [dataset strutturato](substack-articles.json) e [procedura di aggiornamento](../SYNC-EDITORIALE.md).
