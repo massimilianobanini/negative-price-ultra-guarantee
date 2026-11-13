@@ -2,9 +2,9 @@
   "publication": "The -1 Guarantee",
   "publisher": "Massimiliano Banini",
   "source": "https://theminusoneguarantee.substack.com/",
-  "snapshot_date": "2026-11-12",
-  "last_recorded_publication_date": "2026-11-12",
-  "count": 303,
+  "snapshot_date": "2026-11-13",
+  "last_recorded_publication_date": "2026-11-13",
+  "count": 304,
   "records": [
     {
       "id": "SUB-001",
@@ -2129,6 +2129,16 @@
       "title": "The Negative Price Guarantee Needs One Thing Most Established People Have Lost: Courage",
       "subtitle": "",
       "url": "https://theminusoneguarantee.substack.com/p/the-negative-price-guarantee-needs",
+      "metadata_status": "provvisorio_da_verificare_con_mappa_editoriale",
+      "title_may_be_truncated": false,
+      "source": "public_github_sitemap"
+    },
+    {
+      "id": "SUB-304",
+      "date": "2026-11-13",
+      "title": "If Every Emergency Breaks Your Company, You Don’t Need More Staff. Redesign the Business Model",
+      "subtitle": "",
+      "url": "https://theminusoneguarantee.substack.com/p/if-every-emergency-breaks-your-company",
       "metadata_status": "provvisorio_da_verificare_con_mappa_editoriale",
       "title_may_be_truncated": false,
       "source": "public_github_sitemap"
