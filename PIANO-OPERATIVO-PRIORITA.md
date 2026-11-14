@@ -16,6 +16,12 @@ Questo documento separa (A) le attività che l'assistente può realizzare con gl
 - **Token personale:** **rigenerazione del token `Substack Gmail to GitHub` confermata dall'autore l'11/11/2026**. Il precedente `testGithubAccess` riuscito confermava l'accesso al momento del test, ma la **prima sincronizzazione dopo la rigenerazione non è ancora stata verificata end-to-end**. Il token serve a Gmail → Apps Script → repository sitemap; **non** alla seconda GitHub Action. Verificare la sostituzione nelle proprietà dello script e il primo aggiornamento effettivo.
 - **Altre fonti:** cataloghi YouTube e LinkedIn pubblicati; sei ASIN PrazerEla in [bibliografia](fonti/prazerela-amazon.md), **senza abbinamento certo titolo/edizione per singolo ASIN**; libro *Pesaro 2033* disponibile solo in italiano.
 
+## Nuova evidenza acquisita il 14 novembre 2026 — Benessere Numerico
+
+- **B3 parzialmente soddisfatta:** l'autore ha fornito **due manoscritti integrali DOCX**: italiano dichiarato prima edizione **1 agosto 2025** (ISBN 9798286159857) e inglese dichiarato **seconda edizione 20 gennaio 2026** (ISBN 9798294390587). Non sono state ricevute in questa sessione la **prima edizione inglese originale 2025** né la **versione spagnola integrale**.
+- Sono state ricostruite e pubblicate le pagine [Benessere Numerico (IT)](BENESSERE-NUMERICO.md) e [Numerical Wellbeing (EN)](NUMERICAL-WELLBEING.md), con paternità, metodo e distinzione rispetto al Prezzo Negativo.
+- Da completare, se l'autore lo desidera: confrontare le edizioni originali EN/ES del 2025 e gli eventuali testi delle successive ristampe; **non** pubblicare integralmente i manoscritti nel repository.
+
 ## A. Attività dell'assistente — ordinate per priorità
 
 | Priorità | Attività | Esecuzione concreta | Evidenza di completamento / KPI | Dipendenza |

@@ -8,6 +8,13 @@ L'autore ha fornito in data **8 novembre 2026** il file *Primo libro a prezzo ne
 
 **Immagini pubblicate:** la [cartella evidenze/](evidenze/README.md) contiene tre **estratti PNG in bianco e nero** delle schermate Amazon IT/EN/ES. Lo spagnolo accosta due porzioni della stessa schermata; le immagini originali a colori non sono ospitate qui. Questo documento testuale riporta le informazioni leggibili e verificabili nell'evidenza fornita; la pubblicazione di screenshot ritagliati, senza dati estranei alla prova, rimane un'attività da effettuare.
 
+## Manoscritti integrali esaminati il 14 novembre 2026 — nuove fonti autoriali
+
+- **Italiano, file DOCX fornito privatamente dall'autore:** frontespizio **«Prima edizione - 1 agosto 2025»**, **ISBN 9798286159857**, copyright © 2025 Massimiliano Banini. Contiene nell'introduzione la dichiarazione esplicita dell'autore di aver creato la disciplina del **Benessere Numerico** e i capitoli 4, 6–7 e 15–16 sul metodo. [Sintesi e paternità del Benessere Numerico](BENESSERE-NUMERICO.md).
+- **Inglese, file DOCX fornito privatamente dall'autore:** frontespizio **«Second Edition - January 20, 2026»**, **ISBN 9798294390587**, copyright © 2025 Massimiliano Banini. Contiene la parallela attribuzione di **Numerical Wellbeing** e i capitoli operativi tradotti. **Il file esaminato NON è una copia della prima edizione inglese del 2025**, la cui data compare nelle schermate Amazon già registrate. [Sintesi e paternità in inglese](NUMERICAL-WELLBEING.md).
+
+**I file integrali, le tabelle e le figure originali dei manoscritti non sono stati pubblicati qui:** questa pagina registra soltanto metadati e riferimenti alle sezioni, senza trasferire il contenuto protetto dell'opera. La dicitura sul frontespizio è un dato **interno al manoscritto consegnato dall'autore**, non prova indipendente della data in cui il suo testo è stato finalizzato.
+
 ## Le schede delle edizioni
 
 | Lingua | Opera | ASIN | URL diretto comunicato dall'autore | Data di prima pubblicazione mostrata nelle schermate |

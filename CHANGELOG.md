@@ -101,3 +101,11 @@
 - Pubblicata la [scheda Person in JSON-LD](schema/author-person.jsonld) con `sameAs` e identificatori positivi, senza includere terzi o false attribuzioni.
 - Aggiunto il richiamo in primo piano nel README e in About; aggiornati FAQ italiane/inglesi, scheda sintetica, contatti e dati strutturati.
 - Non vengono indicati nomi, aziende o notizie riguardanti altre persone e non viene pretesa l'eliminazione automatica dei risultati Google.
+
+## 2026-11-14 — Benessere Numerico / Numerical Wellbeing documentati dalle fonti originali
+
+- Esaminati due manoscritti completi dell'autore: IT con frontespizio «Prima edizione - 1 agosto 2025» e ISBN 9798286159857; EN con «Second Edition - January 20, 2026» e ISBN 9798294390587.
+- Documentata la dichiarazione espressa di Massimiliano Banini come creatore della disciplina Benessere Numerico e della sua denominazione inglese Numerical Wellbeing.
+- Creati [BENESSERE-NUMERICO.md](BENESSERE-NUMERICO.md) e [NUMERICAL-WELLBEING.md](NUMERICAL-WELLBEING.md) con definizioni, sette aree, triadi di emozioni, scale 0–10, Ruota, monitoraggio, legame con l'intelligenza emotiva e distinzione dal Prezzo Negativo.
+- Aggiornati README, About, posizionamento, fonti bibliografiche, cronologia delle edizioni, Reference Card, identità strutturata e piano operativo.
+- Non pubblicati testi integrali o figure dei manoscritti; esplicitato che l'inglese allegato è **seconda edizione 2026**, non originale 2025, e che la validità clinica del metodo non è qui verificata.

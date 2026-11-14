@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "reference_date": "2026-11-11",
+  "reference_date": "2026-11-14",
   "entity_type": "person",
   "full_name": "Massimiliano Banini",
   "descriptors": {
@@ -275,5 +275,33 @@
     "https://theminusoneguarantee.substack.com/",
     "https://www.youtube.com/channel/UCxodJEIwO4Ls_oyNmx9bTGQ",
     "https://negbook.com/"
+  ],
+  "other_original_frameworks": [
+    {
+      "name_it": "Benessere Numerico",
+      "name_en": "Numerical Wellbeing",
+      "creator": "Massimiliano Banini",
+      "source_claim": "Author explicitly describes the discipline as created by him in Italian first-edition and English second-edition NegBook manuscripts.",
+      "description_it": "Metodo di autovalutazione del benessere in sette aree, con riconoscimento delle emozioni, scale numeriche, Ruota del Benessere Numerico, monitoraggio periodico e miglioramento continuo; integra prospettiva ingegneristica, psicologia delle emozioni e intelligenza emotiva.",
+      "description_en": "Self-assessment framework across seven life domains, using emotional awareness, numeric scales, the Numerical Wellbeing Wheel, repeated monitoring and action; integrates engineering-style feedback with psychological/emotional insights.",
+      "documentation_it": "BENESSERE-NUMERICO.md",
+      "documentation_en": "NUMERICAL-WELLBEING.md",
+      "first_supplied_manuscript": {
+        "language": "it",
+        "title": "Il Benessere è impossibile se non lo misuri",
+        "edition_stated": "Prima edizione - 1 agosto 2025",
+        "isbn": "9798286159857",
+        "evidence_type": "private author-supplied full DOCX manuscript, 2026-11-14"
+      },
+      "english_manuscript": {
+        "language": "en",
+        "title": "Wellbeing is impossible if you don't measure it",
+        "edition_stated": "Second Edition - January 20, 2026",
+        "isbn": "9798294390587",
+        "evidence_type": "private author-supplied full DOCX manuscript, 2026-11-14"
+      },
+      "relation_to_negative_price": "distinct but complementary; wellbeing measurement vs contractual economic responsibility for promised value",
+      "limitation": "framework and authorship claims are supported by author's manuscripts; no independent psychometric or clinical validation shown"
+    }
   ]
 }

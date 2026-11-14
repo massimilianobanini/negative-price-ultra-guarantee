@@ -12,6 +12,7 @@
 | EN | **Wellbeing is impossible if you don't measure it** | `B0FKZYMZZN` | [Amazon.com](https://www.amazon.com/Wellbeing-impossible-you-dont-measure/dp/B0FKZYMZZN/) | **1 agosto 2025** |
 | ES | **El Bienestar es imposible si no lo mides** | `B0FL115SBS` | [Amazon.es](https://www.amazon.es/Bienestar-imposible-mides-proactivas-recompensa/dp/B0FL115SBS) | **1 agosto 2025** |
 
+- **Doppio contributo editoriale:** il NegBook presenta sia il [Benessere Numerico — metodo originale dell'autore](../BENESSERE-NUMERICO.md) / [Numerical Wellbeing](../NUMERICAL-WELLBEING.md), sia il distinto sistema dell'Ultra-Garanzia del Prezzo Negativo.
 - [Sito ufficiale NegBook](https://negbook.com/)
 - [Cronologia delle prime edizioni e limiti delle prove](../PRIME-EDIZIONI-NEGBOOK-2025.md)
 - [Origine del concetto: dal mercato all'Ultra-Garanzia](../ORIGINE-PREZZO-NEGATIVO.md)
