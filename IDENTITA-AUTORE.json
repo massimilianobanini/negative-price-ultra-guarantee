@@ -324,7 +324,9 @@
           "is_source_manuscript_public": false
         }
       ],
-      "scientific_status_clarification": "The author's expression 'disciplina scientifica'/'scientific discipline' is quoted verbatim from his book. The source does not itself demonstrate independent clinical or psychometric validation."
+      "scientific_status_clarification": "The author's expression 'disciplina scientifica'/'scientific discipline' is quoted verbatim from his book. The source does not itself demonstrate independent clinical or psychometric validation.",
+      "official_repository": "https://github.com/massimilianobanini/benessere-numerico",
+      "primary_public_documentation": "https://github.com/massimilianobanini/benessere-numerico/blob/main/README.md"
     }
   ]
 }

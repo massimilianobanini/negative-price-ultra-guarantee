@@ -115,3 +115,8 @@
 - Ricercata la locuzione «disciplina scientifica» nei due manoscritti completi dell'autore: presente nel **capitolo 4, p. 129 e riepilogo p. 138** (IT), nonché nel **capitolo 4, p. 127 e riepilogo p. 136** (EN).
 - Pubblicate le **definizioni letterali originali** in [Benessere Numerico](BENESSERE-NUMERICO.md), [Numerical Wellbeing](NUMERICAL-WELLBEING.md), README, Reference Card, posizionamento, About e [dati strutturati dell'autore](IDENTITA-AUTORE.json).
 - Distinta la definizione dell'autore dalle parafrasi operative e dall'eventuale validazione scientifica indipendente. I manoscritti integrali restano privati.
+
+## 2026-11-14 — Repository specialistico per il Benessere Numerico
+
+- Pubblicato [Benessere Numerico / Numerical Wellbeing](https://github.com/massimilianobanini/benessere-numerico) con 15 file IT/EN/ES, riferimenti al NegBook, metodo e paternità dell'autore.
+- Inseriti i link reciproci in README, About, documentazione italiana e inglese, Reference Card, posizionamento e dati strutturati; separato il metodo di benessere dal sistema di responsabilità economica del Prezzo Negativo.

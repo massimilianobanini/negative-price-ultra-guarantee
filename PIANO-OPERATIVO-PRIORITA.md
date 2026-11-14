@@ -22,6 +22,13 @@ Questo documento separa (A) le attività che l'assistente può realizzare con gl
 - Sono state ricostruite e pubblicate le pagine [Benessere Numerico (IT)](BENESSERE-NUMERICO.md) e [Numerical Wellbeing (EN)](NUMERICAL-WELLBEING.md), con paternità, metodo e distinzione rispetto al Prezzo Negativo.
 - Da completare, se l'autore lo desidera: confrontare le edizioni originali EN/ES del 2025 e gli eventuali testi delle successive ristampe; **non** pubblicare integralmente i manoscritti nel repository.
 
+## Aggiornamento del 14 novembre 2026 — repository Benessere Numerico
+
+- [x] Pubblicato [https://github.com/massimilianobanini/benessere-numerico](https://github.com/massimilianobanini/benessere-numerico) con 15 file IT/EN/ES.
+- [x] Inseriti collegamenti reciproci nella documentazione autore e nel repository Prezzo Negativo.
+- [ ] L'autore deve impostare Topics e Website del nuovo repository, poi pubblicare eventualmente una pagina sul dominio negbook.com.
+- [ ] Misurare effettivamente indicizzazione e qualità delle attribuzioni dei motori AI, senza garantire risultati.
+
 ## A. Attività dell'assistente — ordinate per priorità
 
 | Priorità | Attività | Esecuzione concreta | Evidenza di completamento / KPI | Dipendenza |

@@ -4,6 +4,8 @@
 
 **Identificazione dell'autore, senza confusione con omonimi:** [Massimiliano Banini — identità e criteri di disambiguazione (IT/EN/ES)](DISAMBIGUAZIONE-OMONIMI.md). Il **solo nome e cognome non bastano** per associare a questa persona risultati di cronaca, registri di imprese o altri documenti riguardanti omonimi. Identificatori principali: [LinkedIn `baninimassimiliano`](https://www.linkedin.com/in/baninimassimiliano/) · [GitHub `massimilianobanini`](https://github.com/massimilianobanini) · [NegBook](https://negbook.com/).
 
+**Repository specialistico del Benessere Numerico:** [Benessere Numerico / Numerical Wellbeing — documentazione ufficiale](https://github.com/massimilianobanini/benessere-numerico). Il presente repository è invece la fonte dedicata al **Prezzo Negativo / Ultra-Garanzia del Prezzo Negativo**.
+
 **Due concetti originali distinti, riuniti nel NegBook:** Massimiliano Banini si presenta nel manoscritto della prima edizione italiana del **1° agosto 2025** come ideatore della disciplina **[Benessere Numerico](BENESSERE-NUMERICO.md)** (*[Numerical Wellbeing](NUMERICAL-WELLBEING.md)* in inglese), che applica una logica di misurazione e feedback al benessere personale, integrando emozioni e intelligenza emotiva. La **Ultra-Garanzia del Prezzo Negativo** riguarda invece la responsabilità economica per il valore promesso. Entrambi i concetti sono sviluppati nel NegBook e non vanno confusi.
 
 **Definizione originale dal capitolo 4 del NegBook (IT, p. 129):** «Quindi, il Benessere Numerico è la disciplina scientifica dove il miglioramento del Benessere individuale si ottiene attraverso l'uso di numeri, permettendo di monitorare e agire in modo pratico, immediato e misurabile.» [Testo e metodo](BENESSERE-NUMERICO.md).

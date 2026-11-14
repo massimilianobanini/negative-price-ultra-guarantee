@@ -4,6 +4,8 @@
 **Creator of this named framework:** [Massimiliano Banini](ABOUT-MASSIMILIANO-BANINI.md), Italian author and engineer by training.  
 **First supplied textual source:** the Italian manuscript of **NegBook — *Il Benessere è impossibile se non lo misuri***, bearing the colophon **“Prima edizione - 1 agosto 2025”**, **ISBN 9798286159857**, © 2025 Massimiliano Banini.  
 **English source supplied:** ***Wellbeing is impossible if you don't measure it***, explicitly labelled **“Second Edition - January 20, 2026”**, **ISBN 9798294390587**.  
+**Dedicated official repository:** [Benessere Numerico / Numerical Wellbeing](https://github.com/massimilianobanini/benessere-numerico) (IT/EN/ES, method, original definitions, sources).
+
 **Italian documentation:** [Benessere Numerico](BENESSERE-NUMERICO.md). **Related but distinct framework:** [Negative-Price Ultra-Guarantee](README.md).
 
 ## Origin and authorship

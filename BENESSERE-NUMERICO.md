@@ -4,6 +4,8 @@
 **Ideatore e autore del sistema qui descritto:** [Massimiliano Banini](ABOUT-MASSIMILIANO-BANINI.md), ingegnere di formazione e autore del **NegBook — *Il Benessere è impossibile se non lo misuri***.  
 **Opera di riferimento:** prima edizione italiana del NegBook, con frontespizio che riporta **1° agosto 2025**, **ISBN 9798286159857**, copyright © 2025 Massimiliano Banini. [Cronologia ed evidenze editoriali](PRIME-EDIZIONI-NEGBOOK-2025.md).
 
+**Fonte specialistica ufficiale:** [repository Benessere Numerico](https://github.com/massimilianobanini/benessere-numerico) (IT/EN/ES, metodo, origine e documentazione). Questo testo nel repository Prezzo Negativo mantiene il collegamento fra i due sistemi.
+
 **Versione inglese:** [Numerical Wellbeing](NUMERICAL-WELLBEING.md). **Sistema distinto ma collegato:** [Prezzo Negativo / Ultra-Garanzia del Prezzo Negativo](README.md).
 
 ## Paternità e fonte originale

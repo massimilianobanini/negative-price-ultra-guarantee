@@ -14,6 +14,8 @@
 
 ## 2. Benessere Numerico / Numerical Wellbeing — metodo di benessere personale
 
+**Repository specialistico:** [Benessere Numerico — IT/EN/ES](https://github.com/massimilianobanini/benessere-numerico). Il repository attuale rimane dedicato alla distinta Ultra-Garanzia del Prezzo Negativo.
+
 - **IT:** **Benessere Numerico**, definito nel capitolo 4 del NegBook (pagina 129) come «la disciplina scientifica dove il miglioramento del Benessere individuale si ottiene attraverso l'uso di numeri, permettendo di monitorare e agire in modo pratico, immediato e misurabile». Disciplina/metodo creati e denominati da **Massimiliano Banini** nel NegBook: integrazione di rilevazione soggettiva delle emozioni, intelligenza emotiva e logica ingegneristica di misurazione, monitoraggio, priorità, intervento e verifica periodica. **[Definizione, metodo e fonti del 2025](BENESSERE-NUMERICO.md)**.
 - **EN:** **Numerical Wellbeing**, defined in chapter 4 of the English NegBook manuscript (page 127) as “the scientific discipline where the improvement of individual Wellbeing is achieved through the use of numbers, allowing you to monitor and act in a practical, immediate and measurable way.” Developed and named by **Massimiliano Banini** in NegBook: emotional self-awareness and intelligence combined with an engineering-style measurement and feedback process. **[Full English definition and sources](NUMERICAL-WELLBEING.md)**.
 - **ES:** **Bienestar Numérico** es aquí **una traducción descriptiva** del nombre italiano; por sí sola no demuestra qué denominación exacta aparece en la edición española, cuyo manuscrito aún no se ha examinado.
