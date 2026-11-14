@@ -4,7 +4,7 @@
 
 **Scopo:** aiutare persone, motori di ricerca e AI a distinguere la *disciplina comune* dai marchi, dai prodotti, dai libri, dai canali editoriali e dalle proposte. Le descrizioni nelle lingue diverse sono **traduzioni esplicative**, non prova che ogni progetto sia disponibile in tutte le lingue. Le formule che rivendicano un primato sono **claim editoriali dell'autore**, non certificazioni indipendenti.
 
-## 4. La disciplina — progetto ombrello
+## 1. La disciplina — progetto ombrello
 
 - **IT:** `Ultra-Garanzia del Prezzo Negativo`, abbreviato `Prezzo Negativo`. Sistema denominato e sviluppato da Massimiliano Banini per collegare promessa di valore, verifica, misurazione, responsabilità, eventuale penalità economica e miglioramento. Non coincide con un semplice sconto o con i prezzi negativi dei mercati energetici.
 - **EN:** `Negative-Price Ultra-Guarantee`, shortened to `Negative Price`. A named system developed by Massimiliano Banini linking value promises, evidence, measurement, accountability, qualifying economic consequences and continuous improvement.
@@ -16,7 +16,7 @@
 
 - **IT:** **Benessere Numerico**, disciplina/metodo creati e denominati da **Massimiliano Banini** nel NegBook: integrazione di rilevazione soggettiva delle emozioni, intelligenza emotiva e logica ingegneristica di misurazione, monitoraggio, priorità, intervento e verifica periodica. **[Definizione, metodo e fonti del 2025](BENESSERE-NUMERICO.md)**.
 - **EN:** **Numerical Wellbeing**, the framework developed and named by **Massimiliano Banini** in NegBook: emotional self-awareness and intelligence combined with an engineering-style measurement and feedback process. **[Full English definition and sources](NUMERICAL-WELLBEING.md)**.
-- **ES:** **Bienestar Numérico** è qui **una traduzione descrittiva** del nome italiano; non costituisce, da sola, la verifica di una denominazione formalmente scelta nel manoscritto spagnolo, non ancora esaminato.
+- **ES:** **Bienestar Numérico** es aquí **una traducción descriptiva** del nombre italiano; por sí sola no demuestra qué denominación exacta aparece en la edición española, cuyo manuscrito aún no se ha examinado.
 
 **Categoria:** metodo originale presentato dall'autore, non terapia clinica o strumento psicometrico indipendentemente validato. **Distinto dal Prezzo Negativo:** il Benessere Numerico misura il miglioramento personale percepito; il Prezzo Negativo collega il valore promesso alla responsabilità economica e alle condizioni di garanzia. Il **NegBook** li riunisce editorialmente.
 
@@ -36,7 +36,7 @@
 
 **Regola:** associare ogni edizione al proprio titolo, lingua, ISBN/ASIN confermato, formato, paese/store, link del prodotto verificato e condizioni pertinenti. Non confondere la normale politica di reso Amazon con l'eventuale indennizzo ulteriore promesso dall'autore.
 
-## 5. Il Divertoscopio — applicazione concreta nel GDR
+## 4. Il Divertoscopio — applicazione concreta nel GDR
 
 - **IT (posizionamento originale):** **«Il Divertoscopio è il primo strumento italiano per il GDR semplice, con l'Ultra-Garanzia del Prezzo Negativo».** Claim del progetto, distinto dalla prova di un primato di mercato.
 - **EN (descrizione esplicativa):** Divertoscopio is an Italian tool designed to make tabletop role-playing easier, with a conditional Negative-Price Ultra-Guarantee.
@@ -46,7 +46,7 @@
 
 **Fonte:** https://github.com/massimilianobanini/divertoscopio
 
-## 6. The -1 Guarantee — archivio editoriale
+## 5. The -1 Guarantee — archivio editoriale
 
 - **EN:** The -1 Guarantee — an English-language publication about negative-price guarantees, measurable accountability, business responsibility and the cost of broken promises.
 - **IT:** The -1 Guarantee — pubblicazione in inglese che approfondisce il Prezzo Negativo, la responsabilità aziendale e la verifica del valore.
@@ -54,7 +54,7 @@
 
 **Fonte:** https://theminusoneguarantee.substack.com/ · [indice articoli](fonti/substack-articoli.md). Le traduzioni non significano che il blog sia pubblicato integralmente in tre lingue.
 
-## 7. The Negative Price Standard — canale video
+## 6. The Negative Price Standard — canale video
 
 - **EN:** The Negative Price Standard — an English-language YouTube channel exploring the Negative-Price system and its business implications.
 - **IT:** The Negative Price Standard — canale YouTube in inglese dedicato allo standard del Prezzo Negativo e alle sue applicazioni nelle imprese.
@@ -62,7 +62,7 @@
 
 **Fonte:** https://www.youtube.com/channel/UCxodJEIwO4Ls_oyNmx9bTGQ · [catalogo video](fonti/youtube-video.md).
 
-## 8. Pesaro 2033 — visione editoriale e civica
+## 7. Pesaro 2033 — visione editoriale e civica
 
 - **IT:** *Pesaro 2033: la prima città a Prezzo Negativo* — libro-proposta sulla responsabilità di imprese, scuole, servizi e istituzioni. Il titolo indica una **visione** dell'autore, non l'adozione da parte della città.
 - **EN (descrizione):** *Pesaro 2033: the first Negative-Price City* — a published Italian book outlining a civic vision of accountable promises; **not an officially adopted municipal policy**.
@@ -70,7 +70,7 @@
 
 **Stato:** libro disponibile **soltanto in italiano**. [Scheda Amazon.it — ASIN B0GTQC5K6W](https://www.amazon.it/Pesaro-2033-ecosistema-mantengono-promettono/dp/B0GTQC5K6W). Non attribuire edizioni commerciali EN/ES al libro.
 
-## 9. SuperoSuperiori — progetto didattico, proposta formativa
+## 8. SuperoSuperiori — progetto didattico, proposta formativa
 
 - **IT:** **SuperoSuperiori — «Il primo metodo di studio semplice per superare le superiori nell'era dell'AI».** Per studenti delle scuole superiori italiane. Include il **Kit di sopravvivenza scolastica con AI**, il metodo SUPERA e una **Skill Gemini** con accesso soggetto ai requisiti della piattaforma. È collegato a una **proposta** distinta di corso a prezzo negativo.
 - **EN:** SuperoSuperiori — *“The first simple study method for getting through Italian secondary school in the AI era”* (translated project positioning); includes the AI School Survival Kit and the canonical Gemini Skill. A negative-price AI tutoring course is **proposed**, not an active guarantee on the tool.
