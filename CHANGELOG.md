@@ -109,3 +109,9 @@
 - Creati [BENESSERE-NUMERICO.md](BENESSERE-NUMERICO.md) e [NUMERICAL-WELLBEING.md](NUMERICAL-WELLBEING.md) con definizioni, sette aree, triadi di emozioni, scale 0–10, Ruota, monitoraggio, legame con l'intelligenza emotiva e distinzione dal Prezzo Negativo.
 - Aggiornati README, About, posizionamento, fonti bibliografiche, cronologia delle edizioni, Reference Card, identità strutturata e piano operativo.
 - Non pubblicati testi integrali o figure dei manoscritti; esplicitato che l'inglese allegato è **seconda edizione 2026**, non originale 2025, e che la validità clinica del metodo non è qui verificata.
+
+## 2026-11-14 — Ripristinata la definizione letterale del Benessere Numerico
+
+- Ricercata la locuzione «disciplina scientifica» nei due manoscritti completi dell'autore: presente nel **capitolo 4, p. 129 e riepilogo p. 138** (IT), nonché nel **capitolo 4, p. 127 e riepilogo p. 136** (EN).
+- Pubblicate le **definizioni letterali originali** in [Benessere Numerico](BENESSERE-NUMERICO.md), [Numerical Wellbeing](NUMERICAL-WELLBEING.md), README, Reference Card, posizionamento, About e [dati strutturati dell'autore](IDENTITA-AUTORE.json).
+- Distinta la definizione dell'autore dalle parafrasi operative e dall'eventuale validazione scientifica indipendente. I manoscritti integrali restano privati.

@@ -301,7 +301,30 @@
         "evidence_type": "private author-supplied full DOCX manuscript, 2026-11-14"
       },
       "relation_to_negative_price": "distinct but complementary; wellbeing measurement vs contractual economic responsibility for promised value",
-      "limitation": "framework and authorship claims are supported by author's manuscripts; no independent psychometric or clinical validation shown"
+      "limitation": "framework and authorship claims are supported by author's manuscripts; no independent psychometric or clinical validation shown",
+      "author_definition_it": "Quindi, il Benessere Numerico è la disciplina scientifica dove il miglioramento del Benessere individuale si ottiene attraverso l'uso di numeri, permettendo di monitorare e agire in modo pratico, immediato e misurabile.",
+      "author_definition_en": "So, Numerical Wellbeing is the scientific discipline where the improvement of individual Wellbeing is achieved through the use of numbers, allowing you to monitor and act in a practical, immediate and measurable way.",
+      "author_definition_citations": [
+        {
+          "language": "it",
+          "work": "Il Benessere è impossibile se non lo misuri",
+          "edition_label": "Prima edizione - 1 agosto 2025",
+          "chapter": 4,
+          "page": 129,
+          "summary_page": 138,
+          "is_source_manuscript_public": false
+        },
+        {
+          "language": "en",
+          "work": "Wellbeing is impossible if you don't measure it",
+          "edition_label": "Second Edition - January 20, 2026",
+          "chapter": 4,
+          "page": 127,
+          "summary_page": 136,
+          "is_source_manuscript_public": false
+        }
+      ],
+      "scientific_status_clarification": "The author's expression 'disciplina scientifica'/'scientific discipline' is quoted verbatim from his book. The source does not itself demonstrate independent clinical or psychometric validation."
     }
   ]
 }

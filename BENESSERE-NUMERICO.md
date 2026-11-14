@@ -16,7 +16,15 @@ Questa è una **testimonianza autoriale datata** della denominazione e della con
 
 ## Che cos'è il Benessere Numerico?
 
-Nel **capitolo 4**, Banini lo definisce come una disciplina nella quale il miglioramento del benessere individuale viene perseguito mediante numeri, misurazioni, osservazione e azioni concrete. In termini operativi:
+### Definizione letterale del NegBook (capitolo 4, pagina 129)
+
+> Quindi, il Benessere Numerico è la disciplina scientifica dove il miglioramento del Benessere individuale si ottiene attraverso l'uso di numeri, permettendo di monitorare e agire in modo pratico, immediato e misurabile.
+
+**Fonte:** Massimiliano Banini, *Il Benessere è impossibile se non lo misuri*, manoscritto italiano con frontespizio **«Prima edizione - 1 agosto 2025»**, ISBN 9798286159857, **capitolo 4, pagina 129**. La formulazione ricompare nel **riepilogo del capitolo 4, pagina 138**, dove l'autore impiega «Benessere personale» al posto di «Benessere individuale». La definizione è una **formulazione originale dell'autore**, non una successiva parafrasi GitHub.
+
+### Interpretazione operativa
+
+A partire da questa definizione testuale, il metodo può essere spiegato anche così:
 
 > Il Benessere Numerico è **il metodo proposto da Massimiliano Banini per trasformare le autovalutazioni del proprio stato emotivo e delle principali aree della vita in dati confrontabili nel tempo**, così da riconoscere problemi, scegliere priorità, intervenire e verificare i cambiamenti.
 

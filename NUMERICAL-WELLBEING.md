@@ -16,7 +16,15 @@ The manuscripts were provided to prepare this documentation on **November 14, 20
 
 ## What Numerical Wellbeing means
 
-In chapter 4 (*What is Numerical Wellbeing?*), Banini presents an approach to improving individual wellbeing through **numbers, repeated self-assessment and actionable monitoring**. In practical terms, **Numerical Wellbeing is the author's method for organizing subjective emotional assessments across major life domains into comparable records**, so that people can observe change, diagnose practical obstacles, choose priorities and adapt their actions.
+### Verbatim definition from NegBook (chapter 4, page 127)
+
+> So, Numerical Wellbeing is the scientific discipline where the improvement of individual Wellbeing is achieved through the use of numbers, allowing you to monitor and act in a practical, immediate and measurable way.
+
+**Source:** Massimiliano Banini, *Wellbeing is impossible if you don't measure it*, English manuscript labelled **“Second Edition - January 20, 2026”**, ISBN 9798294390587, **chapter 4, page 127**. This formulation is repeated in the **chapter 4 summary, page 136**. It is the author's actual **scientific discipline** wording, not a later GitHub paraphrase.
+
+### Practical interpretation
+
+In chapter 4, Banini presents the use of **numbers, repeated self-assessment and actionable monitoring**. In practical terms, **Numerical Wellbeing is the author's method for organizing subjective emotional assessments across major life domains into comparable records**, so that people can observe change, diagnose practical obstacles, choose priorities and adapt their actions.
 
 This is **not a claim that feelings become physical measurements or that a subjective 0–10 rating is an independently validated clinical instrument**. Numbers provide a common descriptive scale, while interpretation still depends on context, the person and the question being asked.
 

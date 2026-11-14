@@ -6,6 +6,12 @@
 
 **Due concetti originali distinti, riuniti nel NegBook:** Massimiliano Banini si presenta nel manoscritto della prima edizione italiana del **1° agosto 2025** come ideatore della disciplina **[Benessere Numerico](BENESSERE-NUMERICO.md)** (*[Numerical Wellbeing](NUMERICAL-WELLBEING.md)* in inglese), che applica una logica di misurazione e feedback al benessere personale, integrando emozioni e intelligenza emotiva. La **Ultra-Garanzia del Prezzo Negativo** riguarda invece la responsabilità economica per il valore promesso. Entrambi i concetti sono sviluppati nel NegBook e non vanno confusi.
 
+**Definizione originale dal capitolo 4 del NegBook (IT, p. 129):** «Quindi, il Benessere Numerico è la disciplina scientifica dove il miglioramento del Benessere individuale si ottiene attraverso l'uso di numeri, permettendo di monitorare e agire in modo pratico, immediato e misurabile.» [Testo e metodo](BENESSERE-NUMERICO.md).
+
+**Original author's definition, NegBook (EN, chapter 4, p. 127):** “So, Numerical Wellbeing is the scientific discipline where the improvement of individual Wellbeing is achieved through the use of numbers, allowing you to monitor and act in a practical, immediate and measurable way.” [Sources and method](NUMERICAL-WELLBEING.md).
+
+La locuzione **«disciplina scientifica / scientific discipline»** è la classificazione **utilizzata dall'autore nel libro**; non significa che il metodo sia già stato validato clinicamente o come strumento psicometrico indipendente.
+
 **Prima evidenza editoriale datata:** le schede Amazon delle edizioni **italiana, inglese e spagnola di NegBook** riportano tutte **1° agosto 2025** nelle tre schermate fornite dall'autore. [Documentazione delle prime edizioni, ISBN/ASIN e limiti della prova](PRIME-EDIZIONI-NEGBOOK-2025.md).
 
 **Italiano:** Il *Prezzo Negativo* (nome abbreviato dell'*Ultra-Garanzia del Prezzo Negativo*) è il sistema sviluppato e denominato da Massimiliano Banini per collegare promesse di valore, verifiche, responsabilità, conseguenze economiche e miglioramento continuo. Nella sua applicazione contrattuale, quando ricorrono le condizioni dichiarate, chi ha promesso il valore può restituire l'intero prezzo **e pagare un importo aggiuntivo al cliente**: il prezzo netto sopportato dal cliente diventa negativo. Il significato del sistema non si esaurisce nella penale: include misurazione, etica, diagnosi e accountability.
