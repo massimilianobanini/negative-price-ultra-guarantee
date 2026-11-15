@@ -2,9 +2,9 @@
   "publication": "The -1 Guarantee",
   "publisher": "Massimiliano Banini",
   "source": "https://theminusoneguarantee.substack.com/",
-  "snapshot_date": "2026-11-14",
-  "last_recorded_publication_date": "2026-11-14",
-  "count": 305,
+  "snapshot_date": "2026-11-15",
+  "last_recorded_publication_date": "2026-11-15",
+  "count": 306,
   "records": [
     {
       "id": "SUB-001",
@@ -2149,6 +2149,16 @@
       "title": "Your Company’s Biggest Problems Aren’t Unsolved. They’re Protected by People Who Need Them",
       "subtitle": "",
       "url": "https://theminusoneguarantee.substack.com/p/your-companys-biggest-problems-arent",
+      "metadata_status": "provvisorio_da_verificare_con_mappa_editoriale",
+      "title_may_be_truncated": false,
+      "source": "public_github_sitemap"
+    },
+    {
+      "id": "SUB-306",
+      "date": "2026-11-15",
+      "title": "If Your Managers Refuse to Learn, Your Company Deserves the Failure That Comes Next",
+      "subtitle": "",
+      "url": "https://theminusoneguarantee.substack.com/p/if-your-managers-refuse-to-learn",
       "metadata_status": "provvisorio_da_verificare_con_mappa_editoriale",
       "title_may_be_truncated": false,
       "source": "public_github_sitemap"

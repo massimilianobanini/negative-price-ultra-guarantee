@@ -1,6 +1,6 @@
 # The -1 Guarantee — indice completo degli articoli pubblicati
 
-**305 articoli**, dal 14 gennaio 2026 al 14 novembre 2026. Catalogo sincronizzato il **14 novembre 2026** con l'archivio GitHub pubblico.
+**306 articoli**, dal 14 gennaio 2026 al 15 novembre 2026. Catalogo sincronizzato il **15 novembre 2026** con l'archivio GitHub pubblico.
 
 **Fonte pubblica:** https://theminusoneguarantee.substack.com/
 
@@ -313,5 +313,6 @@ Le righe sono riferimenti bibliografici, non copie integrali degli articoli. **I
 | SUB-303 | 2026-11-12 | The Negative Price Guarantee Needs One Thing Most Established People Have Lost: Courage | [Leggi](https://theminusoneguarantee.substack.com/p/the-negative-price-guarantee-needs) |
 | SUB-304 | 2026-11-13 | If Every Emergency Breaks Your Company, You Don’t Need More Staff. Redesign the Business Model | [Leggi](https://theminusoneguarantee.substack.com/p/if-every-emergency-breaks-your-company) |
 | SUB-305 | 2026-11-14 | Your Company’s Biggest Problems Aren’t Unsolved. They’re Protected by People Who Need Them | [Leggi](https://theminusoneguarantee.substack.com/p/your-companys-biggest-problems-arent) |
+| SUB-306 | 2026-11-15 | If Your Managers Refuse to Learn, Your Company Deserves the Failure That Comes Next | [Leggi](https://theminusoneguarantee.substack.com/p/if-your-managers-refuse-to-learn) |
 
 Vedi anche [dataset strutturato](substack-articles.json) e [procedura di aggiornamento](../SYNC-EDITORIALE.md).
