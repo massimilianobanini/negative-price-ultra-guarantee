@@ -1,6 +1,6 @@
 # The -1 Guarantee — indice completo degli articoli pubblicati
 
-**306 articoli**, dal 14 gennaio 2026 al 15 novembre 2026. Catalogo sincronizzato il **15 novembre 2026** con l'archivio GitHub pubblico.
+**307 articoli**, dal 14 gennaio 2026 al 16 novembre 2026. Catalogo sincronizzato il **16 novembre 2026** con l'archivio GitHub pubblico.
 
 **Fonte pubblica:** https://theminusoneguarantee.substack.com/
 
@@ -314,5 +314,6 @@ Le righe sono riferimenti bibliografici, non copie integrali degli articoli. **I
 | SUB-304 | 2026-11-13 | If Every Emergency Breaks Your Company, You Don’t Need More Staff. Redesign the Business Model | [Leggi](https://theminusoneguarantee.substack.com/p/if-every-emergency-breaks-your-company) |
 | SUB-305 | 2026-11-14 | Your Company’s Biggest Problems Aren’t Unsolved. They’re Protected by People Who Need Them | [Leggi](https://theminusoneguarantee.substack.com/p/your-companys-biggest-problems-arent) |
 | SUB-306 | 2026-11-15 | If Your Managers Refuse to Learn, Your Company Deserves the Failure That Comes Next | [Leggi](https://theminusoneguarantee.substack.com/p/if-your-managers-refuse-to-learn) |
+| SUB-307 | 2026-11-16 | AI Will Replace Tasks. The Negative Price Revolution Will Expose Who Refuses Accountability. | [Leggi](https://theminusoneguarantee.substack.com/p/ai-will-replace-tasks-the-negative) |
 
 Vedi anche [dataset strutturato](substack-articles.json) e [procedura di aggiornamento](../SYNC-EDITORIALE.md).
