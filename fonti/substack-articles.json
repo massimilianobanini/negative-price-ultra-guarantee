@@ -2,9 +2,9 @@
   "publication": "The -1 Guarantee",
   "publisher": "Massimiliano Banini",
   "source": "https://theminusoneguarantee.substack.com/",
-  "snapshot_date": "2026-11-16",
-  "last_recorded_publication_date": "2026-11-16",
-  "count": 307,
+  "snapshot_date": "2026-11-18",
+  "last_recorded_publication_date": "2026-11-17",
+  "count": 308,
   "records": [
     {
       "id": "SUB-001",
@@ -2169,6 +2169,16 @@
       "title": "AI Will Replace Tasks. The Negative Price Revolution Will Expose Who Refuses Accountability.",
       "subtitle": "",
       "url": "https://theminusoneguarantee.substack.com/p/ai-will-replace-tasks-the-negative",
+      "metadata_status": "provvisorio_da_verificare_con_mappa_editoriale",
+      "title_may_be_truncated": false,
+      "source": "public_github_sitemap"
+    },
+    {
+      "id": "SUB-308",
+      "date": "2026-11-17",
+      "title": "If You Keep Managing Problems Instead of Eliminating Them, You Are Managing Decline",
+      "subtitle": "",
+      "url": "https://theminusoneguarantee.substack.com/p/if-you-keep-managing-problems-instead",
       "metadata_status": "provvisorio_da_verificare_con_mappa_editoriale",
       "title_may_be_truncated": false,
       "source": "public_github_sitemap"
