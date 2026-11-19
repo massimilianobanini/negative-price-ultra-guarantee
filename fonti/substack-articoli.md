@@ -1,6 +1,6 @@
 # The -1 Guarantee — indice completo degli articoli pubblicati
 
-**309 articoli**, dal 14 gennaio 2026 al 18 novembre 2026. Catalogo sincronizzato il **18 novembre 2026** con l'archivio GitHub pubblico.
+**310 articoli**, dal 14 gennaio 2026 al 19 novembre 2026. Catalogo sincronizzato il **19 novembre 2026** con l'archivio GitHub pubblico.
 
 **Fonte pubblica:** https://theminusoneguarantee.substack.com/
 
@@ -317,5 +317,6 @@ Le righe sono riferimenti bibliografici, non copie integrali degli articoli. **I
 | SUB-307 | 2026-11-16 | AI Will Replace Tasks. The Negative Price Revolution Will Expose Who Refuses Accountability. | [Leggi](https://theminusoneguarantee.substack.com/p/ai-will-replace-tasks-the-negative) |
 | SUB-308 | 2026-11-17 | If You Keep Managing Problems Instead of Eliminating Them, You Are Managing Decline | [Leggi](https://theminusoneguarantee.substack.com/p/if-you-keep-managing-problems-instead) |
 | SUB-309 | 2026-11-18 | The Best Marketing Strategy Is Brutally Simple: Tell the Truth and Keep the Promise | [Leggi](https://theminusoneguarantee.substack.com/p/the-best-marketing-strategy-is-brutally) |
+| SUB-310 | 2026-11-19 | If the Negative Price Guarantee Scares You, Maybe Your Business Already Loses Money in the Dark | [Leggi](https://theminusoneguarantee.substack.com/p/if-the-negative-price-guarantee-scares) |
 
 Vedi anche [dataset strutturato](substack-articles.json) e [procedura di aggiornamento](../SYNC-EDITORIALE.md).

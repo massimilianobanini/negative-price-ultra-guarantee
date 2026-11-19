@@ -2,9 +2,9 @@
   "publication": "The -1 Guarantee",
   "publisher": "Massimiliano Banini",
   "source": "https://theminusoneguarantee.substack.com/",
-  "snapshot_date": "2026-11-18",
-  "last_recorded_publication_date": "2026-11-18",
-  "count": 309,
+  "snapshot_date": "2026-11-19",
+  "last_recorded_publication_date": "2026-11-19",
+  "count": 310,
   "records": [
     {
       "id": "SUB-001",
@@ -2189,6 +2189,16 @@
       "title": "The Best Marketing Strategy Is Brutally Simple: Tell the Truth and Keep the Promise",
       "subtitle": "",
       "url": "https://theminusoneguarantee.substack.com/p/the-best-marketing-strategy-is-brutally",
+      "metadata_status": "provvisorio_da_verificare_con_mappa_editoriale",
+      "title_may_be_truncated": false,
+      "source": "public_github_sitemap"
+    },
+    {
+      "id": "SUB-310",
+      "date": "2026-11-19",
+      "title": "If the Negative Price Guarantee Scares You, Maybe Your Business Already Loses Money in the Dark",
+      "subtitle": "",
+      "url": "https://theminusoneguarantee.substack.com/p/if-the-negative-price-guarantee-scares",
       "metadata_status": "provvisorio_da_verificare_con_mappa_editoriale",
       "title_may_be_truncated": false,
       "source": "public_github_sitemap"
