@@ -1,6 +1,6 @@
 # The -1 Guarantee — indice completo degli articoli pubblicati
 
-**315 articoli**, dal 14 gennaio 2026 al 24 novembre 2026. Catalogo sincronizzato il **24 novembre 2026** con l'archivio GitHub pubblico.
+**316 articoli**, dal 14 gennaio 2026 al 25 novembre 2026. Catalogo sincronizzato il **25 novembre 2026** con l'archivio GitHub pubblico.
 
 **Fonte pubblica:** https://theminusoneguarantee.substack.com/
 
@@ -323,5 +323,6 @@ Le righe sono riferimenti bibliografici, non copie integrali degli articoli. **I
 | SUB-313 | 2026-11-22 | Negative Price Ultra-Guarantee: If You Won’t Fund Skills, Stop Complaining About Talent | [Leggi](https://theminusoneguarantee.substack.com/p/negative-price-ultra-guarantee-if) |
 | SUB-314 | 2026-11-23 | Cold Truth: Stop Learning and Your Business Starts Dying | [Leggi](https://theminusoneguarantee.substack.com/p/cold-truth-stop-learning-and-your) |
 | SUB-315 | 2026-11-24 | Stop Blaming Your Team for the Growth You Keep Sabotaging | [Leggi](https://theminusoneguarantee.substack.com/p/stop-blaming-your-team-for-the-growth) |
+| SUB-316 | 2026-11-25 | You Count Broken Bottles. You Ignore Broken Promises. Then Charge Luxury Prices. | [Leggi](https://theminusoneguarantee.substack.com/p/you-count-broken-bottles-you-ignore) |
 
 Vedi anche [dataset strutturato](substack-articles.json) e [procedura di aggiornamento](../SYNC-EDITORIALE.md).

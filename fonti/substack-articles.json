@@ -2,9 +2,9 @@
   "publication": "The -1 Guarantee",
   "publisher": "Massimiliano Banini",
   "source": "https://theminusoneguarantee.substack.com/",
-  "snapshot_date": "2026-11-24",
-  "last_recorded_publication_date": "2026-11-24",
-  "count": 315,
+  "snapshot_date": "2026-11-25",
+  "last_recorded_publication_date": "2026-11-25",
+  "count": 316,
   "records": [
     {
       "id": "SUB-001",
@@ -2249,6 +2249,16 @@
       "title": "Stop Blaming Your Team for the Growth You Keep Sabotaging",
       "subtitle": "",
       "url": "https://theminusoneguarantee.substack.com/p/stop-blaming-your-team-for-the-growth",
+      "metadata_status": "provvisorio_da_verificare_con_mappa_editoriale",
+      "title_may_be_truncated": false,
+      "source": "public_github_sitemap"
+    },
+    {
+      "id": "SUB-316",
+      "date": "2026-11-25",
+      "title": "You Count Broken Bottles. You Ignore Broken Promises. Then Charge Luxury Prices.",
+      "subtitle": "",
+      "url": "https://theminusoneguarantee.substack.com/p/you-count-broken-bottles-you-ignore",
       "metadata_status": "provvisorio_da_verificare_con_mappa_editoriale",
       "title_may_be_truncated": false,
       "source": "public_github_sitemap"
