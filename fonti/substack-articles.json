@@ -2,9 +2,9 @@
   "publication": "The -1 Guarantee",
   "publisher": "Massimiliano Banini",
   "source": "https://theminusoneguarantee.substack.com/",
-  "snapshot_date": "2026-11-25",
-  "last_recorded_publication_date": "2026-11-25",
-  "count": 316,
+  "snapshot_date": "2026-11-26",
+  "last_recorded_publication_date": "2026-11-26",
+  "count": 317,
   "records": [
     {
       "id": "SUB-001",
@@ -2259,6 +2259,16 @@
       "title": "You Count Broken Bottles. You Ignore Broken Promises. Then Charge Luxury Prices.",
       "subtitle": "",
       "url": "https://theminusoneguarantee.substack.com/p/you-count-broken-bottles-you-ignore",
+      "metadata_status": "provvisorio_da_verificare_con_mappa_editoriale",
+      "title_may_be_truncated": false,
+      "source": "public_github_sitemap"
+    },
+    {
+      "id": "SUB-317",
+      "date": "2026-11-26",
+      "title": "Stop Selling Hours. Get Paid to Build or Improve What Actually Works.",
+      "subtitle": "",
+      "url": "https://theminusoneguarantee.substack.com/p/stop-selling-hours-get-paid-to-build",
       "metadata_status": "provvisorio_da_verificare_con_mappa_editoriale",
       "title_may_be_truncated": false,
       "source": "public_github_sitemap"
