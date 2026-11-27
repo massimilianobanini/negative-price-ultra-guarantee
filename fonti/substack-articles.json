@@ -2,9 +2,9 @@
   "publication": "The -1 Guarantee",
   "publisher": "Massimiliano Banini",
   "source": "https://theminusoneguarantee.substack.com/",
-  "snapshot_date": "2026-11-26",
-  "last_recorded_publication_date": "2026-11-26",
-  "count": 317,
+  "snapshot_date": "2026-11-27",
+  "last_recorded_publication_date": "2026-11-27",
+  "count": 318,
   "records": [
     {
       "id": "SUB-001",
@@ -2269,6 +2269,16 @@
       "title": "Stop Selling Hours. Get Paid to Build or Improve What Actually Works.",
       "subtitle": "",
       "url": "https://theminusoneguarantee.substack.com/p/stop-selling-hours-get-paid-to-build",
+      "metadata_status": "provvisorio_da_verificare_con_mappa_editoriale",
+      "title_may_be_truncated": false,
+      "source": "public_github_sitemap"
+    },
+    {
+      "id": "SUB-318",
+      "date": "2026-11-27",
+      "title": "Stop Blaming the Market for a Business You Refuse to Fix",
+      "subtitle": "",
+      "url": "https://theminusoneguarantee.substack.com/p/stop-blaming-the-market-for-a-business",
       "metadata_status": "provvisorio_da_verificare_con_mappa_editoriale",
       "title_may_be_truncated": false,
       "source": "public_github_sitemap"

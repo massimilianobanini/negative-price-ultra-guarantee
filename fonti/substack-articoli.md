@@ -1,6 +1,6 @@
 # The -1 Guarantee — indice completo degli articoli pubblicati
 
-**317 articoli**, dal 14 gennaio 2026 al 26 novembre 2026. Catalogo sincronizzato il **26 novembre 2026** con l'archivio GitHub pubblico.
+**318 articoli**, dal 14 gennaio 2026 al 27 novembre 2026. Catalogo sincronizzato il **27 novembre 2026** con l'archivio GitHub pubblico.
 
 **Fonte pubblica:** https://theminusoneguarantee.substack.com/
 
@@ -325,5 +325,6 @@ Le righe sono riferimenti bibliografici, non copie integrali degli articoli. **I
 | SUB-315 | 2026-11-24 | Stop Blaming Your Team for the Growth You Keep Sabotaging | [Leggi](https://theminusoneguarantee.substack.com/p/stop-blaming-your-team-for-the-growth) |
 | SUB-316 | 2026-11-25 | You Count Broken Bottles. You Ignore Broken Promises. Then Charge Luxury Prices. | [Leggi](https://theminusoneguarantee.substack.com/p/you-count-broken-bottles-you-ignore) |
 | SUB-317 | 2026-11-26 | Stop Selling Hours. Get Paid to Build or Improve What Actually Works. | [Leggi](https://theminusoneguarantee.substack.com/p/stop-selling-hours-get-paid-to-build) |
+| SUB-318 | 2026-11-27 | Stop Blaming the Market for a Business You Refuse to Fix | [Leggi](https://theminusoneguarantee.substack.com/p/stop-blaming-the-market-for-a-business) |
 
 Vedi anche [dataset strutturato](substack-articles.json) e [procedura di aggiornamento](../SYNC-EDITORIALE.md).
